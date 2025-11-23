@@ -1,0 +1,792 @@
+[
+    {
+        "question": "Câu 1: Thuật toán là gì?",
+        "options": [
+            " Một ngôn ngữ lập trình",
+            " Một tập hợp trình tự các hướng dẫn rõ ràng để giải quyết một vấn đề",
+            " Một công cụ phần mềm để phát triển ứng dụng",
+            " Một loại cấu trúc dữ liệu"
+        ],
+        "correct_answer": " Một tập hợp trình tự các hướng dẫn rõ ràng để giải quyết một vấn đề"
+    },
+    {
+        "question": "Câu 2: Thuật toán sắp xếp nổi bọt (Bubble Sort) có độ phức tạp thời gian tốt nhất là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 3: Độ phức tạp thời gian của thuật toán sắp xếp chèn (Insertion Sort) trong trường hợp tốt nhất là gì?",
+        "options": [
+            " O(n log n)",
+            " O(n^2)",
+            " O(n)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 4: Thuật toán tìm kiếm tuần tự (Linear Search) hoạt động như thế nào trên một mảng?",
+        "options": [
+            " So sánh từng phần tử với phần tử đầu tiên",
+            " So sánh từng phần tử với phần tử cuối cùng",
+            " So sánh từng phần tử với phần tử trước nó",
+            " So sánh từng phần tử với phần tử mục tiêu"
+        ],
+        "correct_answer": " So sánh từng phần tử với phần tử mục tiêu"
+    },
+    {
+        "question": "Câu 5: Danh sách sử dụng mảng (Array List) có thể thay đổi kích thước mảng nội bộ của nó khi nào?",
+        "options": [
+            " Khi danh sách được khởi tạo",
+            " Khi danh sách bị tràn",
+            " Khi có yêu cầu thay đổi kích thước",
+            " Không thể thay đổi kích thước"
+        ],
+        "correct_answer": " Khi có yêu cầu thay đổi kích thước"
+    },
+    {
+        "question": "Câu 6: Danh sách liên kết là cấu trúc dữ liệu gồm các gì?",
+        "options": [
+            " Các phần tử được lưu trữ dưới dạng mảng",
+            " Các phần tử được kết nối với nhau bằng các con trỏ",
+            " Các phần tử được sắp xếp theo thứ tự tăng dần",
+            " Các phần tử được lưu trữ trong một hàng đợi"
+        ],
+        "correct_answer": " Các phần tử được kết nối với nhau bằng các con trỏ"
+    },
+    {
+        "question": "Câu 7: Ngăn xếp (Stack) là cấu trúc dữ liệu có tính chất gì?",
+        "options": [
+            " FIFO (First In, First Out)",
+            " LIFO (Last In, First Out)",
+            " Random",
+            " Các phần tử không có thứ tự"
+        ],
+        "correct_answer": " LIFO (Last In, First Out)"
+    },
+    {
+        "question": "Câu 8: Hàng đợi (Queue) là cấu trúc dữ liệu có tính chất gì?",
+        "options": [
+            " FIFO (First In, First Out)",
+            " LIFO (Last In, First Out)",
+            " Random",
+            " Các phần tử không có thứ tự"
+        ],
+        "correct_answer": " FIFO (First In, First Out)"
+    },
+    {
+        "question": "Câu 9: Cây (Tree) trong cấu trúc dữ liệu là gì?",
+        "options": [
+            " Một cấu trúc dữ liệu tuyến tính",
+            " Một cấu trúc dữ liệu phi tuyến tính và phân cấp",
+            " Một loại đồ thị vô hướng",
+            " Một loại đồ thị có hướng"
+        ],
+        "correct_answer": " Một cấu trúc dữ liệu phi tuyến tính và phân cấp"
+    },
+    {
+        "question": "Câu 10: Danh sách các con của một nút trong cây là gì?",
+        "options": [
+            " Danh sách chứa cha của nút",
+            " Danh sách chứa tất cả các con của nút đó",
+            " Danh sách chứa tất cả các anh chị em của nút đó",
+            " Danh sách chứa tất cả các nút lá"
+        ],
+        "correct_answer": " Danh sách chứa tất cả các con của nút đó"
+    },
+    {
+        "question": "Câu 11: Đặc điểm nào sau đây không phải là đặc trưng của một thuật toán tốt?",
+        "options": [
+            " Tính đúng đắn",
+            " Tính hiệu quả",
+            " Tính xác định",
+            " Tính liên thông"
+        ],
+        "correct_answer": " Tính liên thông"
+    },
+    {
+        "question": "Câu 12: Thuật toán sắp xếp chèn (Insertion Sort) hoạt động tốt nhất trên kiểu dữ liệu nào?",
+        "options": [
+            " Mảng ngẫu nhiên",
+            " Mảng đã sắp xếp",
+            " Mảng hoàn toàn đảo ngược",
+            " Mảng với các phần tử giống nhau"
+        ],
+        "correct_answer": " Mảng đã sắp xếp"
+    },
+    {
+        "question": "Câu 13: Thuật toán sắp xếp chèn (Insertion Sort) hoạt động tốt nhất trên kiểu dữ liệu nào?",
+        "options": [
+            " Mảng ngẫu nhiên",
+            " Mảng đã sắp xếp",
+            " Mảng hoàn toàn đảo ngược",
+            " Mảng với các phần tử giống nhau"
+        ],
+        "correct_answer": " Mảng đã sắp xếp"
+    },
+    {
+        "question": "Câu 14: Độ phức tạp thời gian của thuật toán tìm kiếm tuần tự (Linear Search) là bao nhiêu trong trường hợp xấu nhất?",
+        "options": [
+            " O(n)",
+            " O(log n)",
+            " O(n^2)",
+            " O(1)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 15: Độ phức tạp thời gian của việc truy cập phần tử trong danh sách sử dụng mảng là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 16: Độ phức tạp thời gian của việc truy cập vào phần tử ở vị trí bất kỳ trong danh sách liên kết đơn  là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 17: Trong ngăn xếp, thao tác thêm phần tử mới được gọi là gì?",
+        "options": [
+            " Pop",
+            " Peek",
+            " Push",
+            " Pull"
+        ],
+        "correct_answer": " Push"
+    },
+    {
+        "question": "Câu 18: Độ phức tạp thời gian của thao tác enqueue trên hàng đợi là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 19: Gốc của một cây là gì?",
+        "options": [
+            " Nút không có cha",
+            " Nút có hai con",
+            " Nút không có con",
+            " Nút có nhiều nhất hai cha"
+        ],
+        "correct_answer": " Nút không có cha"
+    },
+    {
+        "question": "Câu 20: Trong danh sách các con, mỗi phần tử của danh sách chứa thông tin gì?",
+        "options": [
+            " Chỉ số của nút cha",
+            " Tên của nút cha",
+            " Con trỏ hoặc chỉ số đến các nút con",
+            " Số lượng các con"
+        ],
+        "correct_answer": " Con trỏ hoặc chỉ số đến các nút con"
+    },
+    {
+        "question": "Câu 21: Phân tích độ phức tạp thời gian của thuật toán giúp làm gì?",
+        "options": [
+            " Xác định độ chính xác của thuật toán",
+            " Đánh giá hiệu suất của thuật toán",
+            " Xác định cách sử dụng bộ nhớ",
+            " Xác định ngôn ngữ lập trình"
+        ],
+        "correct_answer": " Đánh giá hiệu suất của thuật toán"
+    },
+    {
+        "question": "Câu 22: Độ phức tạp thời gian trung bình của thuật toán sắp xếp trộn (Merge Sort) là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n log n)"
+    },
+    {
+        "question": "Câu 23: Thuật toán sắp xếp chèn (Insertion Sort) là một thuật toán:",
+        "options": [
+            " Dựa trên so sánh",
+            " Không dựa trên so sánh",
+            " Phân chia và chinh phục",
+            " Sắp xếp ngoài"
+        ],
+        "correct_answer": " Dựa trên so sánh"
+    },
+    {
+        "question": "Câu 24: Thuật toán tìm kiếm tuần tự (Linear Search) tìm kiếm các phần tử như thế nào?",
+        "options": [
+            " Theo thứ tự ngẫu nhiên",
+            " Theo thứ tự ngược",
+            " Theo thứ tự tăng dần",
+            " Theo thứ tự giảm dần"
+        ],
+        "correct_answer": " Theo thứ tự ngẫu nhiên"
+    },
+    {
+        "question": "Câu 25: Trong danh sách sử dụng mảng, việc chèn một phần tử vào vị trí cuối cùng có độ phức tạp thời gian là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 26: Trong danh sách liên kết đơn, con trỏ của phần tử cuối cùng trỏ đến đâu?",
+        "options": [
+            " NULL",
+            " Phần tử đầu tiên",
+            " Phần tử cuối cùng",
+            " Không có con trỏ nào"
+        ],
+        "correct_answer": " NULL"
+    },
+    {
+        "question": "Câu 27: Khi thực hiện phép toán push trên ngăn xếp rỗng, điều gì xảy ra?",
+        "options": [
+            " Ngăn xếp trống",
+            " Phần tử được đưa vào đầu ngăn xếp",
+            " Phần tử được đưa vào cuối ngăn xếp",
+            " Phần tử được đưa vào trung tâm ngăn xếp"
+        ],
+        "correct_answer": " Phần tử được đưa vào đầu ngăn xếp"
+    },
+    {
+        "question": "Câu 28: Độ phức tạp thời gian của thao tác delqueue trên hàng đợi là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 29: Nút lá của một cây là gì?",
+        "options": [
+            " Nút không có cha",
+            " Nút có hai con",
+            " Nút không có con",
+            " Nút có nhiều nhất hai cha"
+        ],
+        "correct_answer": " Nút không có con"
+    },
+    {
+        "question": "Câu 30: Lợi ích chính của việc sử dụng danh sách các con để biểu diễn cây là gì?",
+        "options": [
+            " Dễ dàng tìm kiếm nút cha",
+            " Tiết kiệm không gian bộ nhớ",
+            " Dễ dàng thêm và xóa các nút con",
+            " Dễ dàng duyệt cây theo thứ tự trước"
+        ],
+        "correct_answer": " Dễ dàng thêm và xóa các nút con"
+    },
+    {
+        "question": "Câu 31: Thuật toán \"chia để trị\" (Divide and Conquer) bao gồm các bước nào?",
+        "options": [
+            " Chia nhỏ vấn đề, giải quyết các vấn đề con, kết hợp kết quả",
+            " Sắp xếp dữ liệu, tìm kiếm phần tử",
+            " Lưu trữ dữ liệu, truy cập dữ liệu",
+            " Phân tích, thiết kế, cài đặt"
+        ],
+        "correct_answer": " Chia nhỏ vấn đề, giải quyết các vấn đề con, kết hợp kết quả"
+    },
+    {
+        "question": "Câu 32: Trong thuật toán sắp xếp chọn (sắp xếp tăng), phần tử nhỏ nhất từ phần chưa sắp xếp sẽ được đặt ở đâu?",
+        "options": [
+            " Vị trí đầu tiên của phần đã sắp xếp",
+            " Vị trí cuối cùng của phần đã sắp xếp",
+            " Vị trí giữa của mảng",
+            " Vị trí cuối cùng của phần chưa sắp xếp"
+        ],
+        "correct_answer": " Vị trí cuối cùng của phần đã sắp xếp"
+    },
+    {
+        "question": "Câu 33: Độ phức tạp thời gian của thuật toán sắp xếp chèn (Insertion Sort) trong trường hợp xấu nhất là gì?",
+        "options": [
+            " O(n log n)",
+            " O(n^2)",
+            " O(n)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n^2)"
+    },
+    {
+        "question": "Câu 34: Độ phức tạp thời gian của thuật toán tìm kiếm tuần tự (Linear Search) trong trường hợp tốt nhất là bao nhiêu?",
+        "options": [
+            " O(n)",
+            " O(log n)",
+            " O(n^2)",
+            " O(1)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 35: Khi xóa một phần tử từ danh sách sử dụng mảng, việc đảm bảo tính liên tục (contiguity) của mảng được thực hiện như thế nào?",
+        "options": [
+            " Di chuyển tất cả các phần tử sau phần tử bị xóa lên trên",
+            " Đặt một giá trị đặc biệt thay thế phần tử bị xóa",
+            " Đẩy tất cả các phần tử sau phần tử bị xóa sang trái",
+            " Không cần đảm bảo tính liên tục"
+        ],
+        "correct_answer": " Di chuyển tất cả các phần tử sau phần tử bị xóa lên trên"
+    },
+    {
+        "question": "Câu 36: Danh sách liên kết có thể chứa các phần tử có kiểu dữ liệu như thế nào?",
+        "options": [
+            " Chỉ kiểu số nguyên",
+            " Chỉ kiểu số thực",
+            " Bất kỳ kiểu dữ liệu nào",
+            " Chỉ kiểu ký tự"
+        ],
+        "correct_answer": " Bất kỳ kiểu dữ liệu nào"
+    },
+    {
+        "question": "Câu 37: Thao tác pop trên ngăn xếp làm gì?",
+        "options": [
+            " Xóa phần tử ở đầu ngăn xếp",
+            " Xóa phần tử ở cuối ngăn xếp",
+            " Xóa phần tử ở trung tâm ngăn xếp",
+            " Không làm gì"
+        ],
+        "correct_answer": " Xóa phần tử ở đầu ngăn xếp"
+    },
+    {
+        "question": "Câu 38: Hàng đợi có thể được triển khai bằng cách nào sau đây?",
+        "options": [
+            " Mảng (A)",
+            " Danh sách liên kết (B)",
+            " Cây nhị phân (C)",
+            " Cả A và B"
+        ],
+        "correct_answer": " Cả A và B"
+    },
+    {
+        "question": "Câu 39: Nút trong của một cây là gì?",
+        "options": [
+            " Nút không có cha",
+            " Nút có con và cha",
+            " Nút không có con",
+            " Nút có nhiều nhất hai cha"
+        ],
+        "correct_answer": " Nút có con và cha"
+    },
+    {
+        "question": "Câu 40: Khi sử dụng danh sách các con, thao tác duyệt cây theo thứ tự trước (pre-order traversal) thực hiện như thế nào?",
+        "options": [
+            " Duyệt nút gốc trước, sau đó duyệt từng danh sách con của nó",
+            " Duyệt các danh sách con trước, sau đó mới duyệt nút gốc",
+            " Duyệt từng danh sách con trước, sau đó duyệt nút gốc",
+            " Duyệt các danh sách con và nút gốc đồng thời"
+        ],
+        "correct_answer": " Duyệt nút gốc trước, sau đó duyệt từng danh sách con của nó"
+    },
+    {
+        "question": "Câu 41: Tại sao việc chọn thuật toán phù hợp lại quan trọng trong lập trình?",
+        "options": [
+            " Để đảm bảo tính chính xác của kết quả",
+            " Để tối ưu hóa thời gian và không gian",
+            " Để dễ dàng bảo trì mã nguồn",
+            " Tất cả các đáp án trên"
+        ],
+        "correct_answer": " Tất cả các đáp án trên"
+    },
+    {
+        "question": "Câu 42: Độ phức tạp thời gian của thuật toán sắp xếp chọn (Selection Sort) trong trường xấu nhất là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n^2)"
+    },
+    {
+        "question": "Câu 43: Thuật toán sắp xếp chèn (Insertion Sort) hoạt động như thế nào?",
+        "options": [
+            " So sánh và hoán đổi các phần tử liền kề",
+            " Tìm phần tử nhỏ nhất và hoán đổi với phần tử đầu tiên",
+            " Chèn phần tử vào vị trí đúng trong phần đã sắp xếp",
+            " Chia mảng thành hai phần và sắp xếp từng phần"
+        ],
+        "correct_answer": " Chèn phần tử vào vị trí đúng trong phần đã sắp xếp"
+    },
+    {
+        "question": "Câu 44: Thuật toán tìm kiếm tuần tự (Linear Search) có thể áp dụng cho các tập dữ liệu nào?",
+        "options": [
+            " Chỉ dữ liệu số nguyên",
+            " Chỉ dữ liệu thực (float)",
+            " Bất kỳ tập dữ liệu nào",
+            " Chỉ dữ liệu ký tự"
+        ],
+        "correct_answer": " Bất kỳ tập dữ liệu nào"
+    },
+    {
+        "question": "Câu 45: Danh sách sử dụng mảng có thể chứa các phần tử có kiểu dữ liệu như thế nào?",
+        "options": [
+            " Chỉ kiểu số nguyên",
+            " Chỉ kiểu số thực",
+            " Bất kỳ kiểu dữ liệu nào",
+            " Chỉ kiểu ký tự"
+        ],
+        "correct_answer": " Bất kỳ kiểu dữ liệu nào"
+    },
+    {
+        "question": "Câu 46: Trong danh sách liên kết đơn, để chèn một phần tử vào vị trí bất kỳ, độ phức tạp thời gian là bao nhiêu trong trường hợp tốt nhất?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 47: Độ phức tạp thời gian của thao tác pop trên ngăn xếp là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 48: Trong hàng đợi, thao tác isEmpty dùng để làm gì?",
+        "options": [
+            " Kiểm tra xem hàng đợi có rỗng hay không",
+            " Kiểm tra xem hàng đợi có đầy hay không",
+            " Kiểm tra xem phần tử đầu hàng đợi là gì",
+            " Kiểm tra xem phần tử cuối hàng đợi là gì"
+        ],
+        "correct_answer": " Kiểm tra xem hàng đợi có rỗng hay không"
+    },
+    {
+        "question": "Câu 49: Trong một cây nhị phân, mỗi nút có tối đa bao nhiêu con?",
+        "options": [
+            " Một",
+            " Hai",
+            " Ba",
+            " Bốn"
+        ],
+        "correct_answer": " Hai"
+    },
+    {
+        "question": "Câu 50: Độ phức tạp thời gian trung bình của thao tác thêm một nút con vào cây khi sử dụng danh sách các con là gì?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n log n)"
+        ],
+        "correct_answer": " O(1)"
+    },
+    {
+        "question": "Câu 51: Chương trình con hàm đệ quy là gì?",
+        "options": [
+            " Một hàm gọi lại chính nó",
+            " Một vòng lặp lồng nhau",
+            " Một thuật toán sắp xếp",
+            " Một cấu trúc dữ liệu"
+        ],
+        "correct_answer": " Một hàm gọi lại chính nó"
+    },
+    {
+        "question": "Câu 52: Thuật toán sắp xếp nổi bọt (Bubble Sort) có độ phức tạp thời gian trong trường hợp xấu nhất là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n^2)"
+    },
+    {
+        "question": "Câu 53: Đối với một mảng đã sắp xếp ngược lại, độ phức tạp thời gian của thuật toán sắp xếp chèn (Insertion Sort) là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n^2)"
+    },
+    {
+        "question": "Câu 54: Thuật toán tìm kiếm tuần tự (Linear Search) có thể dừng khi nào?",
+        "options": [
+            " Khi tìm thấy phần tử mục tiêu hoặc duyệt hết mảng mà không tìm thấy phần tử mục tiêu",
+            " Khi đã duyệt hết tất cả các phần tử trong mảng",
+            " Khi phần tử mục tiêu là phần tử cuối cùng trong mảng",
+            " Khi phần tử mục tiêu là phần tử đầu tiên trong mảng"
+        ],
+        "correct_answer": " Khi tìm thấy phần tử mục tiêu hoặc duyệt hết mảng mà không tìm thấy phần tử mục tiêu"
+    },
+    {
+        "question": "Câu 55: Để truy cập vào phần tử ở vị trí bất kỳ trong danh sách sử dụng mảng, ta cần biết:",
+        "options": [
+            " Vị trí của phần tử (A)",
+            " Giá trị của phần tử (B)",
+            " Độ dài của danh sách ©",
+            " Cả A và C"
+        ],
+        "correct_answer": " Vị trí của phần tử (A)"
+    },
+    {
+        "question": "Câu 56: Việc thêm một phần tử vào cuối danh sách liên kết đơn được quản lý bởi con trỏ đầu có độ phức tạp thời gian là bao nhiêu?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 57: Ngăn xếp có thể được triển khai bằng cách nào sau đây?",
+        "options": [
+            " Mảng (A)",
+            " Danh sách liên kết (B)",
+            " Cây nhị phân (C)",
+            " Cả A và B"
+        ],
+        "correct_answer": " Cả A và B"
+    },
+    {
+        "question": "Câu 58: Hàng đợi có thể được sử dụng để giải quyết các bài toán nào sau đây?",
+        "options": [
+            " Quản lý tiến trình trong hệ điều hành",
+            " Lưu trữ các trang web trong trình duyệt",
+            " Quản lý tiến trình trong hệ điều hành và Lưu trữ các trang web trong trình duyệt",
+            " Không thể sử dụng hàng đợi trong các bài toán này"
+        ],
+        "correct_answer": " Quản lý tiến trình trong hệ điều hành và Lưu trữ các trang web trong trình duyệt"
+    },
+    {
+        "question": "Câu 59: Độ cao của một cây (height of a tree) được định nghĩa là gì?",
+        "options": [
+            " Số nút trên cây",
+            " Số cạnh từ nút gốc đến nút xa nhất",
+            " Số con của nút gốc",
+            " Số lá của cây"
+        ],
+        "correct_answer": " Số cạnh từ nút gốc đến nút xa nhất"
+    },
+    {
+        "question": "Câu 60: Để tìm nút cha của một nút trong cây khi sử dụng danh sách các con, ta cần thực hiện gì?",
+        "options": [
+            " Duyệt tất cả các nút trong cây",
+            " Truy cập trực tiếp thông qua con trỏ",
+            " Duyệt danh sách các con của từng nút",
+            " Không thể tìm được nút cha"
+        ],
+        "correct_answer": " Duyệt danh sách các con của từng nút"
+    },
+    {
+        "question": "Câu 61: Điều kiện cơ sở (base case) trong đệ quy là gì?",
+        "options": [
+            " Điều kiện dừng của đệ quy",
+            " Điều kiện để tiếp tục đệ quy",
+            " Điều kiện để khởi tạo đệ quy",
+            " Điều kiện để quay lại bước trước"
+        ],
+        "correct_answer": " Điều kiện dừng của đệ quy"
+    },
+    {
+        "question": "Câu 62: Đối với một mảng đã sắp xếp ngược lại, độ phức tạp thời gian của thuật toán sắp xếp nổi bọt (Bubble Sort) là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n^2)"
+    },
+    {
+        "question": "Câu 63: Trong thuật toán sắp xếp chèn (Insertion Sort), mỗi phần tử được chèn vào vị trí đúng của nó trong phần nào của mảng?",
+        "options": [
+            " Phần cuối chưa sắp xếp",
+            " Phần giữa chưa sắp xếp",
+            " Phần đã sắp xếp",
+            " Phần đầu chưa sắp xếp"
+        ],
+        "correct_answer": " Phần đã sắp xếp"
+    },
+    {
+        "question": "Câu 64: Thuật toán tìm kiếm tuần tự (Linear Search) có thể được sử dụng để tìm kiếm phần tử nào trong một mảng?",
+        "options": [
+            " Chỉ phần tử lớn nhất",
+            " Chỉ phần tử nhỏ nhất",
+            " Bất kỳ phần tử nào",
+            " Phần tử ở vị trí ngẫu nhiên"
+        ],
+        "correct_answer": " Bất kỳ phần tử nào"
+    },
+    {
+        "question": "Câu 65: Trong danh sách sử dụng mảng, thao tác chèn một phần tử vào vị trí bất kỳ có độ phức tạp thời gian là bao nhiêu trong trường hợp xấu nhất?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 66: Khi xóa một phần tử từ danh sách liên kết đơn, thì:",
+        "options": [
+            " Không cần thay đổi gì",
+            " Cần cập nhật con trỏ của phần tử trước phần tử bị xóa",
+            " Cần cập nhật con trỏ của phần tử sau phần tử bị xóa",
+            " Cần thực hiện việc di chuyển tất cả các phần tử sau lên trên"
+        ],
+        "correct_answer": " Cần cập nhật con trỏ của phần tử trước phần tử bị xóa"
+    },
+    {
+        "question": "Câu 67: Trong ngăn xếp, thao tác isEmpty dùng để làm gì?",
+        "options": [
+            " Kiểm tra xem ngăn xếp có rỗng hay không",
+            " Kiểm tra xem ngăn xếp có đầy hay không",
+            " Kiểm tra xem phần tử đầu ngăn xếp là gì",
+            " Kiểm tra xem phần tử cuối ngăn xếp là gì"
+        ],
+        "correct_answer": " Kiểm tra xem ngăn xếp có rỗng hay không"
+    },
+    {
+        "question": "Câu 68: Trong hàng đợi, thao tác thêm phần tử thường thực hiện ở đâu?",
+        "options": [
+            " Đầu hàng đợi",
+            " Cuối hàng đợi",
+            " Trung tâm hàng đợi",
+            " Đầu hàng đợi và cuối hàng đợi"
+        ],
+        "correct_answer": " Cuối hàng đợi"
+    },
+    {
+        "question": "Câu 69: Phép duyệt cây theo thứ tự trước (pre-order traversal) là gì?",
+        "options": [
+            " Duyệt nút gốc, duyệt cây con trái, duyệt cây con phải",
+            " Duyệt cây con trái, duyệt nút gốc, duyệt cây con phải",
+            " Duyệt cây con trái, duyệt cây con phải, duyệt nút gốc",
+            " Duyệt cây con phải, duyệt cây con trái, duyệt nút gốc"
+        ],
+        "correct_answer": " Duyệt nút gốc, duyệt cây con trái, duyệt cây con phải"
+    },
+    {
+        "question": "Câu 70: Trong biểu diễn cây bởi con trưởng và em liền kề, con trưởng là gì?",
+        "options": [
+            " Nút đầu tiên trong danh sách các con của một nút",
+            " Nút cuối cùng trong danh sách các con của một nút",
+            " Nút cha của tất cả các con",
+            " Nút nằm liền kề sau nút cha"
+        ],
+        "correct_answer": " Nút đầu tiên trong danh sách các con của một nút"
+    },
+    {
+        "question": "Câu 71: Độ phức tạp thời gian của thuật toán sắp xếp chèn (Insertion Sort) trong trường hợp tốt nhất là gì?",
+        "options": [
+            " O(n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(log n)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 72: Thuật toán sắp xếp chọn (Selection Sort) hoạt động dựa trên nguyên lý gì?",
+        "options": [
+            " Nguyên lý chia để trị",
+            " Nguyên lý so sánh và hoán đổi",
+            " Nguyên lý chọn phần tử pivot",
+            " Nguyên lý phân chia mảng"
+        ],
+        "correct_answer": " Nguyên lý so sánh và hoán đổi"
+    },
+    {
+        "question": "Câu 73: Thuật toán tìm kiếm nhị phân (Binary Search) hoạt động như thế nào trên một mảng đã được sắp xếp?",
+        "options": [
+            " So sánh từng phần tử với phần tử đầu tiên",
+            " So sánh từng phần tử với phần tử cuối cùng",
+            " So sánh từng phần tử với phần tử trước nó",
+            " So sánh từng phần tử với phần tử mục tiêu"
+        ],
+        "correct_answer": " So sánh từng phần tử với phần tử mục tiêu"
+    },
+    {
+        "question": "Câu 74: Danh sách sử dụng mảng có thể có số lượng phần tử tối đa là bao nhiêu?",
+        "options": [
+            " Phụ thuộc vào hệ điều hành",
+            " Phụ thuộc vào kiến trúc của CPU",
+            " Độ dài của danh sách",
+            " Có giới hạn, phụ thuộc vào kích thước của mảng"
+        ],
+        "correct_answer": " Có giới hạn, phụ thuộc vào kích thước của mảng"
+    },
+    {
+        "question": "Câu 75: Để tìm kiếm một phần tử trong danh sách liên kết đơn, độ phức tạp thời gian là bao nhiêu trong trường hợp xấu nhất?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n^2)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 76: Ngăn xếp có thể được sử dụng trong việc xử lý biểu thức toán học vì:",
+        "options": [
+            " Ngăn xếp có khả năng lưu trữ số thực",
+            " Ngăn xếp có khả năng lưu trữ ký tự đặc biệt",
+            " Ngăn xếp hỗ trợ thao tác tính toán các biểu thức tiền tố (prefix)",
+            " Ngăn xếp có thể lưu trữ bất kỳ dữ liệu nào"
+        ],
+        "correct_answer": " Ngăn xếp hỗ trợ thao tác tính toán các biểu thức tiền tố (prefix)"
+    },
+    {
+        "question": "Câu 77: Trong hàng đợi, thao tác dequeue thường thực hiện ở đâu?",
+        "options": [
+            " Đầu hàng đợi (A)",
+            " Cuối hàng đợi (B)",
+            " Trung tâm hàng đợi (C)",
+            " Cả A và B"
+        ],
+        "correct_answer": " Đầu hàng đợi (A)"
+    },
+    {
+        "question": "Câu 78: Phép duyệt cây theo thứ tự giữa (in-order traversal) là gì?",
+        "options": [
+            " Duyệt nút gốc, duyệt cây con trái, duyệt cây con phải",
+            " Duyệt cây con trái, duyệt nút gốc, duyệt cây con phải",
+            " Duyệt cây con trái, duyệt cây con phải, duyệt nút gốc",
+            " Duyệt cây con phải, duyệt cây con trái, duyệt nút gốc"
+        ],
+        "correct_answer": " Duyệt cây con trái, duyệt nút gốc, duyệt cây con phải"
+    },
+    {
+        "question": "Câu 79: Trong biểu diễn cây bởi con trưởng và em liền kề, mỗi nút cần lưu trữ thông tin gì?",
+        "options": [
+            " Con trỏ đến con trưởng và con trỏ đến em liền kề",
+            " Con trỏ đến cha và con trỏ đến em liền kề",
+            " Con trỏ đến con trưởng và con trỏ đến cha",
+            " Con trỏ đến cha và con trỏ đến con trưởng"
+        ],
+        "correct_answer": " Con trỏ đến con trưởng và con trỏ đến em liền kề"
+    }
+]

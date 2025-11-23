@@ -1,0 +1,562 @@
+[
+    {
+        "question": "Câu 1: Trong cây nhị phân, nút lá là gì?",
+        "options": [
+            " Nút có không quá hai con",
+            " Nút không có con",
+            " Nút có một con",
+            " Nút có hai con"
+        ],
+        "correct_answer": " Nút không có con"
+    },
+    {
+        "question": "Câu 2: Phương pháp duyệt cây nào duyệt nút gốc trước, sau đó đến cây con trái và cuối cùng là cây con phải?",
+        "options": [
+            " Duyệt theo thứ tự giữa(in-order traversal)",
+            " Duyệt theo thứ tự sau (post-order traversal)",
+            " Duyệt theo thứ tự trước(pre-order traversal)",
+            " Duyệt theo chiều rộng (level-order traversal)"
+        ],
+        "correct_answer": " Duyệt theo thứ tự trước(pre-order traversal)"
+    },
+    {
+        "question": "Câu 3: Trong cây nhị phân tìm kiếm, giá trị của nút con trái luôn:",
+        "options": [
+            " Lớn hơn giá trị của nút gốc",
+            " Nhỏ hơn giá trị của nút gốc",
+            " Bằng giá trị của nút gốc",
+            " Không xác định được"
+        ],
+        "correct_answer": " Nhỏ hơn giá trị của nút gốc"
+    },
+    {
+        "question": "Câu 4: Trong duyệt đồ thị theo chiều rộng, nút đầu tiên được thêm vào hàng đợi là:",
+        "options": [
+            " Nút bất kỳ",
+            " Nút cuối cùng",
+            " Nút gốc",
+            " Nút lá"
+        ],
+        "correct_answer": " Nút gốc"
+    },
+    {
+        "question": "Câu 5: Một vector bit là gì?",
+        "options": [
+            " Một mảng các số nguyên",
+            " Một mảng các ký tự",
+            " Một mảng các bit",
+            " Một danh sách các con trỏ"
+        ],
+        "correct_answer": " Một mảng các bit"
+    },
+    {
+        "question": "Câu 6: Bảng băm (hash table) là gì?",
+        "options": [
+            " Một cấu trúc dữ liệu cây nhị phân",
+            " Một cấu trúc dữ liệu lưu trữ dữ liệu theo cặp khóa-giá trị",
+            " Một mảng các số nguyên",
+            " Một danh sách các con trỏ"
+        ],
+        "correct_answer": " Một cấu trúc dữ liệu lưu trữ dữ liệu theo cặp khóa-giá trị"
+    },
+    {
+        "question": "Câu 7: Trong cấu trúc dữ liệu biểu diễn cây nhị phân bằng con trỏ, mỗi nút thường có bao nhiêu con trỏ?",
+        "options": [
+            " 1",
+            " 2",
+            " 3",
+            " 4"
+        ],
+        "correct_answer": " 2"
+    },
+    {
+        "question": "Câu 8: Phương pháp duyệt cây nào duyệt cây con trái trước, sau đó đến nút gốc và cuối cùng là cây con phải?",
+        "options": [
+            " Duyệt theo thứ tự trước (pre-order traversal)",
+            " Duyệt theo thứ tự giữa (in-order traversal)",
+            " Duyệt theo thứ tự sau (post-order traversal)",
+            " Duyệt theo chiều rộng (level-order traversal)"
+        ],
+        "correct_answer": " Duyệt theo thứ tự giữa (in-order traversal)"
+    },
+    {
+        "question": "Câu 9: Trong cây nhị phân tìm kiếm, giá trị của nút con phải luôn:",
+        "options": [
+            " Lớn hơn giá trị của nút gốc",
+            " Nhỏ hơn giá trị của nút gốc",
+            " Bằng giá trị của nút gốc",
+            " Không xác định được"
+        ],
+        "correct_answer": " Lớn hơn giá trị của nút gốc"
+    },
+    {
+        "question": "Câu 10: Trong quá trình duyệt đồ thị theo chiều rộng, sau khi xử lý một nút, các nút kề của nó sẽ được:",
+        "options": [
+            " Đưa vào ngăn xếp",
+            " Đưa vào hàng đợi",
+            " Đưa vào cây con",
+            " Đưa vào danh sách liên kết"
+        ],
+        "correct_answer": " Đưa vào hàng đợi"
+    },
+    {
+        "question": "Câu 11: Trong một vector bit, mỗi phần tử có thể có giá trị nào?",
+        "options": [
+            " 0 hoặc 1",
+            " 1 hoặc 2",
+            " -1 hoặc 1",
+            " Bất kỳ giá trị nào"
+        ],
+        "correct_answer": " 0 hoặc 1"
+    },
+    {
+        "question": "Câu 12: Hàm băm (hash function) là gì?",
+        "options": [
+            " Một hàm chuyển đổi khóa thành chỉ số trong bảng băm",
+            " Một hàm chuyển đổi giá trị thành chỉ số trong mảng",
+            " Một hàm chuyển đổi số nguyên thành số thực",
+            " Một hàm chuyển đổi số nguyên thành chuỗi ký tự"
+        ],
+        "correct_answer": " Một hàm chuyển đổi khóa thành chỉ số trong bảng băm"
+    },
+    {
+        "question": "Câu 13: Con trỏ trái trong nút cây nhị phân trỏ đến đâu?",
+        "options": [
+            " Nút cha",
+            " Nút con trái",
+            " Nút con phải",
+            " Nút gốc"
+        ],
+        "correct_answer": " Nút con trái"
+    },
+    {
+        "question": "Câu 14: Phương pháp duyệt cây nào duyệt cây con trái trước, sau đó đến cây con phải và cuối cùng là nút gốc?",
+        "options": [
+            " Duyệt theo thứ tự trước (pre-order traversal)",
+            " Duyệt theo thứ tự giữa (in-order traversal)",
+            " Duyệt theo thứ tự sau (post-order traversal)",
+            " Duyệt theo chiều rộng (level-order traversal)"
+        ],
+        "correct_answer": " Duyệt theo thứ tự sau (post-order traversal)"
+    },
+    {
+        "question": "Câu 15: Trong cây nhị phân tìm kiếm, để chèn một giá trị mới vào cây, ta cần:",
+        "options": [
+            " Chèn vào gốc",
+            " So sánh từ gốc và duyệt xuống đến vị trí thích hợp",
+            " Chèn vào cuối cây",
+            " Chèn vào đầu cây"
+        ],
+        "correct_answer": " So sánh từ gốc và duyệt xuống đến vị trí thích hợp"
+    },
+    {
+        "question": "Câu 16: Trong duyệt đồ thị theo chiều rộng, mỗi nút sẽ được duyệt bao nhiêu lần?",
+        "options": [
+            " Một lần",
+            " Hai lần",
+            " Ba lần",
+            " Nhiều lần"
+        ],
+        "correct_answer": " Một lần"
+    },
+    {
+        "question": "Câu 17: Độ dài của một vector bit biểu diễn tập hợp chứa các phần tử từ 0 đến n-1 là bao nhiêu?",
+        "options": [
+            " n-1",
+            " n",
+            " n+1",
+            " 2n"
+        ],
+        "correct_answer": " n"
+    },
+    {
+        "question": "Câu 18: Mục đích chính của hàm băm là gì?",
+        "options": [
+            " Để sắp xếp các phần tử",
+            " Để xác định vị trí phần tử",
+            " Để lưu trữ các phần tử theo thứ tự",
+            " Để lưu trữ các phần tử theo giá trị"
+        ],
+        "correct_answer": " Để xác định vị trí phần tử"
+    },
+    {
+        "question": "Câu 19: Con trỏ phải trong nút cây nhị phân trỏ đến đâu?",
+        "options": [
+            " Nút cha",
+            " Nút con trái",
+            " Nút con phải",
+            " Nút gốc"
+        ],
+        "correct_answer": " Nút con phải"
+    },
+    {
+        "question": "Câu 20: Phương pháp duyệt cây nào duyệt các nút theo từng cấp độ từ trên xuống dưới?",
+        "options": [
+            " Duyệt theo thứ tự trước (pre-order traversal)",
+            " Duyệt theo thứ tự giữa (in-order traversal)",
+            " Duyệt theo thứ tự sau (post-order traversal)",
+            " Duyệt theo chiều rộng (level-order traversal)"
+        ],
+        "correct_answer": " Duyệt theo chiều rộng (level-order traversal)"
+    },
+    {
+        "question": "Câu 21: Cho các cây nhị phân tìm kiếm cùng có n nút, cây nào sau đây có độ cao lớn nhất?",
+        "options": [
+            " Cây cân bằng",
+            " Cây nhị phân hoàn chỉnh",
+            " Cây nhị phân đầy đủ",
+            " Cây suy biến và lệch trái"
+        ],
+        "correct_answer": " Cây suy biến và lệch trái"
+    },
+    {
+        "question": "Câu 22: Để tránh việc duyệt lại các nút đã duyệt trong BFS, ta cần sử dụng:",
+        "options": [
+            " Mảng đánh dấu (Visited array)",
+            " Ngăn xếp",
+            " Hàng đợi",
+            " Cây con"
+        ],
+        "correct_answer": " Mảng đánh dấu (Visited array)"
+    },
+    {
+        "question": "Câu 23: Để biểu diễn tập hợp {0, 2, 4} bằng vector bit, ta sẽ thiết lập các bit như thế nào?",
+        "options": [
+            " 111",
+            " 10101",
+            " 101010",
+            " 1100"
+        ],
+        "correct_answer": " 101010"
+    },
+    {
+        "question": "Câu 24: Một bảng băm đóng có kích thước n có thể chứa tối đa bao nhiêu phần tử mà không xảy ra xung đột?",
+        "options": [
+            " n phần tử",
+            " n-1 phần tử",
+            " n+1 phần tử",
+            " 2n phần tử"
+        ],
+        "correct_answer": " n phần tử"
+    },
+    {
+        "question": "Câu 25: Trong biểu diễn cây nhị phân bằng con trỏ, nếu một nút không có con trái, con trỏ trái sẽ trỏ đến đâu?",
+        "options": [
+            " Nút cha",
+            " Nút gốc",
+            " NULL",
+            " Một nút bất kỳ"
+        ],
+        "correct_answer": " NULL"
+    },
+    {
+        "question": "Câu 26: Độ phức tạp thời gian của các phương pháp duyệt cây nhị phân là gì?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n) )",
+            " O(n log n)"
+        ],
+        "correct_answer": " O(n) )"
+    },
+    {
+        "question": "Câu 27: Để tìm một giá trị trong cây nhị phân tìm kiếm, ta cần:",
+        "options": [
+            " Duyệt toàn bộ cây",
+            " Sử dụng phương pháp tìm kiếm tuyến tính",
+            " So sánh từ gốc và duyệt xuống theo cách tương tự khi them nút vào cây",
+            " Sử dụng phương pháp tìm kiếm nhị phân"
+        ],
+        "correct_answer": " So sánh từ gốc và duyệt xuống theo cách tương tự khi them nút vào cây"
+    },
+    {
+        "question": "Câu 28: Khi nào ta nên sử dụng BFS thay vì DFS?",
+        "options": [
+            " Khi cần tìm đường đi ngắn nhất trong đồ thị không trọng số",
+            " Khi cần duyệt toàn bộ các nút trong cây",
+            " Khi cần kiểm tra tính liên thông của đồ thị",
+            " Khi cần duyệt nút cuối cùng trước"
+        ],
+        "correct_answer": " Khi cần tìm đường đi ngắn nhất trong đồ thị không trọng số"
+    },
+    {
+        "question": "Câu 29: Để kiểm tra xem phần tử x có thuộc tập hợp được biểu diễn bởi vector bit hay không, ta cần:",
+        "options": [
+            " Kiểm tra bit thứ x có phải là 1 không",
+            " Kiểm tra bit thứ x có phải là 0 không",
+            " Thêm x vào vector bit",
+            " Xóa x khỏi vector bit"
+        ],
+        "correct_answer": " Kiểm tra bit thứ x có phải là 1 không"
+    },
+    {
+        "question": "Câu 30: Hiện tượng xung đột (collision) trong bảng băm đóng xảy ra khi nào?",
+        "options": [
+            " Khi hai khóa khác nhau được băm thành cùng một chỉ số",
+            " Khi một khóa không thể được băm",
+            " Khi một giá trị không thể được băm",
+            " Khi bảng băm bị đầy"
+        ],
+        "correct_answer": " Khi hai khóa khác nhau được băm thành cùng một chỉ số"
+    },
+    {
+        "question": "Câu 31: Trong biểu diễn cây nhị phân bằng con trỏ, nếu nút gốc có giá trị NULL, điều này có nghĩa là gì?",
+        "options": [
+            " Cây không có nút nào",
+            " Cây chỉ có một nút",
+            " Cây đầy đủ",
+            " Cây hoàn chỉnh"
+        ],
+        "correct_answer": " Cây không có nút nào"
+    },
+    {
+        "question": "Câu 32: Trong phương pháp duyệt thứ tự sau, thứ tự duyệt các nút là gì?",
+        "options": [
+            " Gốc, Trái, Phải",
+            " Trái, Gốc, Phải",
+            " Trái, Phải, Gốc",
+            " Phải, Gốc, Trái"
+        ],
+        "correct_answer": " Trái, Phải, Gốc"
+    },
+    {
+        "question": "Câu 33: Khi tìm giá trị nhỏ nhất trong cây nhị phân tìm kiếm, ta cần duyệt đến:",
+        "options": [
+            " Nút gốc",
+            " Nút con trái nhất",
+            " Nút con phải nhất",
+            " Nút cuối cùng được thêm vào"
+        ],
+        "correct_answer": " Nút con trái nhất"
+    },
+    {
+        "question": "Câu 34: Trong quá trình duyệt đồ thị bằng thuật toán BFS, nếu gặp phải một nút đã được đánh dấu là đã duyệt, ta sẽ:",
+        "options": [
+            " Bỏ qua nút đó và tiếp tục",
+            " Thêm nút đó vào hàng đợi",
+            " Xóa nút đó khỏi hàng đợi",
+            " Đưa nút đó vào ngăn xếp"
+        ],
+        "correct_answer": " Bỏ qua nút đó và tiếp tục"
+    },
+    {
+        "question": "Câu 35: Để thêm một phần tử x vào tập hợp được biểu diễn bởi vector bit, ta cần:",
+        "options": [
+            " Đặt bit thứ x thành 1",
+            " Đặt bit thứ x thành 0",
+            " Xóa bit thứ x",
+            " Đảo ngược bit thứ x"
+        ],
+        "correct_answer": " Đặt bit thứ x thành 1"
+    },
+    {
+        "question": "Câu 36: Trong bảng băm đóng, khi sử dụng kỹ thuật băm kép (double hashing), nếu vị trí băm ban đầu đã bị chiếm, ta cần:",
+        "options": [
+            " Sử dụng hàm băm thứ hai để tìm vị trí trống tiếp theo",
+            " Sử dụng hàm băm thứ nhất để tìm vị trí trống tiếp theo",
+            " Xóa phần tử hiện tại",
+            " Tạo bảng băm mới"
+        ],
+        "correct_answer": " Sử dụng hàm băm thứ hai để tìm vị trí trống tiếp theo"
+    },
+    {
+        "question": "Câu 37: Trong biểu diễn cây nhị phân bằng con trỏ, để thêm một nút mới vào cây, ta cần thực hiện điều gì trước tiên?",
+        "options": [
+            " Tìm vị trí thích hợp để chèn nút mới",
+            " Xóa nút gốc",
+            " Đổi giá trị của nút gốc",
+            " Chèn nút mới vào cuối cây"
+        ],
+        "correct_answer": " Tìm vị trí thích hợp để chèn nút mới"
+    },
+    {
+        "question": "Câu 38: Trong phương pháp duyệt cây nhị phân theo chiều rộng (level-order traversal), cấu trúc dữ liệu nào thường được sử dụng?",
+        "options": [
+            " Ngăn xếp (stack)",
+            " Hàng đợi (queue)",
+            " Danh sách liên kết (linked list)",
+            " Cả ngăn xếp và hàng đợi"
+        ],
+        "correct_answer": " Hàng đợi (queue)"
+    },
+    {
+        "question": "Câu 39: Khi tìm giá trị lớn nhất trong cây nhị phân tìm kiếm, ta cần duyệt đến:",
+        "options": [
+            " Nút gốc",
+            " Nút con trái nhất",
+            " Nút con phải nhất",
+            " Nút đầu tiên được thêm vào"
+        ],
+        "correct_answer": " Nút con phải nhất"
+    },
+    {
+        "question": "Câu 40: Trong duyệt đồ thị theo chiều sâu, mỗi nút sẽ được duyệt bao nhiêu lần?",
+        "options": [
+            " Một lần",
+            " Hai lần",
+            " Ba lần",
+            " Nhiều lần"
+        ],
+        "correct_answer": " Một lần"
+    },
+    {
+        "question": "Câu 41: Để xóa một phần tử x khỏi tập hợp được biểu diễn bởi vector bit, ta cần:",
+        "options": [
+            " Đặt bit thứ x thành 0",
+            " Đặt bit thứ x thành 1",
+            " Thêm bit thứ x",
+            " Đảo ngược bit thứ x"
+        ],
+        "correct_answer": " Đặt bit thứ x thành 0"
+    },
+    {
+        "question": "Câu 42: Trong kỹ thuật kết nối riêng (separate chaining), mỗi phần tử của bảng băm là:",
+        "options": [
+            " Một con trỏ đến một danh sách liên kết",
+            " Một con trỏ đến một mảng",
+            " Một con trỏ đến một cây nhị phân",
+            " Một giá trị nguyên"
+        ],
+        "correct_answer": " Một con trỏ đến một danh sách liên kết"
+    },
+    {
+        "question": "Câu 43: Trong cây nhị phân, nếu con trỏ trái và con trỏ phải của một nút đều trỏ đến NULL, điều này có nghĩa gì?",
+        "options": [
+            " Nút đó là nút gốc",
+            " Nút đó là nút lá",
+            " Nút đó có một con",
+            " Nút đó có hai con"
+        ],
+        "correct_answer": " Nút đó là nút lá"
+    },
+    {
+        "question": "Câu 44: Để duyệt cây nhị phân theo phương pháp tiền thứ tự (pre-order traversal) sử dụng đệ quy, ta cần thực hiện bước nào trước tiên?",
+        "options": [
+            " Duyệt cây con trái",
+            " Duyệt cây con phải",
+            " Duyệt nút gốc",
+            " Duyệt cây con ngẫu nhiên"
+        ],
+        "correct_answer": " Duyệt nút gốc"
+    },
+    {
+        "question": "Câu 45: Khi chèn một giá trị vào cây nhị phân tìm kiếm, giá trị đó luôn được chèn vào:",
+        "options": [
+            " Nút gốc",
+            " Lá của cây",
+            " Nút giữa",
+            " Nút bất kỳ"
+        ],
+        "correct_answer": " Lá của cây"
+    },
+    {
+        "question": "Câu 46: Để tránh việc duyệt lại các nút đã duyệt trong DFS, ta cần sử dụng:",
+        "options": [
+            " Mảng đánh dấu (Visited array)",
+            " Hàng đợi",
+            " Cây con",
+            " Danh sách liên kết"
+        ],
+        "correct_answer": " Mảng đánh dấu (Visited array)"
+    },
+    {
+        "question": "Câu 47: Tập hợp rỗng được biểu diễn bởi vector bit như thế nào?",
+        "options": [
+            " Tất cả các bit đều là 0",
+            " Tất cả các bit đều là 1",
+            " Chỉ có một bit là 1",
+            " Chỉ có một bit là 0"
+        ],
+        "correct_answer": " Tất cả các bit đều là 0"
+    },
+    {
+        "question": "Câu 48: Khi sử dụng kỹ thuật kết nối riêng (separate chaining), nếu cần tìm kiếm một phần tử, ta cần:",
+        "options": [
+            " Tìm chỉ số băm và duyệt qua danh sách liên kết tại chỉ số đó",
+            " Tìm chỉ số băm và sử dụng tìm kiếm tuyến tính",
+            " Tìm chỉ số băm và sử dụng tìm kiếm nhị phân",
+            " Tìm chỉ số băm và duyệt qua mảng tại chỉ số đó"
+        ],
+        "correct_answer": " Tìm chỉ số băm và duyệt qua danh sách liên kết tại chỉ số đó"
+    },
+    {
+        "question": "Câu 49: Phương pháp duyệt cây nào thường được sử dụng để duyệt qua cây nhị phân tìm kiếm theo thứ tự tăng dần?",
+        "options": [
+            " Duyệt theo thứ tự trước (pre-order traversal)",
+            " Duyệt theo thứ tự giữa (in-order traversal)",
+            " Duyệt theo thứ tự sau (post-order traversal)",
+            " Duyệt theo chiều rộng (level-order traversal)"
+        ],
+        "correct_answer": " Duyệt theo thứ tự giữa (in-order traversal)"
+    },
+    {
+        "question": "Câu 50: Độ phức tạp thời gian xóa một nút trong cây nhị phân tìm kiếm ở trường hợp xấu nhất là gì?",
+        "options": [
+            " O(1)",
+            " O(log n)",
+            " O(n)",
+            " O(n log n)"
+        ],
+        "correct_answer": " O(n)"
+    },
+    {
+        "question": "Câu 51: Đặc điểm nào dưới đây không đúng với cây nhị phân tìm kiếm?",
+        "options": [
+            " Nút con trái có thể nhỏ hơn hoặc lớn hơn nút gốc",
+            " Nút con phải luôn lớn hơn nút gốc",
+            " Mỗi nút có tối đa hai con",
+            " Cây con trái và cây con phải cũng là các cây nhị phân tìm kiếm"
+        ],
+        "correct_answer": " Nút con trái có thể nhỏ hơn hoặc lớn hơn nút gốc"
+    },
+    {
+        "question": "Câu 52: Trong một cây nhị phân tìm kiếm, giá trị của nút gốc luôn:",
+        "options": [
+            " Lớn hơn tất cả các giá trị trong cây con trái",
+            " Nhỏ hơn tất cả các giá trị trong cây con phải",
+            " Lớn hơn tất cả các giá trị trong cây con trái và nhỏ hơn tất cả các giá trị trong cây con phải",
+            " Không xác định"
+        ],
+        "correct_answer": " Lớn hơn tất cả các giá trị trong cây con trái và nhỏ hơn tất cả các giá trị trong cây con phải"
+    },
+    {
+        "question": "Câu 53: Tại sao cây nhị phân tìm kiếm hữu ích cho việc tìm kiếm?",
+        "options": [
+            " Vì nó giúp tìm kiếm nhanh hơn nhờ vào cấu trúc phân chia rõ ràng giữa các nút trái và phải",
+            " Vì nó giúp giảm thiểu độ sâu của cây",
+            " Vì nó có thể tự động cân bằng",
+            " Vì nó lưu trữ dữ liệu dưới dạng danh sách"
+        ],
+        "correct_answer": " Vì nó giúp tìm kiếm nhanh hơn nhờ vào cấu trúc phân chia rõ ràng giữa các nút trái và phải"
+    },
+    {
+        "question": "Câu 54: Để tìm giá trị nhỏ nhất trong cây nhị phân tìm kiếm, ta cần:",
+        "options": [
+            " Duyệt toàn bộ cây",
+            " Duyệt xuống cây con trái đến nút lá cuối cùng",
+            " Duyệt xuống cây con phải đến nút lá cuối cùng",
+            " Duyệt theo chiều rộng"
+        ],
+        "correct_answer": " Duyệt xuống cây con trái đến nút lá cuối cùng"
+    },
+    {
+        "question": "Câu 55: Để tìm một giá trị x trong cây nhị phân tìm kiếm, ta bắt đầu từ:",
+        "options": [
+            " Nút con trái của gốc",
+            " Nút con phải của gốc",
+            " Gốc của cây",
+            " Bất kỳ nút nào"
+        ],
+        "correct_answer": " Gốc của cây"
+    },
+    {
+        "question": "Câu 56: Nếu giá trị cần tìm nhỏ hơn giá trị của nút hiện tại trong cây nhị phân tìm kiếm, ta sẽ:",
+        "options": [
+            " Di chuyển đến nút con phải của nút hiện tại",
+            " Di chuyển đến nút con trái của nút hiện tại",
+            " Dừng tìm kiếm",
+            " Quay lại nút cha"
+        ],
+        "correct_answer": " Di chuyển đến nút con trái của nút hiện tại"
+    }
+]
