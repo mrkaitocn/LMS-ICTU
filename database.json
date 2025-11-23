@@ -1,0 +1,1510 @@
+[
+    {
+        "question": "Câu 1: Cơ sở dữ liệu là:",
+        "options": [
+            " Một hệ thống thông tin có cấu trúc được lưu trữ trên các thiết bị nhớ",
+            " Một hệ thống thông tin tự nhiên được lưu trữ trên các thiết bị nhớ",
+            " Một tập hợp các file dữ liệu",
+            " Dữ liệu lưu trữ trên các máy tính"
+        ],
+        "correct_answer": " Một hệ thống thông tin có cấu trúc được lưu trữ trên các thiết bị nhớ"
+    },
+    {
+        "question": "Câu 2: Mô hình nào sau đây lưu trữ dưới dạng cấu trúc cây thư mục?",
+        "options": [
+            " Mô hình phân cấp",
+            " Mô hình mạng",
+            " Mô hình quan hệ",
+            " Mô hình thực thể kết hợp"
+        ],
+        "correct_answer": " Mô hình phân cấp"
+    },
+    {
+        "question": "Câu 3: Cho quan hệ R(U).  Khẳng định nào sau đây là đúng nhất khi nói về khoá của quan hệ:",
+        "options": [
+            " Giá trị của mỗi thuộc tính khoá  xác định giá trị của các thuộc tính còn lại.",
+            " Giá trị của khoá xác định duy nhất  giá trị của các thuộc tính còn lại trong tập U.",
+            " Giá trị của mỗi thuộc tính khoá có khả năng xác định giá trị của các thuộc tính còn lại",
+            " Giá trị của mỗi thuộc tính xác định duy nhất các thuộc tính còn lại",
+            " K1={Số chứng minh thư} không là khoá tối thiểu của r(U)"
+        ],
+        "correct_answer": " Giá trị của khoá xác định duy nhất  giá trị của các thuộc tính còn lại trong tập U."
+    },
+    {
+        "question": "Câu 4: Phụ thuộc hàm là khái niệm được xây dựng để làm gì?",
+        "options": [
+            " mô tả các ràng buộc trong cơ sở dữ liệu",
+            " mô tả một đối tượng",
+            " mô tả một cơ sở dữ liệu",
+            " mô tả một thuộc tính"
+        ],
+        "correct_answer": " mô tả các ràng buộc trong cơ sở dữ liệu"
+    },
+    {
+        "question": "Câu 5: Khái niệm lược đồ quan hệ là:",
+        "options": [
+            " một cặp (U, F) trong đó U là tập hữu hạn các thuộc tính, F là tập các phụ thuộc hàm xác định trên U",
+            " thể hiện của lược đồ",
+            " một tập các bảng",
+            " một tập các thuộc tính"
+        ],
+        "correct_answer": " một cặp (U, F) trong đó U là tập hữu hạn các thuộc tính, F là tập các phụ thuộc hàm xác định trên U"
+    },
+    {
+        "question": "Câu 6: Cho lược đồ quan hệ r(U, F), K ⊆ U.  K được gọi là khoá tối thiểu của lược đồ quan hệ nếu:",
+        "options": [
+            " K+= U.",
+            " ∀A ∈K; (K –{A})+≠  U.",
+            " ∀A ∈K; (K –{A})+=  U",
+            " Ý A và B"
+        ],
+        "correct_answer": " Ý A và B"
+    },
+    {
+        "question": "Câu 7: Lược đồ quan hệ r ở dạng chuẩn 1NF nếu:",
+        "options": [
+            " mọi thuộc tính của r đều chứa các giá trị nguyên tố",
+            " thuộc tính của r là thuộc tính phức hợp",
+            " thuộc tính của r là thuộc tính đa trị",
+            " thuộc tính không khóa đều phụ thuộc hàm vào khóa của r"
+        ],
+        "correct_answer": " mọi thuộc tính của r đều chứa các giá trị nguyên tố"
+    },
+    {
+        "question": "Câu 8: Quy trình thiết kế gồm các bước nào sau đây:",
+        "options": [
+            " Thu thập và phân tích các yêu cầu, thiết kế giao diện, thiết kế logic, thiết kế vật lý",
+            " Thu thập các tài liệu có liên quan, thiết kế quan niệm, thiết kế logic, thiết kế vật lý",
+            " Thu thập và phân tích các yêu cầu, thiết kế quan niệm, thiết kế logic, thiết kế vật lý",
+            " Khảo sát, thiết kế quan niệm, thiết kế logic, thiết kế vật lý"
+        ],
+        "correct_answer": " Thu thập và phân tích các yêu cầu, thiết kế quan niệm, thiết kế logic, thiết kế vật lý"
+    },
+    {
+        "question": "Câu 9: Kế thừa là gì?",
+        "options": [
+            " Thực thể thuộc lớp con thừa kế thuộc tính của lớp cha và tham gia vào liên kết của lớp cha.",
+            " Một thực thể thuộc một lớp cha thừa kế tất cả các thuộc tính của lớp con và tham gia vào liên kết của lớp con.",
+            " Một thực thể thuộc một lớp con thừa kế tất cả các thuộc tính của lớp cha và tham gia vào liên kết của lớp cha.",
+            " Thực thể thuộc lớp con thừa kế một số thuộc tính của lớp cha và tham gia vào liên kết của lớp cha."
+        ],
+        "correct_answer": " Một thực thể thuộc một lớp con thừa kế tất cả các thuộc tính của lớp cha và tham gia vào liên kết của lớp cha."
+    },
+    {
+        "question": "Câu 10: Các thành phần của hệ cơ sở dữ liệu:",
+        "options": [
+            " Dữ liệu, Phần mềm, người dùng",
+            " Dữ liệu, Phần cứng, người dùng",
+            " Dữ liệu, Phần mềm, người thiết kế, người dùng, người quản trị",
+            " Dữ liệu, Phần mềm, phần cừng, người dùng"
+        ],
+        "correct_answer": " Dữ liệu, Phần mềm, phần cừng, người dùng"
+    },
+    {
+        "question": "Câu 11: Hệ quản trị cơ sở dữ liệu là:",
+        "options": [
+            " Cơ sở dữ  liệu",
+            " Một phần mềm nhỏ",
+            " Tập hợp dữ liệu",
+            " Hệ thống phần mềm"
+        ],
+        "correct_answer": " Hệ thống phần mềm"
+    },
+    {
+        "question": "Câu 12: Hai quan hệ R(A1, A2, …, An) và S(B1, B2, …, Bn) là khả hợp nếu:",
+        "options": [
+            " Chúng có cùng bậc n và Dom(Ai)=Dom(Bi),1≤i≤n",
+            " Chúng có cùng số lượng các thuộc tính bằng nhau",
+            " Chúng có các miền giá trị tương ứng bằng nhau",
+            " Chúng phải cùng xác định trên một tập thuộc tính"
+        ],
+        "correct_answer": " Chúng có cùng bậc n và Dom(Ai)=Dom(Bi),1≤i≤n"
+    },
+    {
+        "question": "Câu 13: Định nghĩa Phụ thuộc hàm đầy đủ?",
+        "options": [
+            " Cho R(U); X,Y ⊆ U; Y gọi là PTH đầy đủ vào X nếu  Y →X và ∀A ∈X; (X –{A})  →Y.",
+            " Cho R(U); X,Y ⊆ U; Y gọi là PTH đầy đủ vào X nếu  X →Y và ∀A ∈X; (X –{A}) ! →Y.",
+            " Cho R(U); X,Y ⊆ U; Y gọi là PTH đầy đủ vào X nếu  Y →Y và ∀A ∈X; (X –{A}) →Y.D.Cho R(U); X,Y ⊆ U; Y gọi là PTH đầy đủ vào X nếu  X →X và ∀A ∈X; (X –{A}) ! →Y."
+        ],
+        "correct_answer": " Cho R(U); X,Y ⊆ U; Y gọi là PTH đầy đủ vào X nếu  X →Y và ∀A ∈X; (X –{A}) ! →Y."
+    },
+    {
+        "question": "Câu 14: Thể hiện của lược đồ quan hệ là:",
+        "options": [
+            " Thuộc tính",
+            " Bộ dữ liệu",
+            " Quan hệ",
+            " Tập dữ liệu"
+        ],
+        "correct_answer": " Quan hệ"
+    },
+    {
+        "question": "Câu 15: K chỉ thỏa mãn điều kiện K + = U thì K gọi là:",
+        "options": [
+            " Siêu khoá.",
+            " Khoá tối thiểu",
+            " Khoá ngoài",
+            " Khoá nội"
+        ],
+        "correct_answer": " Siêu khoá."
+    },
+    {
+        "question": "Câu 16: Lược đồ quan hệ r ở dạng chuẩn 2NF nếu:",
+        "options": [
+            " đạt 1NF và thuộc tính không khóa đều phụ thuộc hàm vào khóa của r",
+            " đạt 1NF và mọi thuộc tính không khóa đều phụ thuộc hàm đầy đủ vào mọi khóa của r",
+            " đạt 1NF và mọi thuộc tính không khóa đều không phụ thuộc hàm đầy đủ vào mọi khóa của r",
+            " mọi thuộc tính không khóa đều phụ thuộc hàm đầy đủ vào mọi khóa của r"
+        ],
+        "correct_answer": " đạt 1NF và mọi thuộc tính không khóa đều phụ thuộc hàm đầy đủ vào mọi khóa của r"
+    },
+    {
+        "question": "Câu 17: Thực thể là gì?",
+        "options": [
+            " Một vật hay một đối tượng trong thế giới thực",
+            " Một đối tượng có thể cảm nhận bằng giác quan",
+            " Một đối tượng có thể nhận biết bằng nhận thức",
+            " Một mô hình quan trọng trong việc thiết kế cơ sở dữ liệu"
+        ],
+        "correct_answer": " Một vật hay một đối tượng trong thế giới thực"
+    },
+    {
+        "question": "Câu 18: Chuyên biệt hoá là gì?",
+        "options": [
+            " là quá trình xác định một tập các lớp con của một kiểu thực thểE;Eđược gọi là lớp cha của chuyên biệt hóa",
+            " là quá trình xác định một tập các lớp cha của một kiểu thực thểE;Eđược gọi là lớp con của chuyên biệt hóa",
+            " là quá trình xác định một số lớp con của kiểu thực thểE;Eđược gọi là lớp ccon của chuyên biệt hóa",
+            " là quá trình biểu diễn  các lớp con của một kiểu thực thểE;Eđược gọi là lớp con của chuyên biệt hóa"
+        ],
+        "correct_answer": " là quá trình xác định một tập các lớp con của một kiểu thực thểE;Eđược gọi là lớp cha của chuyên biệt hóa"
+    },
+    {
+        "question": "Câu 19: Ưu điểm cơ sở dữ liệu:",
+        "options": [
+            " Giảm dư thừa, nhất quán  và  toàn vẹn của dữ liệu",
+            " Xuất hiện dị thường thông tin",
+            " Các thuộc tính được mô tả trong nhiều tệp dữ liệu khác nhau",
+            " Khả năng xuất hiện mâu thuẫn và không nhất quán dữ liệu"
+        ],
+        "correct_answer": " Giảm dư thừa, nhất quán  và  toàn vẹn của dữ liệu"
+    },
+    {
+        "question": "Câu 20: Trong kiến trúc hệ quản trị CSDL phần đáy kiến trúc là thiết bị nhớ ngoài lưu trữ:",
+        "options": [
+            " Bộ xử lý câu hỏi",
+            " Dữ liệu và siêu dữ liệu",
+            " Bộ quản trị giao dịch",
+            " Các truy vấn"
+        ],
+        "correct_answer": " Dữ liệu và siêu dữ liệu"
+    },
+    {
+        "question": "Câu 21: Phép hợp của quan hệ khả hợp R 1 và R 2 là:",
+        "options": [
+            " R1∪R2={t| t∈R1and t∈R2}",
+            " R1∪R2={t| t∈R1or t∉R2}",
+            " R1∪R2={t| t∈R1or t∈R2}",
+            " R1∪R2={t| t∉R1and t∈R2}"
+        ],
+        "correct_answer": " R1∪R2={t| t∈R1or t∈R2}"
+    },
+    {
+        "question": "Câu 22: Quy tắc phản xạ trong hệ tiên đề Armstrong là:",
+        "options": [
+            " Nếu X⊆Ythì X luôn xác định Y",
+            " Nếu Y⊆X thì Y→X",
+            " Nếu Y⊆X thì X→Y",
+            " Nếu X⊆Y thì X→Y"
+        ],
+        "correct_answer": " Nếu Y⊆X thì X→Y"
+    },
+    {
+        "question": "Câu 23: Thể hiện của lược đồ quan hệ có thể khác nhau:",
+        "options": [
+            " trong 1 thời gian",
+            " trong 1 ngày duy nhất",
+            " tại mỗi thời điểm",
+            " tuỳ theo từng cơ sở dữ liệu"
+        ],
+        "correct_answer": " tại mỗi thời điểm"
+    },
+    {
+        "question": "Câu 24: K thỏa mãn điều kiện K + = U và ∀A ∈K; (K –{A}) + ≠  U thì K gọi là:",
+        "options": [
+            " Siêu khoá.",
+            " Khoá tối thiểu.",
+            " Khoá ngoài.",
+            " Khoá nội."
+        ],
+        "correct_answer": " Khoá tối thiểu."
+    },
+    {
+        "question": "Câu 25: Lược đồ quan hệ r ở dạng chuẩn 3NF nếu:",
+        "options": [
+            " đạt 2NF và thuộc tính không khóa đều phụ thuộc hàm vào khóa của r",
+            " đạt 2NF và mọi thuộc tính không khóa đều phụ thuộc hàm đầy đủ vào mọi khóa của r",
+            " đạt 2NF và mọi thuộc tính không khóa của r không phụ thuộc hàm bắc cầu vào khóa",
+            " đạt 2NF và mọi thuộc tính không khóa đều phụ thuộc hàm bắc cầu vào khóa"
+        ],
+        "correct_answer": " đạt 2NF và mọi thuộc tính không khóa của r không phụ thuộc hàm bắc cầu vào khóa"
+    },
+    {
+        "question": "Câu 26: Thuộc tính đơn trị là:",
+        "options": [
+            " một thuộc tính có thể có một tập giá trị cho cùng một thực thể",
+            " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác",
+            " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể",
+            " thuộc tính có thể phân chia được thành các thành phần nhỏ hơn, biểu diễn các thuộc tính cơ bản hơn với các ý nghĩa độc lập"
+        ],
+        "correct_answer": " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể"
+    },
+    {
+        "question": "Câu 27: Quá trình chuyên biệt hóa cho phép:",
+        "options": [
+            " Xác định một tập các lớp con của một kiểu thực thể",
+            " Thiết lập các thuộc tính riêng của mỗi lớp con",
+            " Thiết lập các kiểu liên kết riêng của mỗi lớp con với các kiểu thực thể hoặc các lớp con khác",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 28: Người quản trị CSDL là :",
+        "options": [
+            " Người khai thác cơ sở dữ liệu",
+            " Người cấp quyền truy cập cơ sở dữ liệu cho người dùng",
+            " Một người hay nhóm người có trách nhiệm điều kiển toàn bộ hoạt động của hệ CSDL",
+            " Một người hay nhóm người có khả năng sao chép và phục hồi dữ liệu"
+        ],
+        "correct_answer": " Một người hay nhóm người có trách nhiệm điều kiển toàn bộ hoạt động của hệ CSDL"
+    },
+    {
+        "question": "Câu 29: Chức năng của hệ quản trị CSDL là :",
+        "options": [
+            " Cung cấp môi trường tạo lập CSDL",
+            " Cung cấp môi trường cập nhật và khai thác dữ liệu",
+            " Cung cấp công cụ điều khiển truy cập vào CSDL",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 30: Tích Đề Các của quan hệ R 1 (A 1, A 2 ,…, A n )  và R 2 (B 1, B 2 ,…, B m ) là:",
+        "options": [
+            " R1x R2={t với t có dạng (a1, a2,...,an,b1, b2,...,bm) sao cho (a1, a2,...,an)∉R1or ( b1, b2,...,bm) ∈R2}",
+            " R1x R2={t với t có dạng (a1, a2,...,an,b1, b2,...,bm) sao cho (a1, a2,...,an)∈R1or ( b1, b2,...,bm) ∉R2}",
+            " R1x R2={t với t có dạng (a1, a2,...,an,b1, b2,...,bm) sao cho (a1, a2,...,an)∈R1And ( b1, b2,...,bm) ∉R2}",
+            " R1x R2={t với t có dạng (a1, a2,...,an,b1, b2,...,bm) sao cho (a1, a2,...,an)∈R1And ( b1, b2,...,bm) ∈R2}"
+        ],
+        "correct_answer": " R1x R2={t với t có dạng (a1, a2,...,an,b1, b2,...,bm) sao cho (a1, a2,...,an)∈R1And ( b1, b2,...,bm) ∈R2}"
+    },
+    {
+        "question": "Câu 31: Cho lược đồ quan hệ r(U,F) và (X,Y⊆ U), R là một quan hệ xác định trên R(U,F), X→Y là một phụ thuộc hàm được suy dẫn logic từ F. Khi đó khẳng định nào sau đây là đúng nhất:",
+        "options": [
+            " R thoả mãn F và có thể thoả mãn X→Y",
+            " R thoả mãn F và không thoả mãn X→Y",
+            " R thoả mãn F nhưng có thể không thoả mãn X→Y",
+            " R thoả mãn F và luôn thoả mãn X→Y"
+        ],
+        "correct_answer": " R thoả mãn F và luôn thoả mãn X→Y"
+    },
+    {
+        "question": "Câu 32: Ký hiệu bao đóng của tập thuộc tính là gì?",
+        "options": [
+            " X",
+            " X+",
+            " F",
+            " F+"
+        ],
+        "correct_answer": " X+"
+    },
+    {
+        "question": "Câu 33: Gọi M là giao của các khoá. Nếu M + = U thì r có:",
+        "options": [
+            " nhiều khoá",
+            " một khoá duy nhất.",
+            " nhiều hơn một tập khoá",
+            " Tất cả các phương án trên đều sai."
+        ],
+        "correct_answer": " một khoá duy nhất."
+    },
+    {
+        "question": "Câu 34: Một lược đồ quan hệ r ở dạng chuẩn BCNF thì:",
+        "options": [
+            " phải đạt dạng chuẩn 1NF",
+            " phải đạt dạng chuẩn 2NF",
+            " phải đạt dạng chuẩn 3NF",
+            " không cần đạt dạng chuẩn nào trong các dạng chuẩn trên"
+        ],
+        "correct_answer": " phải đạt dạng chuẩn 3NF"
+    },
+    {
+        "question": "Câu 35: Thuộc tính đa trị là:",
+        "options": [
+            " một thuộc tính có thể có một tập giá trị cho cùng một thực thể",
+            " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác",
+            " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể",
+            " thuộc tính có thể phân chia được thành các thành phần nhỏ hơn, biểu diễn các thuộc tính cơ bản hơn với các ý nghĩa độc lập"
+        ],
+        "correct_answer": " một thuộc tính có thể có một tập giá trị cho cùng một thực thể"
+    },
+    {
+        "question": "Câu 36: Khẳng định nào sau đây là đúng khi nói về Phân cấp chuyên biệt hoá",
+        "options": [
+            " Nếu mỗi lớp cha chỉ tham gia vào một liên kết cha/con với vai trò lớp cha",
+            " Nếu mỗi lớp con chỉ tham gia vào một liên kết cha/con với vai trò lớp con",
+            " Một lớp con có thể có các lớp con khác",
+            " Một lớp cha có thể có các lớp con"
+        ],
+        "correct_answer": " Nếu mỗi lớp con chỉ tham gia vào một liên kết cha/con với vai trò lớp con"
+    },
+    {
+        "question": "Câu 37: Cơ sở dữ liệu được phân theo mô hình triển khai gồm:",
+        "options": [
+            " Cơ sở dữ liệu tập trung",
+            " Cơ sở dữ liệu phân tán",
+            " Cơ sở dữ liệu tập trung có bản sao",
+            " Cả 3 phương án trên"
+        ],
+        "correct_answer": " Cả 3 phương án trên"
+    },
+    {
+        "question": "Câu 38: Mô hình dữ liệu nào sau đây vừa có khả năng lưu trữ, xử lý khối lượng dữ liệu lớn, vừa có khả năng tư duy, suy luận với những thông tin đã được lưu trữ?",
+        "options": [
+            " Mô hình dữ liệu quan hệ",
+            " Mô hình dữ liệu phân tán",
+            " Mô hình dữ liệu suy diễn",
+            " Mô hình dữ liệu hướng đối tượng"
+        ],
+        "correct_answer": " Mô hình dữ liệu suy diễn"
+    },
+    {
+        "question": "Câu 39: Phép kết nối tự nhiên là:",
+        "options": [
+            " kết nối bằng và tại quan hệ kết quả, các quan hệ trùng tên được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các thuộc tính trùng tên được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các dòng trùng nhau được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các bộ có giá trị trùng nhau được chập lại"
+        ],
+        "correct_answer": " kết nối bằng và tại quan hệ kết quả, các thuộc tính trùng tên được chập lại"
+    },
+    {
+        "question": "Câu 40: Hệ tiên đề Armstrong được áp dụng để :",
+        "options": [
+            " Suy dẫn ra các thuộc tính",
+            " Suy dẫn ra các giá trị",
+            " Suy dẫn logíc ra các phụ thuộc hàm",
+            " Suy dẫn ra các quan hệ"
+        ],
+        "correct_answer": " Suy dẫn logíc ra các phụ thuộc hàm"
+    },
+    {
+        "question": "Câu 41: Ký hiệu bao đóng của tập phụ thuộc hàm là gì?",
+        "options": [
+            " X",
+            " X+",
+            " F",
+            " F+"
+        ],
+        "correct_answer": " F+"
+    },
+    {
+        "question": "Câu 42: Gọi M là giao của các khoá. Nếu M + ≠ U thì r có:",
+        "options": [
+            " nhiều khoá.",
+            " một khoá duy nhất.",
+            " nhiều hơn một tập khoá.",
+            " Tất cả các phương án trên đều sai."
+        ],
+        "correct_answer": " nhiều hơn một tập khoá."
+    },
+    {
+        "question": "Câu 43: Quá trình chuẩn hoá dữ liệu là quá trình tách lược đồ quan hệ gốc thành nhiều lược đồ quan hệ sao cho:",
+        "options": [
+            " Đơn giản hoá được việc lưu trữ dữ liệu",
+            " Không ảnh hưởng đến sự lưu trữ dữ liệu",
+            " Xuất hiện sự dị thường về dữ liệu",
+            " Không làm mất mát thông tin"
+        ],
+        "correct_answer": " Không làm mất mát thông tin"
+    },
+    {
+        "question": "Câu 44: Thuộc tính phức hợp là:",
+        "options": [
+            " một thuộc tính có thể có một tập giá trị cho cùng một thực thể",
+            " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác",
+            " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể",
+            " thuộc tính có thể phân chia được thành các thành phần nhỏ hơn, biểu diễn các thuộc tính cơ bản hơn với các ý nghĩa độc lập"
+        ],
+        "correct_answer": " thuộc tính có thể phân chia được thành các thành phần nhỏ hơn, biểu diễn các thuộc tính cơ bản hơn với các ý nghĩa độc lập"
+    },
+    {
+        "question": "Câu 45: Mô hình thực thể kết hợp mở rộng viết tắt là gì?",
+        "options": [
+            " ERD",
+            " EER",
+            " EMN",
+            " RMN"
+        ],
+        "correct_answer": " EER"
+    },
+    {
+        "question": "Câu 46: Những cơ sở dữ liệu nào sau đây được phân loại theo đặc tính sử dụng?",
+        "options": [
+            " Cơ sở dữ liệu hoạt động",
+            " Cơ sở dữ liệu kho",
+            " Cơ sở dữ liệu ngữ nghĩa",
+            " Cả 3 phương án trên"
+        ],
+        "correct_answer": " Cả 3 phương án trên"
+    },
+    {
+        "question": "Câu 47: 6. Mô hình dữ liệu cho phép người dùng biểu diễn cơ sở dữ liệu dưới dạng:",
+        "options": [
+            " Các ký hiệu",
+            " Các thao tác",
+            " Các xử lý",
+            " Cấu trúc thuật ngữ dễ hiểu."
+        ],
+        "correct_answer": " Cấu trúc thuật ngữ dễ hiểu."
+    },
+    {
+        "question": "Câu 48: Thuộc tính là dữ liệu dùng để:",
+        "options": [
+            " mô tả tất cả thông tin của thực thể.",
+            " mô tả giá trị tại một hàng trong bảng.",
+            " mô tả một đặc trưng của thực thể.",
+            " mô tả đối tượng cần quản lý."
+        ],
+        "correct_answer": " mô tả một đặc trưng của thực thể."
+    },
+    {
+        "question": "Câu 49: Hệ tiên đề Armstrong gồm các quy tắc:",
+        "options": [
+            " Phản xạ, hợp, tăng trưởng, bắc cầu",
+            " Phản xạ, tăng trưởng, bắc cầu",
+            " Phản xạ, bắc cầu, hợp, tách",
+            " Phản xạ, tăng trưởng, bắc cầu, hợp và tách"
+        ],
+        "correct_answer": " Phản xạ, tăng trưởng, bắc cầu"
+    },
+    {
+        "question": "Câu 50: Để kiểm tra xem phụ thuộc hàm X → Y có thuộc F⁺ hay không, ta cần:",
+        "options": [
+            " Tính F⁺ trước",
+            " Tính X⁺ và xem Y có thuộc tính X⁺ không",
+            " Chỉ cần xem Y thuộc F không",
+            " Không cần kiểm tra"
+        ],
+        "correct_answer": " Tính X⁺ và xem Y có thuộc tính X⁺ không"
+    },
+    {
+        "question": "Câu 51: Tập phụ thuộc hàm (PTH) F được gọi là phủ tối thiểu nếu:",
+        "options": [
+            " Vế phải các PTH là thuộc tính đơn.",
+            " Không tồn tại các PTH dư thừa.",
+            " Không tồn tại thuộc tính dư thừa ở vế trái các PTH.",
+            " Tất cả các phương án trên."
+        ],
+        "correct_answer": " Tất cả các phương án trên."
+    },
+    {
+        "question": "Câu 52: Các bước trong thuật toán chuẩn hoá lược đồ quan hệ về dạng chuẩn 3NF gồm:",
+        "options": [
+            " Tìm khoá, tìm phủ, xác định lược đồ con, kết luận phép chuẩn hoá",
+            " Tìm khoá, tìm phủ tối thiểu, tách các phụ thuộc hàm, kết luận phép chuẩn hoá",
+            " Tìm khoá, tìm phủ tối thiểu, loại bỏ các phụ thuộc hàm dư thừa, xác định lược đồ con",
+            " Tìm khoá, tìm phủ tối thiểu, xác định lược đồ con, kết luận phép chuẩn hoá"
+        ],
+        "correct_answer": " Tìm khoá, tìm phủ tối thiểu, xác định lược đồ con, kết luận phép chuẩn hoá"
+    },
+    {
+        "question": "Câu 53: Thuộc tính suy diễn là:",
+        "options": [
+            " một thuộc tính có thể có một tập giá trị cho cùng một thực thể",
+            " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác",
+            " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể",
+            " thuộc tính có thể phân chia được thành các thành phần nhỏ hơn, biểu diễn các thuộc tính cơ bản hơn với các ý nghĩa độc lập"
+        ],
+        "correct_answer": " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác"
+    },
+    {
+        "question": "Câu 54: Khẳng định nào sau đây là đúng khi nói về Dàn chuyên biệt hoá",
+        "options": [
+            " Nếu mỗi lớp cha chỉ tham gia vào một liên kết cha/con với vai trò lớp cha",
+            " Nếu mỗi lớp con chỉ tham gia vào một liên kết cha/con với vai trò lớp con",
+            " Nếu lớp con tham gia vào hai liên kết cha/con trở lên với vai trò lớp con",
+            " Một lớp cha có thể có các lớp con"
+        ],
+        "correct_answer": " Nếu lớp con tham gia vào hai liên kết cha/con trở lên với vai trò lớp con"
+    },
+    {
+        "question": "Câu 55: Những cơ sở dữ liệu nào sau đây được phân loại theo hình thức lưu trữ, mô hình tổ chức?",
+        "options": [
+            " Cơ sở dữ liệu dạng tệp dữ liệu",
+            " Cơ sở dữ liệu quan hệ",
+            " Cơ sở dữ liệu phân cấp",
+            " Cả 3 phương án trên"
+        ],
+        "correct_answer": " Cả 3 phương án trên"
+    },
+    {
+        "question": "Câu 56: Phát biểu nào sau đây là ĐÚNG khi nói về mô hình dữ liệu mạng?",
+        "options": [
+            " là mô hình được biểu diễn bởi một chu trình.",
+            " là mô hình được biểu diễn bởi một mạng máy tính.",
+            " là mô hình được biểu diễn bởi một đồ thị có hướng.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " là mô hình được biểu diễn bởi một đồ thị có hướng."
+    },
+    {
+        "question": "Câu 57: Các thuộc tính được phân biệt qua:",
+        "options": [
+            " Tên gọi.",
+            " Dữ liệu.",
+            " Mô hình dữ liệu.",
+            " Miền thuộc tính."
+        ],
+        "correct_answer": " Tên gọi."
+    },
+    {
+        "question": "Câu 58: Ký hiệu phụ thuộc hàm đầy đủ là gì?",
+        "options": [
+            " X!→Y",
+            " X#→Y",
+            " X+→Y",
+            " X%→Y"
+        ],
+        "correct_answer": " X+→Y"
+    },
+    {
+        "question": "Câu 59: Cho r(U,F). Gọi F + là bao đóng của tập phụ thuộc hàm F. Nếu F + =F khi đó khẳng định nào sau đây là đúng nhất:",
+        "options": [
+            " F+là họ không đầy đủ của các phụ thuộc hàm",
+            " F là họ đầy đủ của các phụ thuộc hàm",
+            " F+là họ đầy đủ của các phụ thuộc hàm F+là họ đầy đủ của các phụ thuộc hàm",
+            " F là họ không đầy đủ của các phụ thuộc hàm"
+        ],
+        "correct_answer": " F là họ đầy đủ của các phụ thuộc hàm"
+    },
+    {
+        "question": "Câu 60: Các bước trong thuật toán tìm phủ tối thiểu:",
+        "options": [
+            " Tách các PTH sao cho vế phải của mỗi PTH chỉ có một thuộc tính.",
+            " Loại bỏ các phụ thuộc hàm dư thừa.",
+            " Loại bỏ các thuộc tính dư thừa bên trái của mỗi phụ thuộc hàm.",
+            " Tất cả các phương án trên."
+        ],
+        "correct_answer": " Tất cả các phương án trên."
+    },
+    {
+        "question": "Câu 61: Khẳng định nào sau đây là đúng nhất khi nói R(U) là quan hệ không chuẩn hoá:",
+        "options": [
+            " Tất cả các miền trị của các thuộc tín trong quan hệ R chứa các giá trị đơn trị",
+            " Tồn tại miền trị của một thuộc tính trong quan hệ R chứa các giá trị không nguyên tố",
+            " Tất cả miền trị của các thuộc tính trong quan hệ R chứa các giá trị không nguyên tố",
+            " Tồn tại miền thuộc tính của R là có nhiều hơn một thuộc tính"
+        ],
+        "correct_answer": " Tồn tại miền trị của một thuộc tính trong quan hệ R chứa các giá trị không nguyên tố"
+    },
+    {
+        "question": "Câu 62: Thuộc tính lưu trữ là:",
+        "options": [
+            " một thuộc tính có thể có một tập giá trị cho cùng một thực thể",
+            " thuộc tính có giá trị có thể tính được thông qua giá trị của các thuộc tính khác",
+            " những thuộc tính có giá trị duy nhất cho một thực thể cụ thể",
+            " là các thuộc tính mà giá trị của nó được nhập vào khi cài đặt CSDL"
+        ],
+        "correct_answer": " là các thuộc tính mà giá trị của nó được nhập vào khi cài đặt CSDL"
+    },
+    {
+        "question": "Câu 63: Trong một công ty, kiểu thực thể NHANVIEN có thể được chia thành các nhóm nhỏ hơn như THUKY, KYSU, và KYTHUATVIEN. Các nhóm này được gọi là gì?",
+        "options": [
+            " Lớp cha",
+            " Lớp con",
+            " Kiểu thực thể mạnh",
+            " Kiểu thực thể yếu"
+        ],
+        "correct_answer": " Lớp con"
+    },
+    {
+        "question": "Câu 64: Những cơ sở dữ liệu nào sau đây được phân loại theo loại dữ liệu?",
+        "options": [
+            " Cơ sở dữ liệu dạng tệp dữ liệu",
+            " Cơ sở dữ liệu quan hệ",
+            " Cơ sở dữ liệu phân cấp",
+            " Cả 3 phương án trên"
+        ],
+        "correct_answer": " Cả 3 phương án trên"
+    },
+    {
+        "question": "Câu 65: Phát biểu nào sau đây là ĐÚNG khi nói về mô hình dữ liệu phân cấp?",
+        "options": [
+            " là mô hình được biểu diễn bởi một đồ thị có hướng.",
+            " là một cây, trong đó mỗi nút biểu diễn một thực thể, giữa nút con với nút cha được liên hệ với nhau theo một mối quan hệ xác định.",
+            " là mô hình trong đó các thuộc tính dữ liệu và các phương thức thao tác trên các thuộc tính đó đều được đóng gói trong các cấu trúc nhất định.",
+            " là một tập hợp dữ liệu mà về mặt logic tập dữ liệu này thuộc về một hệ thống, nhưng được trải trên các vị trí."
+        ],
+        "correct_answer": " là một cây, trong đó mỗi nút biểu diễn một thực thể, giữa nút con với nút cha được liên hệ với nhau theo một mối quan hệ xác định."
+    },
+    {
+        "question": "Câu 66: Tên thuộc tính nên đặt:",
+        "options": [
+            " sát với ý nghĩa của nó.",
+            " mang tính gợi nhớ.",
+            " không nên quá dài",
+            " Tất cả các phương án trên."
+        ],
+        "correct_answer": " Tất cả các phương án trên."
+    },
+    {
+        "question": "Câu 67: Ký hiệu phụ thuộc hàm bắc cầu là gì?",
+        "options": [
+            " X!→Y",
+            " X#→Y",
+            " X+→Y",
+            " X%→Y"
+        ],
+        "correct_answer": " X%→Y"
+    },
+    {
+        "question": "Câu 68: Cho biết công thức bao đóng của tập phụ thuộc hàm?",
+        "options": [
+            " F+= {f:X → Y| ,F ⊦f}",
+            " F+= {f:Y → X;| X,Y ∈ U  F -f}",
+            " F+= {f:X → Y,X,Y ∈ U  F ⊦f}",
+            " F+= {f:X → Y| X,Y ∈ U  F ⊦f}"
+        ],
+        "correct_answer": " F+= {f:X → Y| X,Y ∈ U  F ⊦f}"
+    },
+    {
+        "question": "Câu 69: Tập thuộc tính nguồn là những thuộc tính:",
+        "options": [
+            " xuất hiện ở vế phải của các phụ thuộc hàm.",
+            " xuất hiện ở vế trái của các phụ thuộc hàm.",
+            " xuất hiện ở cả 2 vế của phụ thuộc hàm.",
+            " chỉ xuất hiện ở vế trái và không xuất hiện ở vế phải của các phụ thuộc hàm có trong F."
+        ],
+        "correct_answer": " chỉ xuất hiện ở vế trái và không xuất hiện ở vế phải của các phụ thuộc hàm có trong F."
+    },
+    {
+        "question": "Câu 70: Nếu r(U,F) đã đạt chuẩn 3NF thì khẳng định nào sau đây là đúng nhất:",
+        "options": [
+            " r luôn đạt chuẩn BCNF",
+            " r có thể đạt hoặc không đạt chuẩn BCNF",
+            " r luôn không đạt chuẩn BCNF",
+            " r có thể đạt hoặc không đạt chuẩn  NFBC"
+        ],
+        "correct_answer": " r có thể đạt hoặc không đạt chuẩn BCNF"
+    },
+    {
+        "question": "Câu 71: Kiểu thực thể là:",
+        "options": [
+            " một tập các thực thể",
+            " một tập các thuộc tính mô tả thực thể",
+            " một tập hợp các thực thể có các thuộc tính giống nhau được mô tả bằng tên và các thuộc tính",
+            " đối tượng cần được quản lý"
+        ],
+        "correct_answer": " một tập hợp các thực thể có các thuộc tính giống nhau được mô tả bằng tên và các thuộc tính"
+    },
+    {
+        "question": "Câu 72: Khi chuyển đổi thực thể mạnh, nếu có thuộc tính phức hợp, ta chỉ cần:",
+        "options": [
+            " Giữ nguyên thuộc tính phức hợp",
+            " Bỏ qua các thuộc tính phức hợp",
+            " Lấy các thuộc tính thành phần đơn của nó",
+            " Chỉ lấy các thuộc tính khoá"
+        ],
+        "correct_answer": " Lấy các thuộc tính thành phần đơn của nó"
+    },
+    {
+        "question": "Câu 73: Các dạng CSDL hoạt động, CSDL kho, CSDL ngữ nghĩa được phân theo loại CSDL nào sau đây?",
+        "options": [
+            " Mô hình triển khai",
+            " Đặc tính sử dụng",
+            " Loại dữ liệu",
+            " Hình thức lưu trữ, mô hình tổ chức"
+        ],
+        "correct_answer": " Đặc tính sử dụng"
+    },
+    {
+        "question": "Câu 74: Trong mô hình dữ liệu thực thể kết hợp, những khái niệm nào sau đây được sử dụng?",
+        "options": [
+            " Thực thể và tập thực thể.",
+            " Thuộc tính của thực thể và khóa của tập thực thể.",
+            " Loại kết hợp và số ngôi của mối kết hợp",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Cả 3 phương án trên đều đúng."
+    },
+    {
+        "question": "Câu 75: Miền thuộc tính là:",
+        "options": [
+            " tất cả các thuộc tính.",
+            " các đặc trưng của 1 thực thể duy nhất.",
+            " tập hợp các thuộc tính của thực thể.",
+            " các giá trị dữ liệu."
+        ],
+        "correct_answer": " tập hợp các thuộc tính của thực thể."
+    },
+    {
+        "question": "Câu 76: Đâu là tiên đề phản xạ?",
+        "options": [
+            " Nếu Y = X thì  X → Y",
+            " Nếu Y ⊆ X thì  X !→ Y",
+            " Nếu Y ⊆ X thì  X → Y",
+            " Nếu X ⊆ Y thì  X → Y"
+        ],
+        "correct_answer": " Nếu X ⊆ Y thì  X → Y"
+    },
+    {
+        "question": "Câu 77: Cho biết công thức bao đóng của tập thuộc tính?",
+        "options": [
+            " X+= { A | A ⊆U; X →A ∈ F}",
+            " X+= { A | A ⊆U; X →A ∈ F+}",
+            " X+= { Y | A ⊆X; X →A ∈ F+}",
+            " X+= { A | A ⊆U; X →Y ∈ F+}"
+        ],
+        "correct_answer": " X+= { A | A ⊆U; X →A ∈ F+}"
+    },
+    {
+        "question": "Câu 78: Tập thuộc tính trung gian là những thuộc tính:",
+        "options": [
+            " xuất hiện ở vế phải của các phụ thuộc hàm.",
+            " xuất hiện ở vế trái của các phụ thuộc hàm.",
+            " xuất hiện ở cả 2 vế của phụ thuộc hàm.",
+            " chỉ xuất hiện ở vế trái và không xuất hiện ở vế phải của các phụ thuộc hàm có trong F."
+        ],
+        "correct_answer": " xuất hiện ở cả 2 vế của phụ thuộc hàm."
+    },
+    {
+        "question": "Câu 79: Cho lược đồ quan hệ r(U,F), với U={ABCD} và F={AB→D, D→C}. Khẳng định nào sau đây là đúng nhất?",
+        "options": [
+            " A là thuộc tính khoá",
+            " B là thuộc tính khoá",
+            " C là thuộc tính không khoá",
+            " Tất cả các phương án trên đều đúng"
+        ],
+        "correct_answer": " Tất cả các phương án trên đều đúng"
+    },
+    {
+        "question": "Câu 80: Cấp của kiểu liên kết là:",
+        "options": [
+            " số các kiểu thực thể tham gia vào kiểu liên kết",
+            " để chỉ rõ vai trò của các thực thể của kiểu thực thể tham gia liên kết",
+            " một kiểu liên kết với các vai trò khác nhau",
+            " chỉ ra rằng có phải sự tồn tại của một kiểu thực thể phụ thuộc vào một kiểu thực thể khác thông qua một kiểu liên kết hay không"
+        ],
+        "correct_answer": " số các kiểu thực thể tham gia vào kiểu liên kết"
+    },
+    {
+        "question": "Câu 81: Khi chuyển đổi thực thể yếu, các thuộc tính khóa chính của kiểu thực thể chủ sẽ được đưa vào quan hệ R như thế nào?",
+        "options": [
+            " Là thuộc tính không khóa",
+            " Là khóa chính của R",
+            " Là khóa ngoài của R",
+            " Không cần đưa vào R"
+        ],
+        "correct_answer": " Là khóa ngoài của R"
+    },
+    {
+        "question": "Câu 82: Các dạng CSDL hoạt động, CSDL kho, CSDL ngữ nghĩa được phân theo loại CSDL nào sau đây?",
+        "options": [
+            " Mô hình triển khai",
+            " Đặc tính sử dụng",
+            " Loại dữ liệu",
+            " Hình thức lưu trữ, mô hình tổ chức"
+        ],
+        "correct_answer": " Đặc tính sử dụng"
+    },
+    {
+        "question": "Câu 83: Trong mô hình quan hệ, mỗi bảng được gọi là:",
+        "options": [
+            " quan hệ.",
+            " thuộc tính.",
+            " bộ dữ liệu.",
+            " miền thuộc tính."
+        ],
+        "correct_answer": " quan hệ."
+    },
+    {
+        "question": "Câu 84: Miền trị của thuộc tính là:",
+        "options": [
+            " các đặc trưng của 1 thực thể duy nhất.",
+            " một tập hợp các giá trị của thuộc tính.",
+            " tập hợp các thuộc tính của thực thể.",
+            " tất cả các thuộc tính."
+        ],
+        "correct_answer": " một tập hợp các giá trị của thuộc tính."
+    },
+    {
+        "question": "Câu 85: Đâu là tiên đề tăng trưởng?",
+        "options": [
+            " Nếu Y → X và Z ∈ U  thì  XZ → YZ",
+            " Nếu Y → W và Z ∈ U  thì  XZ → YZ",
+            " Nếu X → Y và Z ∈ U  thì  XZ → YZ",
+            " Nếu X → Y và Z ∈ U  thì  Z → XY"
+        ],
+        "correct_answer": " Nếu X → Y và Z ∈ U  thì  XZ → YZ"
+    },
+    {
+        "question": "Câu 86: Để tính bao đóng của tập thuộc tính X, ta thực hiện bước đầu tiên nào?",
+        "options": [
+            " Đặt X⁺ = U",
+            " Đặt X⁺ = {}",
+            " Đặt X₀ = X",
+            " Đặt X₁ = {}"
+        ],
+        "correct_answer": " Đặt X₀ = X"
+    },
+    {
+        "question": "Câu 87: Trong thuật toán tìm tất cả các khoá, nếu tập trung gian rỗng thì:",
+        "options": [
+            " khoá là tập nguồn",
+            " khoá là tập đích",
+            " quan hệ không có khoá",
+            " quan hệ có nhiều hơn một khoá"
+        ],
+        "correct_answer": " khoá là tập nguồn"
+    },
+    {
+        "question": "Câu 88: Cho lược đồ quan hệ r(U,F), với U={ABCD} và F={AB→D, D→C}. Khẳng định nào sau đây là đúng nhất?",
+        "options": [
+            " A là thuộc tính không khoá",
+            " B là thuộc tính không khoá",
+            " C là thuộc tính khoá",
+            " Tất cả các phương án trên đều sai"
+        ],
+        "correct_answer": " Tất cả các phương án trên đều sai"
+    },
+    {
+        "question": "Câu 89: Ràng buộc tỷ sô lực lượng cho 1 kiểu liên kết là:",
+        "options": [
+            " Chỉ ra các thuộc tính giống như các thuộc tính của kiểu thực thể.",
+            " chỉ ra số tổ hợp có thể của các thực thể tham gia trong tập hợp các thể hiện liên kết",
+            " chỉ ra số các thể hiện liên kết mà một thực thể có thể tham gia",
+            " chỉ ra rằng có phải sự tồn tại của một kiểu thực thể phụ thuộc vào một kiểu thực thể khác thông qua một kiểu liên kết hay không"
+        ],
+        "correct_answer": " chỉ ra số các thể hiện liên kết mà một thực thể có thể tham gia"
+    },
+    {
+        "question": "Câu 90: Kiểu liên kết lớp cha/lớp con có tỷ số lực lượng nào?",
+        "options": [
+            " 1:1",
+            " 1:N",
+            " N:1",
+            " N:M"
+        ],
+        "correct_answer": " 1:1"
+    },
+    {
+        "question": "Câu 91: Đâu là phát biểu SAI khi nói về ưu điểm của cơ sở dữ liệu",
+        "options": [
+            " Đảm bảo tính nhất quán cho các dữ liệu được lưu trữ.",
+            " Hạn chế sự trùng lặp dữ liệu.",
+            " Dễ dàng truy cập, thay đổi, thống kê dữ liệu.",
+            " Không chia sẻ, phân phối dữ liệu."
+        ],
+        "correct_answer": " Không chia sẻ, phân phối dữ liệu."
+    },
+    {
+        "question": "Câu 92: Trong mô hình quan hệ, mỗi cột trong bảng được gọi là:",
+        "options": [
+            " quan hệ.",
+            " thuộc tính.",
+            " bộ dữ liệu.",
+            " miền thuộc tính."
+        ],
+        "correct_answer": " thuộc tính."
+    },
+    {
+        "question": "Câu 93: Phát biểu nào sau đây là ĐÚNG khi nói về Hệ quản trị CSDL?",
+        "options": [
+            " Phần chương trình để có thể xử lý, thay đổi cơ sở dữ liệu.",
+            " Là một phần mềm cho phép tạo lập, điều khiển  hoặc truy  nhập CSDL và đảm bảo tính độc lập dữ liệu.",
+            " Có nhiệm vụ diễn dịch với ngôn ngữ bậc cao nhằm giúp người sử dụng có thể dùng được hệ thống mà không cần quan tâm đến thuật toán hoặc biểu diễn dữ  liệu trong máy.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Cả 3 phương án trên đều đúng."
+    },
+    {
+        "question": "Câu 94: Đâu là tiên đề bắc cầu?",
+        "options": [
+            " Nếu X → Y và Y → Z thì X → Z",
+            " Nếu Y → X và Y → Z thì X → Z",
+            " Nếu X → Y và X → Z thì X → Z",
+            " Nếu X → Y và Y → Z thì X → YZ"
+        ],
+        "correct_answer": " Nếu X → Y và Y → Z thì X → Z"
+    },
+    {
+        "question": "Câu 95: Một lược đồ quan hệ được ký hiệu là:",
+        "options": [
+            " r (U, R)",
+            " r (U,F)",
+            " u (R, F)",
+            " F (U, D."
+        ],
+        "correct_answer": " r (U,F)"
+    },
+    {
+        "question": "Câu 96: Trong thuật toán tìm tất cả các khoá, nếu (TN) + = U thì:",
+        "options": [
+            " khoá là tập nguồn",
+            " khoá là tập đích",
+            " quan hệ không có khoá",
+            " quan hệ có nhiều hơn một khoá"
+        ],
+        "correct_answer": " khoá là tập nguồn"
+    },
+    {
+        "question": "Câu 97: Lý do phải chuẩn hoá dữ liệu vì khi thực hiện các phép lưu trữ trên quan hệ chưa chuẩn hoá thường:",
+        "options": [
+            " Xuất hiện các dị thường dữ liệu",
+            " Phức tạp về dữ liệu",
+            " Gây khó khăn cho việc tìm kiếm dữ liệu",
+            " Gây lãng phí việc sử dụng bộ nhớ"
+        ],
+        "correct_answer": " Xuất hiện các dị thường dữ liệu"
+    },
+    {
+        "question": "Câu 98: Thuộc tính là dữ liệu dùng để:",
+        "options": [
+            " mô tả tất cả thông tin của thực thể.",
+            " mô tả giá trị tại một hàng trong bảng.",
+            " mô tả một đặc trưng của thực thể.",
+            " mô tả đối tượng cần quản lý."
+        ],
+        "correct_answer": " mô tả một đặc trưng của thực thể."
+    },
+    {
+        "question": "Câu 99: Khi chuyển đổi từ mô hình ER sang mô hình quan hệ, cách chuyển đổi thực thể mạnh như thế nào?",
+        "options": [
+            " Với mỗi kiểu thực thể thông thường E trong lược đồ ER, tạo một LĐQH R(E) chứa mọi thuộc tính đơn của E",
+            " Với các thuộc tính phức hợp của E, chỉ lấy các thành phần đơn đưa vào làm thuộc tính của R(E)",
+            " Chọn một trong các thuộc tính khoá của E làm khoá chính cho R(E)",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 100: Người tổ chức nội dung của cơ sở dữ liệu, tạo và cấp quyền truy cập cơ sở dữ liệu cho người dùng, đưa ra yêu cầu về phần cứng và phần mềm, chịu trách nhiệm bảo vệ an toàn, Backup thông tin khi có sự cố xảy ra là đối tượng nào sau đây?",
+        "options": [
+            " Người quản trị cơ sở dữ liệu",
+            " Người phân tích và thiết kế hệ thống",
+            " Người viết chương trình ứng dụng",
+            " Người dùng cuối"
+        ],
+        "correct_answer": " Người quản trị cơ sở dữ liệu"
+    },
+    {
+        "question": "Câu 101: Trong mô hình quan hệ, mỗi hàng trong bảng được gọi là:",
+        "options": [
+            " quan hệ.",
+            " thuộc tính.",
+            " bộ dữ liệu.",
+            " miền thuộc tính."
+        ],
+        "correct_answer": " bộ dữ liệu."
+    },
+    {
+        "question": "Câu 102: Phát biểu nào sau đây là ĐÚNG khi nói về chức năng cùa Hệ quản trị CSDL?",
+        "options": [
+            " Cung cấp môi trường tạo lập cơ sở dữ liệu.",
+            " Cung cấp môi trường cập nhật và khai thác dữ liệu.",
+            " Cung cấp công cụ điều khiển truy cập vào CSDL.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Cả 3 phương án trên đều đúng."
+    },
+    {
+        "question": "Câu 103: Đâu là luật hợp?",
+        "options": [
+            " Nếu X → Y và Y → Z thì X → YZ",
+            " Nếu X → Y và W → Z thì XW → YZ",
+            " Nếu XW → Y và XW → Z thì XW → YZ",
+            " Nếu X% → Y và X %→ Z thì X → YZ"
+        ],
+        "correct_answer": " Nếu XW → Y và XW → Z thì XW → YZ"
+    },
+    {
+        "question": "Câu 104: Định lý nào sau đây đúng về phụ thuộc hàm?",
+        "options": [
+            " X → Y ∈ F⁺ khi và chỉ khi Y ⊆",
+            " X → Y ∈ F⁺ khi và chỉ khi Y ⊆",
+            " X → Y ∈ F⁺ luôn đúng",
+            " X → Y ∈ F⁺ không thể xác định"
+        ],
+        "correct_answer": " X → Y ∈ F⁺ khi và chỉ khi Y ⊆"
+    },
+    {
+        "question": "Câu 105: Cho lược đồ quan hệ r xác định trên tập thuộc tính U, F và G là 2 tập phụ thuộc hàm xác định trên U. Khẳng định nào sau đây là đúng nhất khi nói F không tương đương với G:",
+        "options": [
+            " Tất cả các phụ thuộc hàm của G không được suy dẫn logic từ F và ngược lại",
+            " Tồn tại các phụ thuộc hàm của G được suy dẫn logic từ F và ngược lại",
+            " Tất cả các phụ thuộc hàm của F được suy dẫn logic từ G và ngược lại",
+            " Ít nhất một phụ thuộc hàm của F không được suy dẫn logic từ G hoặc ít nhất một phụ thuộc hàm của G không được suy dẫn logic từ F"
+        ],
+        "correct_answer": " Ít nhất một phụ thuộc hàm của F không được suy dẫn logic từ G hoặc ít nhất một phụ thuộc hàm của G không được suy dẫn logic từ F"
+    },
+    {
+        "question": "Câu 106: Chuẩn hoá dữ liệu nhằm:",
+        "options": [
+            " Giảm mức thấp nhất thời gian tìm kiếm dữ liệu",
+            " Giảm mức tối đa việc sử dụng bộ nhớ",
+            " Giảm mức thấp nhất khẳ năng xuất hiện các dị thường về dữ liệu",
+            " Giảm mức thấp nhất việc phải thiết kế các bảng dữ liệu"
+        ],
+        "correct_answer": " Giảm mức thấp nhất khẳ năng xuất hiện các dị thường về dữ liệu"
+    },
+    {
+        "question": "Câu 107: Trong bước thu thập và phân tích các yêu cầu, kết quả cuối cùng là gì?",
+        "options": [
+            " Lược đồ quan niệm",
+            " Lược đồ thực thi",
+            " Tập các yêu cầu của người sử dụng",
+            " Mô hình dữ liệu"
+        ],
+        "correct_answer": " Tập các yêu cầu của người sử dụng"
+    },
+    {
+        "question": "Câu 108: Đâu là phát biểu ĐÚNG khi nói về các thành phần của hệ cơ sở dữ liệu?",
+        "options": [
+            " Gồm: Dữ liệu, phần mềm, phần cứng, người quản trị.",
+            " Gồm: Dữ liệu, xử lý, phần cứng, người quản trị.",
+            " Gồm: Dữ liệu, phần mềm, phần cứng, người dùng",
+            " Gồm: Dữ liệu, phần mềm, phần cứng, người lập trình."
+        ],
+        "correct_answer": " Gồm: Dữ liệu, phần mềm, phần cứng, người dùng"
+    },
+    {
+        "question": "Câu 109: Phát biểu nào sau đây là ĐÚNG khi nói về Hệ quản trị CSDL?",
+        "options": [
+            " Phần chương trình để có thể xử lý, thay đổi cơ sở dữ liệu.",
+            " Là một phần mềm cho phép tạo lập, điều khiển  hoặc truy  nhập CSDL và đảm bảo tính độc lập dữ liệu.",
+            " Có nhiệm vụ diễn dịch với ngôn ngữ bậc cao nhằm giúp người sử dụng có thể dùng được hệ thống mà không cần quan tâm đến thuật toán hoặc biểu diễn dữ  liệu trong máy.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Cả 3 phương án trên đều đúng."
+    },
+    {
+        "question": "Câu 110: Trong mô hình dữ liệu quan hệ, cột trong 1 bảng được gọi là:",
+        "options": [
+            " Bản ghi",
+            " Trường dữ liệu",
+            " Thuộc tính",
+            " Quan hệ"
+        ],
+        "correct_answer": " Thuộc tính"
+    },
+    {
+        "question": "Câu 111: Đâu là luật tách?",
+        "options": [
+            " Nếu XY → Z thì X → Z và  Y → Z",
+            " Nếu X → YZ thì X → Y và  X → Z",
+            " Nếu XZ → YZ thì XZ → Y và  XZ → Z",
+            " Nếu XY → YZ thì X Y→ Y và  XY → Z"
+        ],
+        "correct_answer": " Nếu X → YZ thì X → Y và  X → Z"
+    },
+    {
+        "question": "Câu 112: Cho lược đồ quan hệ r(U, F) với U = {A, B, C} và F = {A → B; B → C}, thì bao đóng của A là:",
+        "options": [
+            " {A}B.{A,B}",
+            " {A,B,C}",
+            " {B, C}"
+        ],
+        "correct_answer": " {A,B,C}"
+    },
+    {
+        "question": "Câu 113: Khi nào 2 tập phụ thuộc hàm F và G tương đương nhau?",
+        "options": [
+            " F+= G+",
+            " F+- G+",
+            " F > G",
+            " F< G"
+        ],
+        "correct_answer": " F+= G+"
+    },
+    {
+        "question": "Câu 114: Khi tất cả các yêu cầu đã được thu thập và phân tích, bước tiếp theo làm gì?",
+        "options": [
+            " Tạo ra lược đồ logic",
+            " Tạo ra lược đồ mức vật lý",
+            " Tạo ra một lược đồ quan niệm",
+            " Ánh xạ mô hình dữ liệu"
+        ],
+        "correct_answer": " Tạo ra một lược đồ quan niệm"
+    },
+    {
+        "question": "Câu 115: Người dùng CSDL có thể chia thành mấy lớp?",
+        "options": [
+            " 2",
+            " 3",
+            " 5",
+            " 8"
+        ],
+        "correct_answer": " 3"
+    },
+    {
+        "question": "Câu 116: Phát biểu nào sau đây là ĐÚNG khi nói về chức năng cùa Hệ quản trị CSDL?",
+        "options": [
+            " Cung cấp môi trường tạo lập cơ sở dữ liệu.",
+            " Cung cấp môi trường cập nhật và khai thác dữ liệu.",
+            " Cung cấp công cụ điều khiển truy cập vào CSDL.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Cả 3 phương án trên đều đúng."
+    },
+    {
+        "question": "Câu 117: Trong mô hình dữ liệu quan hệ, 1 bảng được gọi là:",
+        "options": [
+            " Bản ghi",
+            " Bộ dữ liệu",
+            " Thuộc tính",
+            " Quan hệ"
+        ],
+        "correct_answer": " Quan hệ"
+    },
+    {
+        "question": "Câu 118: Đâu là tiên đề bắc cầu?",
+        "options": [
+            " Nếu X → Y và YW → Z thì XW → Z",
+            " Nếu X → Y và W → Z thì XW → Z",
+            " Nếu X → Y và Y → Z thì XW → Z",
+            " Nếu X → Y và YW → Z thì W → Z"
+        ],
+        "correct_answer": " Nếu X → Y và YW → Z thì XW → Z"
+    },
+    {
+        "question": "Câu 119: Để tính bao đóng của tập thuộc tính X, thuật toán sẽ lặp lại cho đến khi nào?",
+        "options": [
+            " Tất cả các thuộc tính trong U đã được thêm vào",
+            " Không còn thuộc tính nào có thể áp dụng",
+            " Tất cả các thuộc tính trong quan hệ",
+            " Thêm được tất cả các thuộc tính trong tập phụ thuộc hàm F"
+        ],
+        "correct_answer": " Không còn thuộc tính nào có thể áp dụng"
+    },
+    {
+        "question": "Câu 120: Cho tập phụ thuộc hàm F= {DE→A, A→B, AB→C, BD→B, BD→C}. Cho biết phụ thuộc hàm nào dư thừa?",
+        "options": [
+            " BD→B",
+            " AB→C",
+            " BD→C",
+            " Không có phụ thuộc hàm dư thừa"
+        ],
+        "correct_answer": " BD→B"
+    },
+    {
+        "question": "Câu 121: Chuyển đổi lược đồ quan niệm từ mô hình dữ liệu bậc cao thành mô hình dữ liệu thực thi là bước nào sau đây?",
+        "options": [
+            " Thiết kế lược đồ logic",
+            " Thiết kế mức vật lý",
+            " Thiết kế quan niệm",
+            " Ánh xạ mô hình dữ liệu"
+        ],
+        "correct_answer": " Thiết kế lược đồ logic"
+    },
+    {
+        "question": "Câu 122: Đâu là phát biểu ĐÚNG khi nói về cấu trúc của hệ cơ sở dữ liệu?",
+        "options": [
+            " Cấu trúc một hệ cơ sở dữ liệu gồm mức vật lý, mức trong, mức logic.",
+            " Cấu trúc một hệ cơ sở dữ liệu gồm mức trong, mức logic, mức trừu tượng.",
+            " Cấu trúc một hệ cơ sở dữ liệu gồm mức nhìn, mức logic, mức vật lý.",
+            " Cấu trúc một hệ cơ sở dữ liệu gồm mức trong, mức ngoài, mức xử lý dữ liệu."
+        ],
+        "correct_answer": " Cấu trúc một hệ cơ sở dữ liệu gồm mức nhìn, mức logic, mức vật lý."
+    },
+    {
+        "question": "Câu 123: Trong kiến trúc Hệ quản trị CSDL, Các truy vấn được sinh ra theo cách nào?",
+        "options": [
+            " Thông qua sự thay đổi của dữ liệu.",
+            " Thông qua giao diện truy vấn chung và các giao diện chương trình ứng dụng.",
+            " lấy ra các thông tin được yêu cầu từ những thiết bị lưu trữ dữ liệu và thay đổi những thông tin này khi được yêu cầu.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Thông qua giao diện truy vấn chung và các giao diện chương trình ứng dụng."
+    },
+    {
+        "question": "Câu 124: Trong một bảng dữ liệu:",
+        "options": [
+            " Không cần thiết có khoá chính",
+            " Có duy nhất một khoá chính",
+            " Có ít nhất một khoá chính",
+            " Không cần thiết phải có thuộc tính khoá chính"
+        ],
+        "correct_answer": " Có duy nhất một khoá chính"
+    },
+    {
+        "question": "Câu 125: Phụ thuộc hàm dùng để:",
+        "options": [
+            " thể hiện các yếu tố liên quan đến dữ liệu.",
+            " mô tả giá trị tại một hàng trong bảng.",
+            " biểu diễn một cách hình thức các ràng buộc toàn vẹn.",
+            " giải quyết các bài toán tìm khóa."
+        ],
+        "correct_answer": " biểu diễn một cách hình thức các ràng buộc toàn vẹn."
+    },
+    {
+        "question": "Câu 126: Cho tập phụ thuộc hàm F= {A→B, C→B, C→A, D→B}. Cho biết phụ thuộc hàm nào dư thừa?",
+        "options": [
+            " A→B",
+            " C→B",
+            " D→B",
+            " Không có phụ thuộc hàm dư thừa"
+        ],
+        "correct_answer": " C→B"
+    },
+    {
+        "question": "Câu 127: Khi thiết kế CSDL, bước nào sau đây phải chỉ ra các cấu trúc bên trong, các đường dẫn truy cập và tổ chức tập tin cho các tập tin CSDL?",
+        "options": [
+            " Thiết kế lược đồ logic",
+            " Thiết kế mức vật lý",
+            " Thiết kế quan niệm",
+            " Ánh xạ mô hình dữ liệu"
+        ],
+        "correct_answer": " Thiết kế mức vật lý"
+    },
+    {
+        "question": "Câu 128: Những vấn đề mà cơ sở dữ liệu cần giải quyết?",
+        "options": [
+            " Tính chủ quyền của dữ liệu, Tính bảo mật, Tranh chấp dữ liệu, Đảm bảo an toàn dữ liệu khi có sự cố.",
+            " Tính bảo mật và quyền khai thác thông tin của người sử dụng, Tranh chấp dữ liệu, Đảm bảo an toàn dữ liệu khi có sự cố.",
+            " Tính chủ quyền của dữ liệu, Tính bảo mật và quyền khai thác thông tin của người sử dụng, Tranh chấp dữ liệu, Đảm bảo an toàn dữ liệu khi có sự cố.",
+            " Tính chủ quyền của dữ liệu, Tính bảo mật và đảm bảo an toàn dữ liệu."
+        ],
+        "correct_answer": " Tính chủ quyền của dữ liệu, Tính bảo mật và quyền khai thác thông tin của người sử dụng, Tranh chấp dữ liệu, Đảm bảo an toàn dữ liệu khi có sự cố."
+    },
+    {
+        "question": "Câu 129: Đặc điểm nào sau đây không thuộc về mô hình dữ liệu phân tán?",
+        "options": [
+            " Dữ liệu không cư trú tại một vị trí",
+            " Quản lý dữ liệu tập trung",
+            " Dữ liệu có tương quan logic với nhau",
+            " Thích hợp với tổ chức không tập trungĐáp án: B) Quản lý dữ liệu tập trung"
+        ],
+        "correct_answer": " Dữ liệu không cư trú tại một vị trí"
+    },
+    {
+        "question": "Câu 130: Phép kết nối thực chất là việc kết hợp của:",
+        "options": [
+            " Tích Đề Các và phép chia",
+            " Phép chiếu và phép chọn",
+            " Tích Đề Các và phép chọn",
+            " Tích Đề Các và phép chiếu"
+        ],
+        "correct_answer": " Tích Đề Các và phép chọn"
+    },
+    {
+        "question": "Câu 131: Khẳng định nào sau đây là đúng nhất:",
+        "options": [
+            " Số hoá đơn →Ngày hoá đơn",
+            " Ngày hoá đơn→Số hoá đơn",
+            " Mã khách →Số hoá đơn",
+            " Tên khách→ Mã khách"
+        ],
+        "correct_answer": " Số hoá đơn →Ngày hoá đơn"
+    },
+    {
+        "question": "Câu 132: Cho tập phụ thuộc hàm F= {A→B, C→D, AB→C, BD→E}. Cho biết phụ thuộc hàm nào có thuộc tính dư thừa?",
+        "options": [
+            " AB→C thừa thuộc tính A",
+            " AB→C thừa thuộc tính B",
+            " BD→E thừa thuộc tính B",
+            " BD→E thừa thuộc tính D"
+        ],
+        "correct_answer": " AB→C thừa thuộc tính B"
+    },
+    {
+        "question": "Câu 133: Mô hình dữ liệu quan niệm mức cao được sử dụng để làm gì?",
+        "options": [
+            " Để mô tả các chi tiết kỹ thuật của cơ sở dữ liệu",
+            " Để giao tiếp và xác nhận các yêu cầu với người sử dụng",
+            " Để xác định các ràng buộc và kiểu thực thể",
+            " Để tối ưu hóa các đường dẫn truy cập"
+        ],
+        "correct_answer": " Để giao tiếp và xác nhận các yêu cầu với người sử dụng"
+    },
+    {
+        "question": "Câu 134: Tại sao mô hình dữ liệu quan hệ trở nên phổ biến trong quản lý cơ sở dữ liệu hiện nay?",
+        "options": [
+            " Vì nó dễ sử dụng",
+            " Do tính chất chặt chẽ và rõ ràng trong mô tả dữ liệuC). Vì nó có thể lưu trữ nhiều loại dữ liệu khác nhau",
+            " Vì nó không yêu cầu ngôn ngữ lập trình"
+        ],
+        "correct_answer": " Do tính chất chặt chẽ và rõ ràng trong mô tả dữ liệuC). Vì nó có thể lưu trữ nhiều loại dữ liệu khác nhau"
+    },
+    {
+        "question": "Câu 135: Trong kiến trúc Hệ quản trị CSDL, Các truy vấn được sinh ra theo cách nào?",
+        "options": [
+            " Thông qua sự thay đổi của dữ liệu.",
+            " Thông qua giao diện truy vấn chung và các giao diện chương trình ứng dụng.",
+            " lấy ra các thông tin được yêu cầu từ những thiết bị lưu trữ dữ liệu và thay đổi những thông tin này khi được yêu cầu.",
+            " Cả 3 phương án trên đều đúng."
+        ],
+        "correct_answer": " Thông qua giao diện truy vấn chung và các giao diện chương trình ứng dụng."
+    },
+    {
+        "question": "Câu 136: Cho quan hệ DIEMTHI (MaSV, MaMon, Diem); Phụ thuộc hàm nào sau đây là phụ thuộc hàm đầy đủ?",
+        "options": [
+            " F= {MaSV → MaMon, Diem}",
+            " F= {MaMon → MaSV, Diem}",
+            " F= {MaSV, Diem → MaMon }",
+            " F= {MaSV, MaMon → Diem}"
+        ],
+        "correct_answer": " F= {MaSV, MaMon → Diem}"
+    },
+    {
+        "question": "Câu 137: Cho tập phụ thuộc hàm F = { AB→E, E→C, CE→D, AC→D }. Cho biết phụ thuộc hàm nào có thuộc tính dư thừa?",
+        "options": [
+            " AB→E thừa thuộc tính A",
+            " AB→E thừa thuộc tính B",
+            " CE→D thừa thuộc tính C",
+            " CE→D thừa thuộc tính E"
+        ],
+        "correct_answer": " CE→D thừa thuộc tính C"
+    },
+    {
+        "question": "Câu 138: Trong mô hình ER, các thực thể được biểu diễn bằng:",
+        "options": [
+            " Hình chữ nhật",
+            " Hình thoi",
+            " Hình tròn",
+            " Hình elip"
+        ],
+        "correct_answer": " Hình chữ nhật"
+    },
+    {
+        "question": "Câu 139: Mô hình dữ liệu thực thể - kết hợp có đặc điểm gì nổi bật?",
+        "options": [
+            " Nó không sử dụng khóa",
+            " Nó nhấn mạnh vào các thực thể và mối quan hệ giữa chúng",
+            " Nó chỉ sử dụng một loại dữ liệu",
+            " Nó không hỗ trợ các thuộc tính"
+        ],
+        "correct_answer": " Nó nhấn mạnh vào các thực thể và mối quan hệ giữa chúng"
+    },
+    {
+        "question": "Câu 140: Phép kết nối thực chất là việc kết hợp của:",
+        "options": [
+            " Tích Đề Các và phép chia",
+            " Phép chiếu và phép chọn",
+            " Tích Đề Các và phép chọn",
+            " Tích Đề Các và phép chiếu"
+        ],
+        "correct_answer": " Tích Đề Các và phép chọn"
+    },
+    {
+        "question": "Câu 141: Cho R(ABC), F= (A →B, B →C}; Phụ thuộc hàm nào sau đây là phụ thuộc hàm bắc cầu?",
+        "options": [
+            " C →A",
+            " B →A",
+            " A →B",
+            " A →C"
+        ],
+        "correct_answer": " A →C"
+    },
+    {
+        "question": "Câu 142: Cho tập phụ thuộc hàm F = { CD→E, E→A, AE→B, AC→A, AC→B}. Cho biết phụ thuộc hàm nào dư thừa?",
+        "options": [
+            " E→A",
+            " AE→B",
+            " AC→A",
+            " AC→B"
+        ],
+        "correct_answer": " AC→A"
+    },
+    {
+        "question": "Câu 143: Tập hợp các thực thể có cùng thuộc tính được gọi là:",
+        "options": [
+            " Kiểu liên kết",
+            " Tập thuộc tính",
+            " Kiểu thực thể",
+            " Tập liên kết"
+        ],
+        "correct_answer": " Kiểu thực thể"
+    },
+    {
+        "question": "Câu 144: Mô hình dữ liệu hướng đối tượng có điểm gì khác biệt so với mô hình dữ liệu quan hệ?",
+        "options": [
+            " Nó không cho phép lưu trữ dữ liệu",
+            " Nó không sử dụng khóa",
+            " Nó cho phép đóng gói dữ liệu và phương thức",
+            " Nó chỉ lưu trữ dữ liệu dạng bảng"
+        ],
+        "correct_answer": " Nó cho phép đóng gói dữ liệu và phương thức"
+    },
+    {
+        "question": "Câu 145: Phép kết nối tự nhiên là:",
+        "options": [
+            " kết nối bằng và tại quan hệ kết quả, các quan hệ trùng tên được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các thuộc tính trùng tên được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các dòng trùng nhau được chập lại",
+            " kết nối bằng và tại quan hệ kết quả, các bộ có giá trị trùng nhau được chập lại"
+        ],
+        "correct_answer": " kết nối bằng và tại quan hệ kết quả, các thuộc tính trùng tên được chập lại"
+    },
+    {
+        "question": "Câu 146: Cho tập phụ thuộc hàm F = { CD→E, E→A, AE→B, AC→B}. Cho biết phụ thuộc hàm nào có thuộc tính dư thừa?",
+        "options": [
+            " AE→B thừa thuộc tính A",
+            " AE→B thừa thuộc tính E",
+            " AE→B thừa thuộc tính A",
+            " AE→B thừa thuộc tính E"
+        ],
+        "correct_answer": " AE→B thừa thuộc tính A"
+    },
+    {
+        "question": "Câu 147: Thuộc tính mà giá trị của nó dùng để phân biệt các thực thể với nhau gọi là gì?",
+        "options": [
+            " Thuộc tính khoá ngoài",
+            " Thuộc tính khoá",
+            " Thuộc tính suy diễn",
+            " Thuộc tính phức hợp"
+        ],
+        "correct_answer": " Thuộc tính khoá"
+    },
+    {
+        "question": "Câu 148: Tại sao dữ liệu trong một hệ thống cơ sở dữ liệu phân tán lại cần có tương quan logic?",
+        "options": [
+            " Để dễ dàng truy cập",
+            " Để đảm bảo tính nhất quán và liên kết giữa các dữ liệu",
+            " Để tiết kiệm không gian lưu trữ",
+            " Để tăng tốc độ truy vấn"
+        ],
+        "correct_answer": " Để đảm bảo tính nhất quán và liên kết giữa các dữ liệu"
+    },
+    {
+        "question": "Câu 149: Cho tập phụ thuộc hàm F = {B→C; B→E; A→B; AB→E; AB→D}. Cho biết phụ thuộc hàm nào dư thừa?",
+        "options": [
+            " AB→E",
+            " AB→D",
+            " B→E",
+            " Không có phụ thuộc hàm dư thừa"
+        ],
+        "correct_answer": " AB→E"
+    },
+    {
+        "question": "Câu 150: Mô hình thực thể kết hợp dùng để thiết kế CSDL ở mức nào?",
+        "options": [
+            " Phân tích.",
+            " Quan niệm.",
+            " Logic.",
+            " Vật lý"
+        ],
+        "correct_answer": " Quan niệm."
+    },
+    {
+        "question": "Câu 151: Cho tập phụ thuộc hàm F = {B→C; BH→E; A→B; AB→D}. Cho biết phụ thuộc hàm nào dư thừa?",
+        "options": [
+            " AB→D thừa thuộc tính A",
+            " AB→D thừa thuộc tính B",
+            " BH→E thừa thuộc tính B",
+            " BH→E thừa thuộc tính H"
+        ],
+        "correct_answer": " AB→D thừa thuộc tính B"
+    }
+]
