@@ -1,0 +1,852 @@
+[
+    {
+        "question": "Câu 1: An toàn thông tin (ATTT) được hiểu là gì?",
+        "options": [
+            " Hành động cho phép mọi cá nhân truy cập vào hệ thống mạng máy tính",
+            " Hành động nhằm ngăn chặn truy cập bất hợp pháp vào hệ thống mạng máy tính hoặc dữ liệu riêng tư",
+            " Hành động khuyến khích chia sẻ thông tin cá nhân rộng rãi trên mạng",
+            " Hành động cho phép thay đổi, chỉnh sửa dữ liệu của người khác"
+        ],
+        "correct_answer": " Hành động nhằm ngăn chặn truy cập bất hợp pháp vào hệ thống mạng máy tính hoặc dữ liệu riêng tư"
+    },
+    {
+        "question": "Câu 2: Hình thức tấn công mạng nào sử dụng phần mềm độc hại để xâm nhập và gây hại cho hệ thống?",
+        "options": [
+            " Tấn công từ chối dịch vụ",
+            " Tấn công giả mạo",
+            " Tấn công mạng sử dụng phần mềm độc hại – Malware",
+            " Tấn công trung gian"
+        ],
+        "correct_answer": " Tấn công mạng sử dụng phần mềm độc hại – Malware"
+    },
+    {
+        "question": "Câu 3: Hai hình thức gây hại chính cho dữ liệu truyền tin là gì?",
+        "options": [
+            " Mã hóa và giải mã",
+            " Chủ động và thụ động",
+            " Nén và giải nén",
+            " Xác thực và ủy quyền"
+        ],
+        "correct_answer": " Chủ động và thụ động"
+    },
+    {
+        "question": "Câu 4: Tường lửa (Firewall) là gì?",
+        "options": [
+            " Phần mềm diệt virus",
+            " Hệ thống an ninh mạng kiểm soát traffic vào ra",
+            " Hệ thống mã hóa dữ liệu",
+            " Hệ thống sao lưu dữ liệu"
+        ],
+        "correct_answer": " Hệ thống an ninh mạng kiểm soát traffic vào ra"
+    },
+    {
+        "question": "Câu 5: Lỗ hổng phần mềm là gì?",
+        "options": [
+            " Một trục trặc hoặc điểm yếu trong phần mềm hoặc hệ điều hành",
+            " Một tính năng bảo mật nâng cao trong phần mềm",
+            " Một bản cập nhật mới nhất của phần mềm",
+            " Một loại virus máy tính nguy hiểm"
+        ],
+        "correct_answer": " Một trục trặc hoặc điểm yếu trong phần mềm hoặc hệ điều hành"
+    },
+    {
+        "question": "Câu 6: Ba yếu tố nào được xem là cốt lõi của an toàn thông tin?",
+        "options": [
+            " Phần cứng, phần mềm, con người",
+            " Tính bí mật, tính toàn vẹn, tính sẵn sàng",
+            " Pháp luật, đạo đức, công nghệ",
+            " Phòng ngừa, phát hiện, khắc phục"
+        ],
+        "correct_answer": " Tính bí mật, tính toàn vẹn, tính sẵn sàng"
+    },
+    {
+        "question": "Câu 7: Loại phần mềm độc hại nào mã hóa dữ liệu của nạn nhân và yêu cầu tiền chuộc để khôi phục?",
+        "options": [
+            " Spyware",
+            " Virus",
+            " Worm",
+            " Ransomware"
+        ],
+        "correct_answer": " Ransomware"
+    },
+    {
+        "question": "Câu 8: Hình thức gây hại nào cho dữ liệu truyền tin nhằm đánh cắp thông tin mà không làm ảnh hưởng đến nội dung dữ liệu?",
+        "options": [
+            " Phá hoại thông tin",
+            " Đánh cắp thông tin",
+            " Từ chối dịch vụ",
+            " Giả mạo thông tin"
+        ],
+        "correct_answer": " Đánh cắp thông tin"
+    },
+    {
+        "question": "Câu 9: Vai trò chính của tường lửa là gì?",
+        "options": [
+            " Phát hiện và loại bỏ virus",
+            " Mã hóa dữ liệu truyền tin",
+            " Ngăn chặn truy cập trái phép vào hệ thống",
+            " Sao lưu dữ liệu quan trọng"
+        ],
+        "correct_answer": " Ngăn chặn truy cập trái phép vào hệ thống"
+    },
+    {
+        "question": "Câu 10: Theo hệ thống CVSS, phần mềm nào có nhiều lỗ hổng bảo mật nhất trong năm 2016?",
+        "options": [
+            " Windows",
+            " iOS",
+            " Android",
+            " macOS"
+        ],
+        "correct_answer": " Android"
+    },
+    {
+        "question": "Câu 11: Tính bí mật trong ATTT có nghĩa là gì?",
+        "options": [
+            " Thông tin được mã hóa công khai",
+            " Thông tin được chia sẻ rộng rãi",
+            " Thông tin không được tiết lộ cho đối tượng không được xác thực",
+            " Thông tin được lưu trữ công khai trên mạng"
+        ],
+        "correct_answer": " Thông tin không được tiết lộ cho đối tượng không được xác thực"
+    },
+    {
+        "question": "Câu 12: Tấn công giả mạo (Phishing) thường sử dụng hình thức nào để lừa đảo người dùng?",
+        "options": [
+            " Gửi tin nhắn SMS giả mạo",
+            " Gọi điện thoại giả danh nhân viên ngân hàng",
+            " Gửi email giả mạo",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Gửi email giả mạo"
+    },
+    {
+        "question": "Câu 13: Bảo mật hướng theo đường truyền (Link Oriented Security) là gì?",
+        "options": [
+            " Mã hóa thông tin dựa trên nguồn và đích của thông tin",
+            " Mã hóa thông tin dựa trên đường truyền giữa hai nút",
+            " Mã hóa thông tin dựa trên nội dung của thông tin",
+            " Mã hóa thông tin dựa trên thời gian truyền tin"
+        ],
+        "correct_answer": " Mã hóa thông tin dựa trên đường truyền giữa hai nút"
+    },
+    {
+        "question": "Câu 14: DMZ là gì?",
+        "options": [
+            " Vùng mạng trung lập giữa mạng nội bộ và mạng Internet",
+            " Vùng mạng dành riêng cho máy chủ",
+            " Vùng mạng dành riêng cho người dùng",
+            " Vùng mạng kết nối trực tiếp với Internet"
+        ],
+        "correct_answer": " Vùng mạng trung lập giữa mạng nội bộ và mạng Internet"
+    },
+    {
+        "question": "Câu 15: Nguyên nhân chủ quan nào thường được nhắc đến khi nói về việc khai thác lỗ hổng phần mềm?",
+        "options": [
+            " Doanh nghiệp sử dụng phần mềm lậu",
+            " Người dùng bất cẩn khi sử dụng phần mềm",
+            " Hacker có trình độ kỹ thuật cao",
+            " Doanh nghiệp thiếu kinh phí đầu tư cho bảo mật."
+        ],
+        "correct_answer": " Người dùng bất cẩn khi sử dụng phần mềm"
+    },
+    {
+        "question": "Câu 16: Tính toàn vẹn trong ATTT được hiểu như thế nào?",
+        "options": [
+            " Dữ liệu có thể bị chỉnh sửa mà không bị phát hiện",
+            " Dữ liệu có thể bị thay đổi bởi bất kỳ ai",
+            " Dữ liệu không thể bị chỉnh sửa mà không bị phát hiện",
+            " Dữ liệu được sao lưu định kỳ"
+        ],
+        "correct_answer": " Dữ liệu không thể bị chỉnh sửa mà không bị phát hiện"
+    },
+    {
+        "question": "Câu 17: Mục đích chính của tấn công từ chối dịch vụ (DoS và DDoS) là gì?",
+        "options": [
+            " Đánh cắp dữ liệu",
+            " Kiểm soát hệ thống",
+            " Làm tê liệt hệ thống, ngăn chặn người dùng truy cập",
+            " Phát tán mã độc"
+        ],
+        "correct_answer": " Làm tê liệt hệ thống, ngăn chặn người dùng truy cập"
+    },
+    {
+        "question": "Câu 18: Bảo mật dựa trên hai điểm đầu và cuối (End to End Security) là gì?",
+        "options": [
+            " Mã hóa thông tin từ máy tính nguồn đến máy tính đích",
+            " Mã hóa thông tin dựa trên đường truyền giữa hai nút",
+            " Mã hóa thông tin dựa trên nội dung của thông tin",
+            " Mã hóa thông tin dựa trên thời gian truyền tin"
+        ],
+        "correct_answer": " Mã hóa thông tin từ máy tính nguồn đến máy tính đích"
+    },
+    {
+        "question": "Câu 19: Các dịch vụ nào thường được triển khai trong vùng DMZ?",
+        "options": [
+            " Database Server, LDAP Server",
+            " Máy chủ ứng dụng, máy chủ xác thực",
+            " Web server, Mail server, DNS server, FTP server",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Web server, Mail server, DNS server, FTP server"
+    },
+    {
+        "question": "Câu 20: Lập trình an toàn (Secure Coding) là gì?",
+        "options": [
+            " Lập trình tạo ra các phần mềm độc hại",
+            " Lập trình không cần quan tâm đến vấn đề bảo mật",
+            " Lập trình tuân thủ các nguyên tắc bảo mật, giảm thiểu rủi ro bị tấn công",
+            " Lập trình chỉ dành cho các chuyên gia bảo mật"
+        ],
+        "correct_answer": " Lập trình tuân thủ các nguyên tắc bảo mật, giảm thiểu rủi ro bị tấn công"
+    },
+    {
+        "question": "Câu 21: Tính sẵn sàng trong ATTT có ý nghĩa gì?",
+        "options": [
+            " Hệ thống có thể ngừng hoạt động bất cứ lúc nào",
+            " Hệ thống chỉ hoạt động vào một số thời điểm nhất định",
+            " Hệ thống luôn hoạt động chính xác khi cần thiết",
+            " Hệ thống không cần bảo trì thường xuyên"
+        ],
+        "correct_answer": " Hệ thống luôn hoạt động chính xác khi cần thiết"
+    },
+    {
+        "question": "Câu 22: Tấn công trung gian (Man-in-the-middle attack) nhắm vào đối tượng nào?",
+        "options": [
+            " Máy chủ",
+            " Giao dịch giữa hai đối tượng",
+            " Thiết bị mạng",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Giao dịch giữa hai đối tượng"
+    },
+    {
+        "question": "Câu 23: Ba vai trò chính của hệ mật mã là gì?",
+        "options": [
+            " Nén, giải nén và truyền tin",
+            " Che dấu, xác thực và chữ ký điện tử",
+            " Lưu trữ, sao lưu và phục hồi",
+            " Phân tích, xử lý và hiển thị"
+        ],
+        "correct_answer": " Che dấu, xác thực và chữ ký điện tử"
+    },
+    {
+        "question": "Câu 24: WLAN là gì?",
+        "options": [
+            " Mạng không dây diện rộng",
+            " Mạng không dây cục bộ",
+            " Mạng không dây cá nhân",
+            " Mạng có dây truyền thống"
+        ],
+        "correct_answer": " Mạng không dây cục bộ"
+    },
+    {
+        "question": "Câu 25: Tam giác CIA trong an toàn thông tin bao gồm những yếu tố nào?",
+        "options": [
+            " Confidentiality (bí mật), Integrity (toàn vẹn), Availability (sẵn sàng)",
+            " Cost (chi phí), Investment (đầu tư), Assurance (đảm bảo)",
+            " Complexity (độ phức tạp), Innovation (đổi mới), Agility (linh hoạt)",
+            " Control (kiểm soát), Influence (ảnh hưởng), Access (truy cập)"
+        ],
+        "correct_answer": " Confidentiality (bí mật), Integrity (toàn vẹn), Availability (sẵn sàng)"
+    },
+    {
+        "question": "Câu 26: Tính xác thực trong ATTT dùng để chỉ điều gì?",
+        "options": [
+            " Dữ liệu luôn ở dạng giả mạo",
+            " Dữ liệu có thể bị thay đổi nguồn gốc",
+            " Dữ liệu, giao dịch, kết nối hoặc tài liệu là thật",
+            " Dữ liệu không cần phải kiểm tra nguồn gốc"
+        ],
+        "correct_answer": " Dữ liệu, giao dịch, kết nối hoặc tài liệu là thật"
+    },
+    {
+        "question": "Câu 27: Kỹ thuật nào được sử dụng trong tấn công trung gian để nghe trộm dữ liệu truyền trên mạng?",
+        "options": [
+            " Packet Injection",
+            " SSL Stripping",
+            " Sniffing",
+            " Session Hijacking"
+        ],
+        "correct_answer": " Sniffing"
+    },
+    {
+        "question": "Câu 28: Lỗ hổng bảo mật là gì?",
+        "options": [
+            " Điểm yếu trong hệ thống có thể bị khai thác",
+            " Phần mềm độc hại tấn công hệ thống",
+            " Sai sót trong quá trình sử dụng hệ thống",
+            " Sự cố kỹ thuật xảy ra trong hệ thống"
+        ],
+        "correct_answer": " Điểm yếu trong hệ thống có thể bị khai thác"
+    },
+    {
+        "question": "Câu 29: Bốn tiêu chí cần đảm bảo cho hệ thống WLAN an toàn là gì?",
+        "options": [
+            " Tốc độ, độ trễ, băng thông và khả năng mở rộng",
+            " Tính bí mật, tính toàn vẹn, tính xác thực và tính sẵn sàng",
+            " Chi phí, hiệu suất, độ tin cậy và khả năng quản lý",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tính bí mật, tính toàn vẹn, tính xác thực và tính sẵn sàng"
+    },
+    {
+        "question": "Câu 30: Phương thức HTTP nào thường được khuyến nghị sử dụng khi truyền tải thông tin nhạy cảm trên web?",
+        "options": [
+            " GET",
+            " POST",
+            " PUT",
+            " DELETE"
+        ],
+        "correct_answer": " POST"
+    },
+    {
+        "question": "Câu 31: Tính chống chối bỏ (Non-repudiation) trong ATTT có nghĩa là gì?",
+        "options": [
+            " Bên giao dịch có thể phủ nhận việc thực hiện giao dịch",
+            " Giao dịch có thể bị hủy bỏ bất cứ lúc nào",
+            " Bên giao dịch không thể phủ nhận việc thực hiện giao dịch",
+            " Giao dịch không cần phải có bằng chứng"
+        ],
+        "correct_answer": " Bên giao dịch không thể phủ nhận việc thực hiện giao dịch"
+    },
+    {
+        "question": "Câu 32: Lỗ hổng Zero-day là gì?",
+        "options": [
+            " Lỗ hổng bảo mật đã được vá",
+            " Lỗ hổng bảo mật chưa được biết đến",
+            " Lỗ hổng bảo mật không nguy hiểm",
+            " Lỗ hổng bảo mật dễ dàng khai thác"
+        ],
+        "correct_answer": " Lỗ hổng bảo mật chưa được biết đến"
+    },
+    {
+        "question": "Câu 33: Exploit là gì?",
+        "options": [
+            " Phần mềm diệt virus",
+            " Kỹ thuật khai thác lỗ hổng bảo mật",
+            " Phương pháp bảo vệ hệ thống",
+            " Công cụ phân tích mã độc"
+        ],
+        "correct_answer": " Kỹ thuật khai thác lỗ hổng bảo mật"
+    },
+    {
+        "question": "Câu 34: Chuẩn mã hóa Wi-Fi nào an toàn nhất hiện nay?",
+        "options": [
+            " WPA",
+            " WEP",
+            " WPA2",
+            " KRACK"
+        ],
+        "correct_answer": " WPA2"
+    },
+    {
+        "question": "Câu 35: Kỹ thuật tấn công nào lợi dụng việc xử lý dữ liệu nhập vào không an toàn trong các câu lệnh SQL?",
+        "options": [
+            " Cross-site scripting (XSS)",
+            " SQL injection",
+            " Denial-of-service (DoS)",
+            " Man-in-the-middle (MitM)"
+        ],
+        "correct_answer": " SQL injection"
+    },
+    {
+        "question": "Câu 36: Chỉ số An toàn không gian mạng toàn cầu năm 2020 của Việt Nam xếp thứ hạng bao nhiêu?",
+        "options": [
+            " Thứ 10",
+            " Thứ 50",
+            " Thứ 25",
+            " Thứ 100"
+        ],
+        "correct_answer": " Thứ 25"
+    },
+    {
+        "question": "Câu 37: Khi nào lỗ hổng Zero-day trở thành lỗ hổng n-day?",
+        "options": [
+            " Khi lỗ hổng được khai thác thành công",
+            " Khi lỗ hổng được phát hiện bởi nhà sản xuất",
+            " Khi lỗ hổng được công bố rộng rãi",
+            " Khi lỗ hổng được vá"
+        ],
+        "correct_answer": " Khi lỗ hổng được công bố rộng rãi"
+    },
+    {
+        "question": "Câu 38: SQL Injection là gì?",
+        "options": [
+            " Kỹ thuật tấn công khai thác lỗ hổng trong việc kiểm tra dữ liệu đầu vào của cơ sở dữ liệu",
+            " Phần mềm độc hại tấn công cơ sở dữ liệu",
+            " Sai sót trong quá trình thiết kế cơ sở dữ liệu",
+            " Sự cố kỹ thuật xảy ra trong cơ sở dữ liệu"
+        ],
+        "correct_answer": " Kỹ thuật tấn công khai thác lỗ hổng trong việc kiểm tra dữ liệu đầu vào của cơ sở dữ liệu"
+    },
+    {
+        "question": "Câu 39: Mã hóa dùng khóa công khai có thể được sử dụng với dịch vụ thư điện tử nào?",
+        "options": [
+            " Chỉ dịch vụ thư điện tử bảo mật",
+            " Chỉ dịch vụ thư điện tử miễn phí",
+            " Chỉ dịch vụ thư điện tử trả phí",
+            " Bất kỳ dịch vụ thư điện tử nào"
+        ],
+        "correct_answer": " Bất kỳ dịch vụ thư điện tử nào"
+    },
+    {
+        "question": "Câu 40: Tại sao việc bắt và xử lý ngoại lệ (exception) lại quan trọng trong lập trình an toàn?",
+        "options": [
+            " Giúp chương trình chạy nhanh hơn",
+            " Giúp tiết kiệm bộ nhớ",
+            " Giúp ngăn chặn chương trình bị sụp đổ, đồng thời ẩn giấu thông tin nhạy cảm khỏi kẻ tấn công",
+            " Giúp chương trình dễ viết hơn"
+        ],
+        "correct_answer": " Giúp ngăn chặn chương trình bị sụp đổ, đồng thời ẩn giấu thông tin nhạy cảm khỏi kẻ tấn công"
+    },
+    {
+        "question": "Câu 41: Theo báo cáo của Cục An ninh mạng Việt Nam, số lượng cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam trong 10 tháng đầu năm 2021 là bao nhiêu?",
+        "options": [
+            " 1.093 cuộc",
+            " 7.249 cuộc",
+            " 6.156 cuộc",
+            " 2.551 cuộc"
+        ],
+        "correct_answer": " 7.249 cuộc"
+    },
+    {
+        "question": "Câu 42: Theo VNCERT, hai đối tượng nào thường là nạn nhân của các cuộc tấn công mạng?",
+        "options": [
+            " Cơ quan chính phủ và tổ chức quốc tế",
+            " Doanh nghiệp nhỏ và cá nhân",
+            " Tổ chức phi chính phủ và trường học",
+            " Ngân hàng và tổ chức tài chính"
+        ],
+        "correct_answer": " Doanh nghiệp nhỏ và cá nhân"
+    },
+    {
+        "question": "Câu 43: Cross Site Scripting (XSS) là gì?",
+        "options": [
+            " Phần mềm độc hại tấn công website",
+            " Kỹ thuật tấn công cho phép chèn mã độc vào website",
+            " Sai sót trong quá trình thiết kế website",
+            " Sự cố kỹ thuật xảy ra trong website"
+        ],
+        "correct_answer": " Kỹ thuật tấn công cho phép chèn mã độc vào website"
+    },
+    {
+        "question": "Câu 44: Chữ ký điện tử dùng để làm gì?",
+        "options": [
+            " Mã hóa nội dung thư điện tử",
+            " Giải mã nội dung thư điện tử",
+            " Xác thực danh tính người gửi thư điện tử",
+            " Nén dung lượng thư điện tử"
+        ],
+        "correct_answer": " Xác thực danh tính người gửi thư điện tử"
+    },
+    {
+        "question": "Câu 45: Mô hình bảo vệ theo chiều sâu là gì?",
+        "options": [
+            " Mô hình bảo mật nhiều lớp, tăng cường khả năng phòng thủ của hệ thống",
+            " Mô hình bảo mật chỉ dựa trên một lớp bảo vệ duy nhất",
+            " Mô hình bảo mật không cần cập nhật thường xuyên",
+            " Mô hình bảo mật chỉ dành cho các tổ chức lớn"
+        ],
+        "correct_answer": " Mô hình bảo mật nhiều lớp, tăng cường khả năng phòng thủ của hệ thống"
+    },
+    {
+        "question": "Câu 46: Theo Forbes, vào ngày 4/4/2021, số lượng tài khoản Facebook bị rò rỉ dữ liệu là bao nhiêu?",
+        "options": [
+            " 35,6 triệu",
+            " 100 nghìn",
+            " 533 triệu",
+            " 250 nghìn"
+        ],
+        "correct_answer": " 533 triệu"
+    },
+    {
+        "question": "Câu 47: Hậu quả nghiêm trọng nào mà các doanh nghiệp có thể phải gánh chịu từ các cuộc tấn công mạng?",
+        "options": [
+            " Mất dữ liệu khách hàng",
+            " Bị gián đoạn hoạt động kinh doanh",
+            " Thiệt hại về tài chính",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 48: Ba phương pháp phát hiện lỗ hổng bảo mật là gì?",
+        "options": [
+            " Mã hóa, giải mã và xác thực",
+            " Quét lỗ hổng, kiểm tra thâm nhập và cập nhật tin tức",
+            " Sao lưu, phục hồi và phòng ngừa",
+            " Giám sát, phân tích và xử lý"
+        ],
+        "correct_answer": " Quét lỗ hổng, kiểm tra thâm nhập và cập nhật tin tức"
+    },
+    {
+        "question": "Câu 49: VPN là gì?",
+        "options": [
+            " Mạng riêng ảo cho phép kết nối an toàn tới mạng doanh nghiệp",
+            " Phần mềm diệt virus",
+            " Hệ thống tường lửa",
+            " Hệ thống phát hiện xâm nhập"
+        ],
+        "correct_answer": " Mạng riêng ảo cho phép kết nối an toàn tới mạng doanh nghiệp"
+    },
+    {
+        "question": "Câu 50: Ba yếu tố lý tưởng nào giải thích cho các thảm họa an ninh mạng gây ra bởi lỗ hổng phần mềm?",
+        "options": [
+            " Phần cứng yếu, người dùng bất cẩn, phần mềm độc hại",
+            " Sự tồn tại của lỗ hổng, khả năng truy cập lỗ hổng, khả năng khai thác lỗ hổng",
+            " Mạng internet chậm, kỹ năng hacker cao, hệ thống bảo mật lỗi thời",
+            " Thiếu kinh phí đầu tư, thiếu nhân lực quản lý, thiếu giải pháp công nghệ"
+        ],
+        "correct_answer": " Sự tồn tại của lỗ hổng, khả năng truy cập lỗ hổng, khả năng khai thác lỗ hổng"
+    },
+    {
+        "question": "Câu 51: Vì sao việc đảm bảo tính bí mật của thông tin là chưa đủ trong việc bảo vệ thông tin cá nhân?",
+        "options": [
+            " Vì thông tin cần được chia sẻ rộng rãi",
+            " Vì tính bí mật không quan trọng bằng tính sẵn sàng",
+            " Vì thông tin cần được đảm bảo tính toàn vẹn, tránh bị chỉnh sửa trái phép",
+            " Vì tính bí mật chỉ quan trọng với một số loại thông tin nhất định"
+        ],
+        "correct_answer": " Vì thông tin cần được đảm bảo tính toàn vẹn, tránh bị chỉnh sửa trái phép"
+    },
+    {
+        "question": "Câu 52: Vì sao việc cài đặt phần mềm độc hại vào máy tính có thể gây ra những hậu quả nghiêm trọng?",
+        "options": [
+            " Vì phần mềm độc hại có thể làm chậm máy tính",
+            " Vì phần mềm độc hại có thể gây ra lỗi hệ thống",
+            " Vì phần mềm độc hại có thể đánh cắp dữ liệu, phá hoại hệ thống và kiểm soát máy tính từ xa",
+            " Vì phần mềm độc hại có thể làm đầy bộ nhớ máy tính"
+        ],
+        "correct_answer": " Vì phần mềm độc hại có thể đánh cắp dữ liệu, phá hoại hệ thống và kiểm soát máy tính từ xa"
+    },
+    {
+        "question": "Câu 53: Tại sao việc kết hợp cả hai hình thức bảo mật Link Oriented Security và End to End Security lại cần thiết?",
+        "options": [
+            " Để giảm chi phí bảo mật",
+            " Để đơn giản hóa hệ thống bảo mật",
+            " Để nâng cao tính an toàn cho dữ liệu truyền tin",
+            " Để tăng tốc độ truyền tin"
+        ],
+        "correct_answer": " Để nâng cao tính an toàn cho dữ liệu truyền tin"
+    },
+    {
+        "question": "Câu 54: Tại sao việc kiểm soát truy cập vào hệ thống mạng lại quan trọng?",
+        "options": [
+            " Để tăng tốc độ truy cập mạng",
+            " Để giảm thiểu chi phí bảo trì mạng",
+            " Để ngăn chặn người dùng trái phép truy cập vào tài nguyên mạng",
+            " Để đơn giản hóa việc quản lý mạng"
+        ],
+        "correct_answer": " Để ngăn chặn người dùng trái phép truy cập vào tài nguyên mạng"
+    },
+    {
+        "question": "Câu 55: Trong bối cảnh an toàn thông tin, tại sao việc sử dụng phần mềm có chứa lỗi 0 ngày lại nguy hiểm?",
+        "options": [
+            " Vì lỗi này rất phổ biến, dễ bị hacker khai thác",
+            " Vì lỗi này chưa được biết đến, chưa có bản vá lỗi, tạo cơ hội cho hacker tấn công",
+            " Vì lỗi này chỉ có thể được khắc phục bởi các chuyên gia",
+            " Vì lỗi này gây ra thiệt hại nghiêm trọng cho hệ thống"
+        ],
+        "correct_answer": " Vì lỗi này chưa được biết đến, chưa có bản vá lỗi, tạo cơ hội cho hacker tấn công"
+    },
+    {
+        "question": "Câu 56: Tại sao việc đảm bảo tính sẵn sàng của hệ thống thông tin lại đóng vai trò quan trọng?",
+        "options": [
+            " Vì giúp giảm thiểu chi phí bảo trì hệ thống",
+            " Vì giúp hệ thống hoạt động nhanh hơn",
+            " Vì thông tin cần được truy cập và sử dụng một cách liên tục, không bị gián đoạn",
+            " Vì giúp ngăn chặn mọi cuộc tấn công mạng"
+        ],
+        "correct_answer": " Vì thông tin cần được truy cập và sử dụng một cách liên tục, không bị gián đoạn"
+    },
+    {
+        "question": "Câu 57: Tại sao tin tặc thường giả mạo các tổ chức uy tín trong tấn công Phishing?",
+        "options": [
+            " Vì các tổ chức uy tín thường có hệ thống bảo mật yếu",
+            " Vì người dùng thường tin tưởng và dễ dàng cung cấp thông tin cho các tổ chức uy tín",
+            " Vì tin tặc muốn phá hoại danh tiếng của các tổ chức uy tín",
+            " Vì tin tặc không thể tấn công vào các tổ chức uy tín bằng cách khác"
+        ],
+        "correct_answer": " Vì người dùng thường tin tưởng và dễ dàng cung cấp thông tin cho các tổ chức uy tín"
+    },
+    {
+        "question": "Câu 58: Vai trò của việc chia nhỏ gói tin trong quá trình truyền tin là gì?",
+        "options": [
+            " Để tăng tốc độ truyền tin",
+            " Để giảm dung lượng dữ liệu truyền tin",
+            " Để giảm thiểu rủi ro mất dữ liệu",
+            " Để đơn giản hóa việc mã hóa dữ liệu"
+        ],
+        "correct_answer": " Để giảm thiểu rủi ro mất dữ liệu"
+    },
+    {
+        "question": "Câu 59: Tại sao các máy chủ cung cấp dịch vụ ra Internet nên được đặt trong vùng DMZ?",
+        "options": [
+            " Để tăng tốc độ truy cập Internet",
+            " Để giảm thiểu chi phí bảo trì máy chủ",
+            " Để bảo vệ máy chủ khỏi các tấn công từ mạng nội bộ và Internet",
+            " Để đơn giản hóa việc quản lý máy chủ"
+        ],
+        "correct_answer": " Để bảo vệ máy chủ khỏi các tấn công từ mạng nội bộ và Internet"
+    },
+    {
+        "question": "Câu 60: Ngoài các biện pháp công nghệ, mô hình phòng thủ theo chiều sâu còn bao gồm những yếu tố nào?",
+        "options": [
+            " Chính sách, quy định, đào tạo, nâng cao nhận thức cho người dùng",
+            " An ninh vật lý, kiểm soát truy cập, giám sát camera",
+            " Đánh giá rủi ro, lập kế hoạch ứng phó sự cố",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 61: Việc Việt Nam tăng 25 bậc trên bảng xếp hạng Chỉ số An toàn không gian mạng toàn cầu (GCI) năm 2020 cho thấy điều gì?",
+        "options": [
+            " Việt Nam đã hoàn toàn miễn nhiễm với các cuộc tấn công mạng",
+            " Việt Nam là quốc gia dẫn đầu về an toàn thông tin trên thế giới",
+            " Việt Nam đã có những nỗ lực đáng kể trong việc nâng cao năng lực ATTT",
+            " Việt Nam không cần phải đầu tư thêm cho ATTT"
+        ],
+        "correct_answer": " Việt Nam đã có những nỗ lực đáng kể trong việc nâng cao năng lực ATTT"
+    },
+    {
+        "question": "Câu 62: Sự khác biệt cơ bản giữa tấn công DoS và DDoS là gì?",
+        "options": [
+            " DoS sử dụng một máy tính tấn công, DDoS sử dụng nhiều máy tính tấn công",
+            " DoS nhắm vào máy chủ, DDoS nhắm vào mạng",
+            " DoS khó phòng tránh hơn DDoS",
+            " DoS nguy hiểm hơn DDoS"
+        ],
+        "correct_answer": " DoS sử dụng một máy tính tấn công, DDoS sử dụng nhiều máy tính tấn công"
+    },
+    {
+        "question": "Câu 63: Tại sao việc tìm ra khóa mã K lại quan trọng đối với kẻ tấn công?",
+        "options": [
+            " Để biết được nội dung của bản rõ",
+            " Để thay đổi nội dung của bản rõ",
+            " Để giải mã các thông báo tiếp theo",
+            " Để phá hủy hệ thống"
+        ],
+        "correct_answer": " Để giải mã các thông báo tiếp theo"
+    },
+    {
+        "question": "Câu 64: Lợi ích của việc chia nhỏ vùng mạng server network là gì?",
+        "options": [
+            " Để tăng tốc độ truy cập mạng",
+            " Để giảm thiểu chi phí bảo trì mạng",
+            " Để nâng cao tính bảo mật cho các hệ thống quan trọng",
+            " Để đơn giản hóa việc quản lý mạng"
+        ],
+        "correct_answer": " Để nâng cao tính bảo mật cho các hệ thống quan trọng"
+    },
+    {
+        "question": "Câu 65: Ưu điểm của mô hình bảo vệ theo chiều sâu so với các biện pháp bảo mật chỉ tập trung vào vòng ngoài là gì?",
+        "options": [
+            " Khó bị tấn công hơn do kẻ tấn công phải vượt qua nhiều lớp bảo vệ",
+            " Dễ dàng phát hiện và ngăn chặn tấn công từ bên trong hệ thống",
+            " Cung cấp khả năng bảo vệ toàn diện hơn cho hệ thống",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 66: Sự gia tăng số lượng người dùng Internet tại Việt Nam trong thời gian gần đây có ý nghĩa gì đối với vấn đề ATTT?",
+        "options": [
+            " Giúp nâng cao nhận thức về ATTT cho người dân",
+            " Giảm thiểu nguy cơ tấn công mạng",
+            " Tăng nguy cơ mất an toàn thông tin do số lượng mục tiêu tấn công tăng lên",
+            " Không ảnh hưởng đến vấn đề ATTT"
+        ],
+        "correct_answer": " Tăng nguy cơ mất an toàn thông tin do số lượng mục tiêu tấn công tăng lên"
+    },
+    {
+        "question": "Câu 67: Tại sao việc phân biệt lưu lượng tấn công DDoS với lưu lượng truy cập thông thường lại khó khăn?",
+        "options": [
+            " Vì lưu lượng tấn công DDoS rất nhỏ",
+            " Vì lưu lượng tấn công DDoS đến từ nhiều nguồn khác nhau",
+            " Vì lưu lượng tấn công DDoS được mã hóa",
+            " Vì lưu lượng tấn công DDoS không có gì bất thường"
+        ],
+        "correct_answer": " Vì lưu lượng tấn công DDoS đến từ nhiều nguồn khác nhau"
+    },
+    {
+        "question": "Câu 68: Vì sao việc mã hóa dữ liệu cá nhân lại quan trọng trong thời đại công nghệ số?",
+        "options": [
+            " Vì mã hóa dữ liệu giúp tăng tốc độ truy cập internet",
+            " Vì mã hóa dữ liệu giúp tiết kiệm dung lượng lưu trữ",
+            " Vì mã hóa dữ liệu giúp bảo vệ thông tin cá nhân khỏi bị đánh cắp và lợi dụng",
+            " Vì mã hóa dữ liệu là yêu cầu bắt buộc của pháp luật"
+        ],
+        "correct_answer": " Vì mã hóa dữ liệu giúp bảo vệ thông tin cá nhân khỏi bị đánh cắp và lợi dụng"
+    },
+    {
+        "question": "Câu 69: Tại sao mạng WLAN lại dễ bị tấn công hơn mạng LAN?",
+        "options": [
+            " Vì mạng WLAN sử dụng sóng điện từ để truyền dữ liệu",
+            " Vì mạng WLAN có phạm vi phủ sóng rộng hơn mạng LAN",
+            " Vì nhiều người dùng WLAN chủ quan trong việc bảo mật",
+            " Vì mạng WLAN sử dụng các công nghệ lỗi thời"
+        ],
+        "correct_answer": " Vì nhiều người dùng WLAN chủ quan trong việc bảo mật"
+    },
+    {
+        "question": "Câu 70: Tại sao việc sử dụng phương thức GET để truyền tải thông tin đăng nhập lại không an toàn?",
+        "options": [
+            " Vì phương thức GET giới hạn số lượng ký tự được gửi đi",
+            " Vì thông tin được gửi qua URL, có thể bị lộ trong lịch sử trình duyệt hoặc trên server",
+            " Vì phương thức GET không hỗ trợ mã hóa dữ liệu",
+            " Vì phương thức GET chỉ dành cho việc tải xuống tài nguyên tĩnh"
+        ],
+        "correct_answer": " Vì thông tin được gửi qua URL, có thể bị lộ trong lịch sử trình duyệt hoặc trên server"
+    },
+    {
+        "question": "Câu 71: Theo các chuyên gia, việc thay đổi tư duy về tấn công mạng như thế nào là cần thiết trong thời đại hiện nay?",
+        "options": [
+            " Coi bị tấn công là điều bình thường, không cần phải phòng tránh",
+            " Che giấu thông tin khi bị tấn công để tránh ảnh hưởng đến uy tín",
+            " Coi bị tấn công là cơ hội để rút kinh nghiệm, nâng cao năng lực ATTT",
+            " Tự khắc phục sự cố khi bị tấn công, không cần sự trợ giúp từ bên ngoài"
+        ],
+        "correct_answer": " Coi bị tấn công là cơ hội để rút kinh nghiệm, nâng cao năng lực ATTT"
+    },
+    {
+        "question": "Câu 72: Tấn công trung gian (MitM) có thể gây ra hậu quả gì?",
+        "options": [
+            " Đánh cắp thông tin đăng nhập",
+            " Chuyển hướng người dùng đến website giả mạo",
+            " Lấy cắp thông tin thẻ tín dụng",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 73: Tại sao việc sử dụng mật khẩu mạnh lại quan trọng trong việc bảo vệ thông tin?",
+        "options": [
+            " Vì mật khẩu mạnh dễ nhớ",
+            " Vì mật khẩu mạnh dễ sử dụng",
+            " Vì mật khẩu mạnh khó bị đoán ra",
+            " Vì mật khẩu mạnh được sử dụng phổ biến"
+        ],
+        "correct_answer": " Vì mật khẩu mạnh khó bị đoán ra"
+    },
+    {
+        "question": "Câu 74: Giao thức CCMP trong chuẩn 802.11i có vai trò gì?",
+        "options": [
+            " Xác thực người dùng",
+            " Kiểm soát truy cập",
+            " Phát hiện xâm nhập",
+            " Mã hóa và đảm bảo tính toàn vẹn dữ liệu"
+        ],
+        "correct_answer": " Mã hóa và đảm bảo tính toàn vẹn dữ liệu"
+    },
+    {
+        "question": "Câu 75: Ngoài việc sử dụng PreparedStatement hoặc CallableStatement, còn cách nào khác để phòng chống SQL injection trong Java?",
+        "options": [
+            " Không sử dụng cơ sở dữ liệu",
+            " Kiểm tra và lọc dữ liệu đầu vào từ người dùng",
+            " Chỉ cho phép người dùng nhập số",
+            " Không cho phép người dùng truy cập vào cơ sở dữ liệu"
+        ],
+        "correct_answer": " Kiểm tra và lọc dữ liệu đầu vào từ người dùng"
+    },
+    {
+        "question": "Câu 76: Vì sao việc lộ lọt thông tin của 35,6 triệu khách hàng của một tập đoàn lớn ở Việt Nam lại gây bức xúc trong dư luận?",
+        "options": [
+            " Vì thông tin bị lộ là không chính xác",
+            " Vì thông tin bị lộ không gây ảnh hưởng đến người dùng",
+            " Vì thông tin cá nhân là nhạy cảm, cần được bảo mật và việc lộ lọt gây ảnh hưởng nghiêm trọng đến người dùng",
+            " Vì thông tin bị lộ đã được mã hóa an toàn"
+        ],
+        "correct_answer": " Vì thông tin cá nhân là nhạy cảm, cần được bảo mật và việc lộ lọt gây ảnh hưởng nghiêm trọng đến người dùng"
+    },
+    {
+        "question": "Câu 77: Vì sao tin tặc lại muốn loại bỏ kết nối SSL/TLS trong tấn công SSL Stripping?",
+        "options": [
+            " Vì kết nối SSL/TLS làm chậm tốc độ truy cập",
+            " Vì kết nối SSL/TLS mã hóa dữ liệu, ngăn chặn tin tặc nghe trộm",
+            " Vì kết nối SSL/TLS không cần thiết",
+            " Vì tin tặc không thể khai thác lỗ hổng của kết nối SSL/TLS"
+        ],
+        "correct_answer": " Vì kết nối SSL/TLS mã hóa dữ liệu, ngăn chặn tin tặc nghe trộm"
+    },
+    {
+        "question": "Câu 78: Lợi ích của việc sử dụng xác minh hai bước là gì?",
+        "options": [
+            " Giúp người dùng dễ dàng đăng nhập vào hệ thống",
+            " Tăng cường bảo mật cho tài khoản, ngay cả khi mật khẩu bị lộ",
+            " Giúp người dùng khôi phục mật khẩu dễ dàng",
+            " Tăng tốc độ truy cập internet"
+        ],
+        "correct_answer": " Tăng cường bảo mật cho tài khoản, ngay cả khi mật khẩu bị lộ"
+    },
+    {
+        "question": "Câu 79: Vì sao cần phải mã hóa thư điện tử?",
+        "options": [
+            " Để nén dung lượng thư điện tử",
+            " Để tăng tốc độ gửi nhận thư điện tử",
+            " Để bảo vệ nội dung thư điện tử khỏi bị đọc trộm",
+            " Để tránh bị spam"
+        ],
+        "correct_answer": " Để bảo vệ nội dung thư điện tử khỏi bị đọc trộm"
+    },
+    {
+        "question": "Câu 80: Trong bối cảnh xử lý ngoại lệ, \"null pointer exception\" là gì?",
+        "options": [
+            " Lỗi xảy ra khi truy cập vào một biến chưa được khởi tạo (A)",
+            " Lỗi xảy ra khi chia cho 0 (B)",
+            " Lỗi xảy ra khi truy cập vào một phần tử không tồn tại trong mảng (C)",
+            " Cả A và C đều đúng"
+        ],
+        "correct_answer": " Cả A và C đều đúng"
+    },
+    {
+        "question": "Câu 81: Theo báo cáo của Diễn đàn Kinh tế Thế giới năm 2021, đại dịch COVID-19 có tác động như thế nào đến vấn đề an ninh mạng?",
+        "options": [
+            " Giúp nâng cao nhận thức về an ninh mạng",
+            " Giảm thiểu nguy cơ tấn công mạng",
+            " Vừa đẩy nhanh việc áp dụng công nghệ, vừa bộc lộ các lỗ hổng an ninh mạng",
+            " Không ảnh hưởng đến an ninh mạng"
+        ],
+        "correct_answer": " Vừa đẩy nhanh việc áp dụng công nghệ, vừa bộc lộ các lỗ hổng an ninh mạng"
+    },
+    {
+        "question": "Câu 82: Vì sao lỗ hổng Zero-day lại được xem là rất nguy hiểm?",
+        "options": [
+            " Vì lỗ hổng Zero-day dễ dàng khai thác",
+            " Vì lỗ hổng Zero-day chưa được biết đến, nên chưa có bản vá lỗi",
+            " Vì lỗ hổng Zero-day chỉ có thể được khai thác bởi tin tặc chuyên nghiệp",
+            " Vì lỗ hổng Zero-day không thể vá được"
+        ],
+        "correct_answer": " Vì lỗ hổng Zero-day chưa được biết đến, nên chưa có bản vá lỗi"
+    },
+    {
+        "question": "Câu 83: Tại sao việc bảo vệ mạng wifi tại nhà là quan trọng?",
+        "options": [
+            " Để tăng tốc độ truy cập internet",
+            " Để tiết kiệm chi phí sử dụng internet",
+            " Để ngăn chặn người lạ truy cập vào mạng và đánh cắp thông tin",
+            " Để chia sẻ internet cho nhiều người dùng"
+        ],
+        "correct_answer": " Để ngăn chặn người lạ truy cập vào mạng và đánh cắp thông tin"
+    },
+    {
+        "question": "Câu 84: Vì sao việc sử dụng mã hóa dùng khóa công khai lại có thể gây sự chú ý?",
+        "options": [
+            " Vì loại mã hóa này thường được sử dụng cho các thông tin nhạy cảm",
+            " Vì loại mã hóa này dễ bị bẻ khóa",
+            " Vì loại mã hóa này làm chậm tốc độ truyền tin",
+            " Vì loại mã hóa này không phổ biến"
+        ],
+        "correct_answer": " Vì loại mã hóa này thường được sử dụng cho các thông tin nhạy cảm"
+    },
+    {
+        "question": "Câu 85: Tại sao cần phải kiểm tra tính hợp lệ của file trước khi trả về cho client?",
+        "options": [
+            " Để tránh trả về file trống",
+            " Để tránh trả về file có định dạng không hợp lệ",
+            " Để tránh bị lộ thông tin nhạy cảm trên server",
+            " Để tăng tốc độ tải trang"
+        ],
+        "correct_answer": " Để tránh bị lộ thông tin nhạy cảm trên server"
+    }
+]
