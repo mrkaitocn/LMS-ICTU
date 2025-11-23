@@ -1,0 +1,852 @@
+[
+    {
+        "question": "Câu 1: Quyền riêng tư trên Internet là gì?",
+        "options": [
+            " Quyền được truy cập miễn phí vào Internet",
+            " Quyền được chia sẻ thông tin cá nhân rộng rãi trên Internet",
+            " Quyền được bảo vệ thông tin cá nhân liên quan đến việc lưu trữ, hiển thị và cung cấp cho bên thứ ba thông qua Internet",
+            " Quyền được sử dụng Internet cho mục đích bất hợp pháp"
+        ],
+        "correct_answer": " Quyền được bảo vệ thông tin cá nhân liên quan đến việc lưu trữ, hiển thị và cung cấp cho bên thứ ba thông qua Internet"
+    },
+    {
+        "question": "Câu 2: Phần mềm độc hại là gì?",
+        "options": [
+            " Phần mềm giúp bảo vệ máy tính khỏi virus",
+            " Phần mềm được thiết kế để thực hiện hoạt động phá hoại hoặc các tác vụ không mong muốn đối với hệ thống máy tính",
+            " Phần mềm giúp tăng tốc độ xử lý của máy tính",
+            " Phần mềm giúp cải thiện giao diện người dùng"
+        ],
+        "correct_answer": " Phần mềm được thiết kế để thực hiện hoạt động phá hoại hoặc các tác vụ không mong muốn đối với hệ thống máy tính"
+    },
+    {
+        "question": "Câu 3: Bộ Thông tin và Truyền thông đã ban hành Kế hoạch triển khai thực hiện Quyết định số 21/QĐ-TTG về Đề án \"Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025\" vào ngày nào?",
+        "options": [
+            " 19/01/2021",
+            " 19/02/2021",
+            " 21/01/2021",
+            " 21/02/2021"
+        ],
+        "correct_answer": " 19/02/2021"
+    },
+    {
+        "question": "Câu 4: Theo Luật Tiêu chuẩn và Quy chuẩn kỹ thuật, tiêu chuẩn là gì?",
+        "options": [
+            " Quy định về mức giới hạn của đặc tính kỹ thuật mà sản phẩm, hàng hóa, dịch vụ phải tuân thủ",
+            " Quy định về đặc tính kỹ thuật và yêu cầu quản lý dùng làm chuẩn để phân loại, đánh giá sản phẩm, hàng hóa, dịch vụ",
+            " Quy định về an toàn, vệ sinh, sức khỏe con người",
+            " Quy định về bảo vệ môi trường"
+        ],
+        "correct_answer": " Quy định về đặc tính kỹ thuật và yêu cầu quản lý dùng làm chuẩn để phân loại, đánh giá sản phẩm, hàng hóa, dịch vụ"
+    },
+    {
+        "question": "Câu 5: Chuyển đổi số là gì?",
+        "options": [
+            " Quá trình sử dụng công nghệ số để thay đổi cách thức hoạt động sản xuất kinh doanh của tổ chức",
+            " Quá trình thay thế hoàn toàn con người bằng robot",
+            " Quá trình loại bỏ hoàn toàn giấy tờ trong hoạt động của tổ chức",
+            " Quá trình kết nối Internet cho mọi thiết bị"
+        ],
+        "correct_answer": " Quá trình sử dụng công nghệ số để thay đổi cách thức hoạt động sản xuất kinh doanh của tổ chức"
+    },
+    {
+        "question": "Câu 6: Thông tin nhận dạng cá nhân (PII) là gì?",
+        "options": [
+            " Bất kỳ thông tin nào liên quan đến máy tính",
+            " Bất kỳ thông tin nào được lưu trữ trên Internet",
+            " Bất kỳ thông tin nào có thể được sử dụng để xác định một cá nhân",
+            " Bất kỳ thông tin nào được chia sẻ trên mạng xã hội"
+        ],
+        "correct_answer": " Bất kỳ thông tin nào có thể được sử dụng để xác định một cá nhân"
+    },
+    {
+        "question": "Câu 7: Virus máy tính thường phát tán qua những con đường nào?",
+        "options": [
+            " Tệp đính kèm trong email, tin nhắn tức thời, các bản tải xuống trên Internet",
+            " USB, đĩa CD, đĩa DVD",
+            " Sóng Wifi, Bluetooth",
+            " Tất cả các đáp án trên đều đúng"
+        ],
+        "correct_answer": " Tệp đính kèm trong email, tin nhắn tức thời, các bản tải xuống trên Internet"
+    },
+    {
+        "question": "Câu 8: Mục tiêu của Kế hoạch triển khai Quyết định số 21/QĐ-TTG là gì?",
+        "options": [
+            " Giảm thiểu số lượng nhân lực an toàn thông tin",
+            " Tăng cường xây dựng, đào tạo, bồi dưỡng, phát triển đội ngũ nhân lực an toàn thông tin mạng",
+            " Hạn chế đầu tư cho lĩnh vực an toàn thông tin",
+            " Khuyến khích sử dụng phần mềm lậu"
+        ],
+        "correct_answer": " Tăng cường xây dựng, đào tạo, bồi dưỡng, phát triển đội ngũ nhân lực an toàn thông tin mạng"
+    },
+    {
+        "question": "Câu 9: Theo Luật Tiêu chuẩn và Quy chuẩn kỹ thuật, quy chuẩn kỹ thuật là gì?",
+        "options": [
+            " Quy định về đặc tính kỹ thuật và yêu cầu quản lý dùng làm chuẩn để đánh giá sản phẩm, hàng hóa, dịch vụ",
+            " Quy định về mức giới hạn của đặc tính kỹ thuật mà sản phẩm, hàng hóa, dịch vụ phải tuân thủ để đảm bảo an toàn",
+            " Quy định về quyền và nghĩa vụ của người tiêu dùng",
+            " Quy định về sở hữu trí tuệ"
+        ],
+        "correct_answer": " Quy định về mức giới hạn của đặc tính kỹ thuật mà sản phẩm, hàng hóa, dịch vụ phải tuân thủ để đảm bảo an toàn"
+    },
+    {
+        "question": "Câu 10: Lợi ích của chuyển đổi số là gì?",
+        "options": [
+            " Tăng hiệu quả, linh hoạt và nâng cao trải nghiệm của khách hàng",
+            " Giảm chi phí nhân sự",
+            " Tăng lợi nhuận tức thì",
+            " Loại bỏ hoàn toàn rủi ro"
+        ],
+        "correct_answer": " Tăng hiệu quả, linh hoạt và nâng cao trải nghiệm của khách hàng"
+    },
+    {
+        "question": "Câu 11: Theo thống kê, tỷ lệ người sử dụng Internet tại Việt Nam đã và đang sử dụng mạng xã hội là bao nhiêu?",
+        "options": [
+            " 50%",
+            " 60%",
+            " 70%",
+            " 87,5%"
+        ],
+        "correct_answer": " 87,5%"
+    },
+    {
+        "question": "Câu 12: Sâu máy tính khác với virus máy tính ở điểm nào?",
+        "options": [
+            " Sâu máy tính không gây hại cho máy tính",
+            " Sâu máy tính chỉ lây lan qua mạng Internet",
+            " Sâu máy tính phát tán thông qua tương tác của người dùng",
+            " Sâu máy tính chỉ lây nhiễm vào hệ điều hành Windows"
+        ],
+        "correct_answer": " Sâu máy tính phát tán thông qua tương tác của người dùng"
+    },
+    {
+        "question": "Câu 13: Đơn vị nào là đầu mối, có trách nhiệm theo dõi, đôn đốc các đơn vị, tổ chức, doanh nghiệp, cá nhân liên quan triển khai Kế hoạch triển khai Quyết định số 21/QĐ-TTG?",
+        "options": [
+            " Bộ Công an",
+            " Bộ Quốc phòng",
+            " Cục An toàn thông tin",
+            " Bộ Giáo dục và Đào tạo"
+        ],
+        "correct_answer": " Cục An toàn thông tin"
+    },
+    {
+        "question": "Câu 14: Tiêu chuẩn đánh giá ATTT đầu tiên là gì?",
+        "options": [
+            " TCSEC",
+            " Common Criteria",
+            " FIPS 140-2",
+            " ISO 27001"
+        ],
+        "correct_answer": " TCSEC"
+    },
+    {
+        "question": "Câu 15: Đại dịch Covid-19 đã tác động như thế nào đến xu hướng chuyển đổi số?",
+        "options": [
+            " Làm chậm quá trình chuyển đổi số",
+            " Không ảnh hưởng đến chuyển đổi số",
+            " Thúc đẩy xu hướng chuyển đổi số",
+            " Dừng lại hoàn toàn quá trình chuyển đổi số"
+        ],
+        "correct_answer": " Thúc đẩy xu hướng chuyển đổi số"
+    },
+    {
+        "question": "Câu 16: Nguy cơ nào sau đây KHÔNG phải là nguy cơ mất an toàn, an ninh mạng trên mạng xã hội?",
+        "options": [
+            " Lừa đảo chiếm đoạt tài sản",
+            " Thông tin sai sự thật",
+            " Xâm phạm quyền riêng tư",
+            " Cập nhật phần mềm thường xuyên"
+        ],
+        "correct_answer": " Cập nhật phần mềm thường xuyên"
+    },
+    {
+        "question": "Câu 17: Trojan horse là gì?",
+        "options": [
+            " Một loại virus máy tính có khả năng tự sao chép",
+            " Một loại sâu máy tính có khả năng ẩn mình trong hệ thống",
+            " Một chương trình phần mềm độc hại ẩn bên trong các chương trình khác",
+            " Một loại phần mềm gián điệp có khả năng theo dõi hoạt động người dùng"
+        ],
+        "correct_answer": " Một chương trình phần mềm độc hại ẩn bên trong các chương trình khác"
+    },
+    {
+        "question": "Câu 18: Thủ tướng Chính phủ phê duyệt Đề án “Tuyên truyền, nâng cao nhận thức và phổ biến kiến thức về an toàn thông tin giai đoạn 2021 - 2025” vào ngày nào?",
+        "options": [
+            " 23/10/2020",
+            " 23/11/2020",
+            " 25/10/2020",
+            " 25/11/2020"
+        ],
+        "correct_answer": " 23/11/2020"
+    },
+    {
+        "question": "Câu 19: Rainbow Series là gì?",
+        "options": [
+            " Tên của một loại virus máy tính",
+            " Bộ tài liệu tiêu chuẩn về an toàn máy tính được công bố ở Mỹ trong giai đoạn 1985-1995",
+            " Tên của một hệ thống quản lý an toàn thông tin",
+            " Tên của một tổ chức quốc tế về tiêu chuẩn hóa"
+        ],
+        "correct_answer": " Bộ tài liệu tiêu chuẩn về an toàn máy tính được công bố ở Mỹ trong giai đoạn 1985-1995"
+    },
+    {
+        "question": "Câu 20: Rủi ro an toàn thông tin nào có thể gia tăng khi nhân viên làm việc từ xa?",
+        "options": [
+            " Truy cập trái phép vào các cuộc họp trực tuyến",
+            " Lộ lọt dữ liệu",
+            " Lừa đảo qua thư điện tử hoặc website giả mạo",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 21: Nguyên tắc nào sau đây giúp người dùng sử dụng mạng xã hội an toàn?",
+        "options": [
+            " Chia sẻ thông tin cá nhân rộng rãi",
+            " Click vào mọi đường link nhận được",
+            " Sử dụng mật khẩu dễ đoán",
+            " Chọn lọc thông tin và nắm vững những hiểu biết về pháp luật, quy tắc ứng xử trên mạng xã hội"
+        ],
+        "correct_answer": " Chọn lọc thông tin và nắm vững những hiểu biết về pháp luật, quy tắc ứng xử trên mạng xã hội"
+    },
+    {
+        "question": "Câu 22: Phần mềm gián điệp có thể thực hiện những hành vi nào sau đây?",
+        "options": [
+            " Thay đổi cấu hình máy tính",
+            " Thu thập dữ liệu quảng cáo và thông tin cá nhân",
+            " Theo dõi thói quen tìm kiếm trên Internet",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 23: Mục tiêu của Đề án “Tuyên truyền, nâng cao nhận thức và phổ biến kiến thức về an toàn thông tin giai đoạn 2021 - 2025” là gì?",
+        "options": [
+            " Trang bị cho mỗi cá nhân kiến thức và kỹ năng cơ bản để bảo đảm an toàn thông tin trên không gian mạng",
+            " Hạn chế người dân truy cập Internet",
+            " Khuyến khích sử dụng mạng xã hội cho mục đích xấu",
+            " Tăng cường kiểm duyệt thông tin trên mạng"
+        ],
+        "correct_answer": " Trang bị cho mỗi cá nhân kiến thức và kỹ năng cơ bản để bảo đảm an toàn thông tin trên không gian mạng"
+    },
+    {
+        "question": "Câu 24: Khái niệm cốt lõi của tiêu chuẩn \"Các tiêu chí Liên bang đánh giá an toàn công nghệ thông tin\" là gì?",
+        "options": [
+            " Hồ sơ bảo vệ",
+            " Mục tiêu an toàn",
+            " Mức đánh giá",
+            " Yêu cầu an toàn"
+        ],
+        "correct_answer": " Hồ sơ bảo vệ"
+    },
+    {
+        "question": "Câu 25: Công nghệ nào sau đây được coi là xu hướng chủ đạo trong chuyển đổi số năm 2022?",
+        "options": [
+            " Điện toán đám mây",
+            " Trí tuệ nhân tạo",
+            " Thực tế ảo",
+            " Blockchain"
+        ],
+        "correct_answer": " Điện toán đám mây"
+    },
+    {
+        "question": "Câu 26: Hệ thống thông tin thường được chia thành mấy phần chính?",
+        "options": [
+            " 2",
+            " 3",
+            " 4",
+            " 5"
+        ],
+        "correct_answer": " 3"
+    },
+    {
+        "question": "Câu 27: Phần mềm bảo mật lậu thường sử dụng những chiêu trò nào để lừa người dùng?",
+        "options": [
+            " Giả mạo cảnh báo virus, yêu cầu người dùng tải xuống hoặc mua phần mềm diệt virus",
+            " Tăng tốc độ xử lý của máy tính",
+            " Cải thiện giao diện người dùng",
+            " Cung cấp các tính năng bảo mật nâng cao"
+        ],
+        "correct_answer": " Giả mạo cảnh báo virus, yêu cầu người dùng tải xuống hoặc mua phần mềm diệt virus"
+    },
+    {
+        "question": "Câu 28: Luật Công nghệ thông tin được Quốc hội thông qua vào ngày nào?",
+        "options": [
+            " 29/05/2006",
+            " 29/06/2006",
+            " 30/05/2006",
+            " 30/06/2006"
+        ],
+        "correct_answer": " 29/06/2006"
+    },
+    {
+        "question": "Câu 29: Tiêu chuẩn \"Tiêu chí hài hòa của các nước châu Âu\" được công bố vào năm nào?",
+        "options": [
+            " 1985",
+            " 1991",
+            " 1993",
+            " 1996"
+        ],
+        "correct_answer": " 1991"
+    },
+    {
+        "question": "Câu 30: IoT là viết tắt của cụm từ nào?",
+        "options": [
+            " Internet of Things",
+            " Information of Technology",
+            " Input Output Technology",
+            " International Organization for Telecommunications"
+        ],
+        "correct_answer": " Internet of Things"
+    },
+    {
+        "question": "Câu 31: Ba yếu tố cốt lõi của an toàn thông tin là gì?",
+        "options": [
+            " Phần cứng, phần mềm, con người",
+            " Tính bí mật, tính toàn vẹn, tính sẵn sàng",
+            " Pháp luật, đạo đức, công nghệ",
+            " Phòng ngừa, phát hiện, khắc phục"
+        ],
+        "correct_answer": " Tính bí mật, tính toàn vẹn, tính sẵn sàng"
+    },
+    {
+        "question": "Câu 32: Nên làm gì khi nhận được thông báo cảnh báo virus trong hộp thoại bật lên?",
+        "options": [
+            " Bấm vào nút \"Đồng ý\" hoặc \"OK\" để đóng cửa sổ",
+            " Bấm vào bất kỳ mục nào bên trong hộp thoại",
+            " Nhấn ALT + F4 trên bàn phím để đóng hộp thoại",
+            " Khởi động lại máy tính"
+        ],
+        "correct_answer": " Nhấn ALT + F4 trên bàn phím để đóng hộp thoại"
+    },
+    {
+        "question": "Câu 33: Luật Công nghệ thông tin có hiệu lực thi hành từ ngày nào?",
+        "options": [
+            " 01/01/2007",
+            " 01/07/2007",
+            " 01/01/2008",
+            " 01/07/2008"
+        ],
+        "correct_answer": " 01/01/2007"
+    },
+    {
+        "question": "Câu 34: Tiêu chuẩn \"Tiêu chí chung đánh giá an toàn công nghệ thông tin\" (Common Criteria - CC) được xây dựng bởi những quốc gia nào?",
+        "options": [
+            " Mỹ, Anh, Pháp, Đức",
+            " Canada, Mỹ, Anh, Đức, Hà Lan, Pháp",
+            " Nhật Bản, Hàn Quốc, Trung Quốc, Singapore",
+            " Australia, New Zealand, Ấn Độ, Nam Phi"
+        ],
+        "correct_answer": " Canada, Mỹ, Anh, Đức, Hà Lan, Pháp"
+    },
+    {
+        "question": "Câu 35: Lợi ích của việc ứng dụng robot vào lĩnh vực sản xuất là gì?",
+        "options": [
+            " Giảm chi phí, cải thiện môi trường lao động, đảm bảo chất lượng sản phẩm",
+            " Thay thế hoàn toàn con người",
+            " Tăng nguy cơ thất nghiệp",
+            " Gây ô nhiễm môi trường"
+        ],
+        "correct_answer": " Giảm chi phí, cải thiện môi trường lao động, đảm bảo chất lượng sản phẩm"
+    },
+    {
+        "question": "Câu 36: Theo thống kê của Computer Security Institute, khoảng bao nhiêu phần trăm hành động sử dụng sai mạng máy tính, phần mềm bắt nguồn từ bên trong các công ty?",
+        "options": [
+            " 20%-40%",
+            " 40%-60%",
+            " 60%-80%",
+            " 80%-100%"
+        ],
+        "correct_answer": " 60%-80%"
+    },
+    {
+        "question": "Câu 37: Microsoft Safety Scanner là gì?",
+        "options": [
+            " Phần mềm diệt virus trả phí của Microsoft",
+            " Công cụ trực tuyến miễn phí của Microsoft giúp quét và loại bỏ các mối đe dọa tiềm ẩn khỏi máy tính",
+            " Phần mềm giúp cập nhật hệ điều hành Windows",
+            " Công cụ giúp sao lưu dữ liệu máy tính"
+        ],
+        "correct_answer": " Công cụ trực tuyến miễn phí của Microsoft giúp quét và loại bỏ các mối đe dọa tiềm ẩn khỏi máy tính"
+    },
+    {
+        "question": "Câu 38: Luật Công nghệ thông tin gồm bao nhiêu chương và bao nhiêu điều?",
+        "options": [
+            " 5 chương, 69 điều",
+            " 6 chương, 79 điều",
+            " 7 chương, 89 điều",
+            " 8 chương, 99 điều"
+        ],
+        "correct_answer": " 6 chương, 79 điều"
+    },
+    {
+        "question": "Câu 39: Tiêu chuẩn ISO/IEC 15408 tương ứng với tiêu chuẩn nào?",
+        "options": [
+            " TCSEC",
+            " Common Criteria",
+            " FIPS 140-2",
+            " ISO 27001"
+        ],
+        "correct_answer": " Common Criteria"
+    },
+    {
+        "question": "Câu 40: Công nghệ VR thường được ứng dụng trong những lĩnh vực nào?",
+        "options": [
+            " Y học, du lịch, bất động sản, kỹ thuật",
+            " Nông nghiệp, sản xuất thực phẩm",
+            " Giáo dục, đào tạo",
+            " Ngân hàng, tài chính"
+        ],
+        "correct_answer": " Y học, du lịch, bất động sản, kỹ thuật"
+    },
+    {
+        "question": "Câu 41: Chính sách “least privilege” (ít quyền hạn nhất có thể) trong an toàn thông tin có ý nghĩa gì?",
+        "options": [
+            " Người dùng có toàn quyền truy cập vào hệ thống",
+            " Người dùng chỉ được truy cập vào những thông tin cần thiết cho công việc",
+            " Người dùng không được truy cập vào hệ thống",
+            " Người dùng có quyền thay đổi cấu hình hệ thống"
+        ],
+        "correct_answer": " Người dùng chỉ được truy cập vào những thông tin cần thiết cho công việc"
+    },
+    {
+        "question": "Câu 42: Bộ bảo vệ Microsoft ngoại tuyến (Microsoft Offline Defender) có chức năng gì?",
+        "options": [
+            " Loại bỏ virus trước khi Windows khởi động",
+            " Quét virus trong thời gian thực",
+            " Cập nhật phần mềm diệt virus",
+            " Ngăn chặn truy cập vào các trang web độc hại"
+        ],
+        "correct_answer": " Loại bỏ virus trước khi Windows khởi động"
+    },
+    {
+        "question": "Câu 43: Luật An toàn thông tin mạng được Quốc hội thông qua vào ngày nào?",
+        "options": [
+            " 19/10/2015",
+            " 19/11/2015",
+            " 20/10/2015",
+            " 20/11/2015"
+        ],
+        "correct_answer": " 19/11/2015"
+    },
+    {
+        "question": "Câu 44: Tiêu chuẩn FIPS 140-2 quy định về vấn đề gì?",
+        "options": [
+            " Quản lý hệ thống thông tin",
+            " Bảo mật mạng máy tính",
+            " An toàn cho các mô-đun mật mã",
+            " Bảo vệ dữ liệu cá nhân"
+        ],
+        "correct_answer": " An toàn cho các mô-đun mật mã"
+    },
+    {
+        "question": "Câu 45: Vì sao cần phải xây dựng chiến lược an toàn thông tin song hành với quá trình chuyển đổi số?",
+        "options": [
+            " Để đảm bảo quá trình chuyển đổi số thành công và an toàn",
+            " Để tăng chi phí cho doanh nghiệp",
+            " Để làm chậm quá trình chuyển đổi số",
+            " Để gây khó khăn cho người dùng"
+        ],
+        "correct_answer": " Để đảm bảo quá trình chuyển đổi số thành công và an toàn"
+    },
+    {
+        "question": "Câu 46: Kỹ thuật điều tra số (forensics) trong an toàn thông tin dùng để làm gì?",
+        "options": [
+            " Dự đoán các cuộc tấn công mạng trong tương lai",
+            " Mã hóa dữ liệu để ngăn chặn truy cập trái phép",
+            " Truy vết các hành động tấn công mạng, thu thập bằng chứng",
+            " Phát triển các phần mềm diệt virus"
+        ],
+        "correct_answer": " Truy vết các hành động tấn công mạng, thu thập bằng chứng"
+    },
+    {
+        "question": "Câu 47: Tường lửa (Firewall) có chức năng gì?",
+        "options": [
+            " Ngăn chặn truy cập trái phép vào máy tính từ mạng bên ngoài",
+            " Phát hiện và loại bỏ virus",
+            " Mã hóa dữ liệu để bảo vệ thông tin",
+            " Sao lưu dữ liệu để phòng tránh mất mát"
+        ],
+        "correct_answer": " Ngăn chặn truy cập trái phép vào máy tính từ mạng bên ngoài"
+    },
+    {
+        "question": "Câu 48: Luật An toàn thông tin mạng có hiệu lực thi hành từ ngày nào?",
+        "options": [
+            " 01/01/2016",
+            " 01/07/2016",
+            " 01/01/2017",
+            " 01/07/2017"
+        ],
+        "correct_answer": " 01/07/2016"
+    },
+    {
+        "question": "Câu 49: IETF là viết tắt của tổ chức nào?",
+        "options": [
+            " International Electrotechnical Task Force",
+            " Internet Engineering Task Force",
+            " Information Technology Experts Forum",
+            " Institute for Electrical and Telecommunication Engineers"
+        ],
+        "correct_answer": " Internet Engineering Task Force"
+    },
+    {
+        "question": "Câu 50: Ai là người chịu trách nhiệm chính trong việc xây dựng chiến lược an toàn thông tin cho doanh nghiệp?",
+        "options": [
+            " Giám đốc điều hành (CEO)",
+            " Giám đốc công nghệ thông tin (CIO) hoặc Giám đốc an ninh thông tin (CISO)",
+            " Trưởng phòng nhân sự",
+            " Trưởng phòng kinh doanh"
+        ],
+        "correct_answer": " Giám đốc công nghệ thông tin (CIO) hoặc Giám đốc an ninh thông tin (CISO)"
+    },
+    {
+        "question": "Câu 51: Tại sao việc thường xuyên cập nhật phần mềm lại quan trọng trong việc bảo đảm an toàn thông tin?",
+        "options": [
+            " Để có thêm tính năng mới",
+            " Để cải thiện giao diện người dùng",
+            " Để vá lỗi bảo mật, ngăn chặn hacker khai thác lỗ hổng",
+            " Để tăng tốc độ xử lý của phần mềm"
+        ],
+        "correct_answer": " Để vá lỗi bảo mật, ngăn chặn hacker khai thác lỗ hổng"
+    },
+    {
+        "question": "Câu 52: Vì sao nên đọc kỹ các cảnh báo bảo mật, thỏa thuận cấp phép và tuyên bố bảo mật trước khi tải xuống phần mềm?",
+        "options": [
+            " Để hiểu rõ về các tính năng của phần mềm",
+            " Để biết cách sử dụng phần mềm hiệu quả",
+            " Để tránh tải xuống phần mềm độc hại hoặc phần mềm không mong muốn",
+            " Để đảm bảo phần mềm tương thích với máy tính"
+        ],
+        "correct_answer": " Để tránh tải xuống phần mềm độc hại hoặc phần mềm không mong muốn"
+    },
+    {
+        "question": "Câu 53: Theo Luật An toàn thông tin mạng năm 2015, thông tin thuộc phạm vi bí mật nhà nước được phân loại và bảo vệ theo quy định của pháp luật nào?",
+        "options": [
+            " Luật An ninh quốc gia",
+            " Luật Bảo vệ bí mật nhà nước",
+            " Luật Công nghệ thông tin",
+            " Luật Báo chí"
+        ],
+        "correct_answer": " Luật Bảo vệ bí mật nhà nước"
+    },
+    {
+        "question": "Câu 54: TOE trong tiêu chuẩn CC là viết tắt của cụm từ nào?",
+        "options": [
+            " Target of Evaluation.",
+            " Table of Elements",
+            " Terms of Engagement",
+            " Technical Operations Environment"
+        ],
+        "correct_answer": " Target of Evaluation."
+    },
+    {
+        "question": "Câu 55: Vì sao chiến lược an toàn thông tin cần phải phù hợp với mục tiêu kinh doanh?",
+        "options": [
+            " Để đảm bảo sự cân bằng giữa giảm thiểu rủi ro và cho phép đổi mới kinh doanh.",
+            " Để tăng cường kiểm soát hoạt động của nhân viên",
+            " Để hạn chế sự phát triển của doanh nghiệp",
+            " Để gây khó khăn cho khách hàng"
+        ],
+        "correct_answer": " Để đảm bảo sự cân bằng giữa giảm thiểu rủi ro và cho phép đổi mới kinh doanh."
+    },
+    {
+        "question": "Câu 56: Tấn công từ chối dịch vụ (DoS) là gì?",
+        "options": [
+            " Kỹ thuật tấn công nhằm chiếm quyền điều khiển máy tính nạn nhân",
+            " Kỹ thuật tấn công nhằm đánh cắp thông tin cá nhân",
+            " Kỹ thuật tấn công nhằm làm hệ thống không thể phục vụ người dùng",
+            " Kỹ thuật tấn công nhằm phát tán mã độc"
+        ],
+        "correct_answer": " Kỹ thuật tấn công nhằm làm hệ thống không thể phục vụ người dùng"
+    },
+    {
+        "question": "Câu 57: Tại sao nên sử dụng tài khoản người dùng tiêu chuẩn thay vì tài khoản quản trị viên?",
+        "options": [
+            " Vì tài khoản người dùng tiêu chuẩn có giao diện thân thiện hơn",
+            " Vì tài khoản người dùng tiêu chuẩn có tốc độ xử lý nhanh hơn",
+            " Vì tài khoản người dùng tiêu chuẩn giới hạn quyền truy cập, giảm thiểu thiệt hại do phần mềm độc hại gây ra",
+            " Vì tài khoản người dùng tiêu chuẩn miễn phí"
+        ],
+        "correct_answer": " Vì tài khoản người dùng tiêu chuẩn giới hạn quyền truy cập, giảm thiểu thiệt hại do phần mềm độc hại gây ra"
+    },
+    {
+        "question": "Câu 58: Theo Luật An toàn thông tin mạng năm 2015, việc gửi thông tin trên mạng phải đảm bảo những yêu cầu nào?",
+        "options": [
+            " Không giả mạo nguồn gốc gửi thông tin; tuân thủ quy định của Luật và quy định khác của pháp luật có liên quan",
+            " Được phép giả mạo nguồn gốc gửi thông tin; không cần tuân thủ quy định của pháp luật",
+            " Chỉ cần tuân thủ quy định của Luật An toàn thông tin mạng, không cần tuân thủ các quy định khác",
+            " Không cần đảm bảo bất kỳ yêu cầu nào"
+        ],
+        "correct_answer": " Không giả mạo nguồn gốc gửi thông tin; tuân thủ quy định của Luật và quy định khác của pháp luật có liên quan"
+    },
+    {
+        "question": "Câu 59: Môi trường an toàn theo CC gồm những yếu tố nào?",
+        "options": [
+            " Môi trường pháp lý, môi trường hành chính, môi trường vật lý, môi trường kỹ thuật",
+            " Môi trường tự nhiên, môi trường xã hội, môi trường kinh tế",
+            " Môi trường trong nước, môi trường quốc tế",
+            " Môi trường online, môi trường offline"
+        ],
+        "correct_answer": " Môi trường pháp lý, môi trường hành chính, môi trường vật lý, môi trường kỹ thuật"
+    },
+    {
+        "question": "Câu 60: Xác thực đa yếu tố (MFA) là gì?",
+        "options": [
+            " Phương pháp xác thực người dùng bằng nhiều yếu tố, ví dụ mật khẩu, mã OTP, vân tay",
+            " Phương pháp xác thực người dùng bằng mật khẩu duy nhất",
+            " Phương pháp xác thực người dùng bằng tên đăng nhập",
+            " Phương pháp xác thực người dùng bằng địa chỉ email"
+        ],
+        "correct_answer": " Phương pháp xác thực người dùng bằng nhiều yếu tố, ví dụ mật khẩu, mã OTP, vân tay"
+    },
+    {
+        "question": "Câu 61: Tấn công Social Engineering khai thác điểm yếu nào để tấn công hệ thống?",
+        "options": [
+            " Lỗ hổng phần mềm",
+            " Lỗ hổng phần cứng",
+            " Lỗ hổng mạng",
+            " Con người"
+        ],
+        "correct_answer": " Con người"
+    },
+    {
+        "question": "Câu 62: Phần lớn các đối tượng lừa đảo trên không gian mạng thường đánh vào tâm lý nào của nạn nhân?",
+        "options": [
+            " Cả tin, hám lợi.",
+            " Sợ hãi, lo lắng",
+            " Tò mò, thích khám phá",
+            " Thiện chí, muốn giúp đỡ người khác"
+        ],
+        "correct_answer": " Cả tin, hám lợi."
+    },
+    {
+        "question": "Câu 63: Theo Luật An toàn thông tin mạng năm 2015, doanh nghiệp cung cấp dịch vụ Internet có trách nhiệm gì trong việc phòng ngừa, phát hiện, ngăn chặn phát tán phần mềm độc hại?",
+        "options": [
+            " Không có trách nhiệm gì",
+            " Chỉ có trách nhiệm khi nhận được yêu cầu từ cơ quan nhà nước có thẩm quyền",
+            " Có biện pháp quản lý, phòng ngừa, phát hiện, ngăn chặn phát tán phần mềm độc hại và xử lý theo yêu cầu của cơ quan nhà nước có thẩm quyền",
+            " Phải chịu trách nhiệm hoàn toàn về mọi thiệt hại do phần mềm độc hại gây ra"
+        ],
+        "correct_answer": " Có biện pháp quản lý, phòng ngừa, phát hiện, ngăn chặn phát tán phần mềm độc hại và xử lý theo yêu cầu của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+        "question": "Câu 64: CC đưa ra bao nhiêu mức đánh giá đảm bảo an toàn (Evaluation Assurance Level –EAL)?",
+        "options": [
+            " 3",
+            " 5",
+            " 7",
+            " 9"
+        ],
+        "correct_answer": " 7"
+    },
+    {
+        "question": "Câu 65: SSO là viết tắt của cụm từ nào?",
+        "options": [
+            " Single Sign-On",
+            " Secure Socket Layer",
+            " Simple Service Orchestrator",
+            " Social Security Online"
+        ],
+        "correct_answer": " Single Sign-On"
+    },
+    {
+        "question": "Câu 66: Theo báo cáo của Hiệp hội Di động Toàn cầu (GSMA), cuối năm 2017, thế giới đã vượt qua mốc bao nhiêu người sử dụng thiết bị di động?",
+        "options": [
+            " 1 tỷ",
+            " 3 tỷ",
+            " 5 tỷ",
+            " 7 tỷ"
+        ],
+        "correct_answer": " 5 tỷ"
+    },
+    {
+        "question": "Câu 67: Theo cơ quan chức năng, nguyên nhân nào khiến các loại tội phạm công nghệ cao xuất hiện nhiều trong những năm gần đây?",
+        "options": [
+            " Do sự phát triển của các nền tảng số",
+            " Do người dân thiếu hiểu biết về công nghệ",
+            " Do pháp luật chưa đủ mạnh để xử lý tội phạm công nghệ cao",
+            " Do sự bất cẩn của các nhà cung cấp dịch vụ Internet"
+        ],
+        "correct_answer": " Do sự phát triển của các nền tảng số"
+    },
+    {
+        "question": "Câu 68: Theo Luật An toàn thông tin mạng năm 2015, ứng cứu sự cố an toàn thông tin mạng là hoạt động gì?",
+        "options": [
+            " Hoạt động nhằm phòng ngừa, ngăn chặn sự cố an toàn thông tin mạng",
+            " Hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng",
+            " Hoạt động nhằm điều tra, truy tố tội phạm mạng",
+            " Hoạt động nhằm tuyên truyền, phổ biến kiến thức về an toàn thông tin mạng"
+        ],
+        "correct_answer": " Hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng"
+    },
+    {
+        "question": "Câu 69: CEM là viết tắt của cụm từ nào?",
+        "options": [
+            " Cybersecurity Evaluation Methodology",
+            " Common Evaluation Model",
+            " Comprehensive Evaluation Manual",
+            " Common Methodology for Information Technology Security Evaluation"
+        ],
+        "correct_answer": " Common Methodology for Information Technology Security Evaluation"
+    },
+    {
+        "question": "Câu 70: Tại sao con người được coi là lỗ hổng bảo mật dễ bị tấn công nhất?",
+        "options": [
+            " Vì con người có thể bị tấn công thông qua virus, kỹ thuật tấn công mạng xã hội hoặc do lỗi bất cẩn.",
+            " Vì con người không có khả năng bảo mật thông tin",
+            " Vì con người không quan tâm đến an toàn thông tin",
+            " Vì con người luôn cố tình phá hoại hệ thống"
+        ],
+        "correct_answer": " Vì con người có thể bị tấn công thông qua virus, kỹ thuật tấn công mạng xã hội hoặc do lỗi bất cẩn."
+    },
+    {
+        "question": "Câu 71: Vì sao việc sử dụng mật khẩu giống nhau cho nhiều tài khoản là không an toàn?",
+        "options": [
+            " Vì dễ nhớ, dễ sử dụng",
+            " Vì hacker chỉ cần biết một mật khẩu là có thể truy cập vào tất cả các tài khoản",
+            " Vì mật khẩu sẽ tự động đồng bộ giữa các tài khoản",
+            " Vì không vi phạm chính sách bảo mật"
+        ],
+        "correct_answer": " Vì hacker chỉ cần biết một mật khẩu là có thể truy cập vào tất cả các tài khoản"
+    },
+    {
+        "question": "Câu 72: Nạn nhân của các vụ lừa đảo trên không gian mạng thường bị chiếm đoạt những gì?",
+        "options": [
+            " Tiền bạc",
+            " Thông tin cá nhân",
+            " Tài khoản mạng xã hội",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 73: Theo Luật An toàn thông tin mạng năm 2015, ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia được tổ chức thực hiện theo nguyên tắc nào?",
+        "options": [
+            " Tự nguyện",
+            " Thủ công",
+            " Phân cấp",
+            " Ngẫu nhiên"
+        ],
+        "correct_answer": " Phân cấp"
+    },
+    {
+        "question": "Câu 74: Theo mô hình của CEM, có bao nhiêu tổ chức tham gia vào quá trình đánh giá an toàn thông tin?",
+        "options": [
+            " 2",
+            " 4",
+            " 6",
+            " 8"
+        ],
+        "correct_answer": " 4"
+    },
+    {
+        "question": "Câu 75: Doanh nghiệp cần làm gì để xây dựng văn hóa an ninh thông tin?",
+        "options": [
+            " Xây dựng nhận thức và kiến thức của người dùng về bảo mật thông tin",
+            " Thiết lập các chính sách bảo mật rõ ràng",
+            " Có cơ chế khen thưởng, xử phạt rõ ràng đối với các sự cố an toàn thông tin",
+            " Cả ba đáp án trên đều đúng"
+        ],
+        "correct_answer": " Cả ba đáp án trên đều đúng"
+    },
+    {
+        "question": "Câu 76: Xác thực hai bước (2FA) là gì?",
+        "options": [
+            " Phương pháp đăng nhập bằng hai mật khẩu khác nhau",
+            " Phương pháp đăng nhập yêu cầu hai yếu tố xác thực, ví dụ mật khẩu và mã OTP",
+            " Phương pháp đăng nhập bằng vân tay và mật khẩu",
+            " Phương pháp đăng nhập bằng khuôn mặt và mật khẩu"
+        ],
+        "correct_answer": " Phương pháp đăng nhập yêu cầu hai yếu tố xác thực, ví dụ mật khẩu và mã OTP"
+    },
+    {
+        "question": "Câu 77: Ngoài virus máy tính, sâu máy tính, Trojan horse, phần mềm gián điệp, phần mềm bảo mật lậu, còn có những loại phần mềm độc hại nào khác?",
+        "options": [
+            " Ransomware, Keylogger, Adware, Rootkit...",
+            " Microsoft Word, Excel, PowerPoint",
+            " Google Chrome, Firefox, Safari",
+            " Facebook, Youtube, Instagram"
+        ],
+        "correct_answer": " Ransomware, Keylogger, Adware, Rootkit..."
+    },
+    {
+        "question": "Câu 78: Luật An ninh mạng được Quốc hội thông qua vào ngày nào?",
+        "options": [
+            " 12/05/2018",
+            " 12/06/2018",
+            " 13/05/2018",
+            " 13/06/2018"
+        ],
+        "correct_answer": " 12/06/2018"
+    },
+    {
+        "question": "Câu 79: FIPS 140-2 có bao nhiêu mức bảo vệ mô-đun mật mã?",
+        "options": [
+            " 4",
+            " 7",
+            " 10",
+            " 14"
+        ],
+        "correct_answer": " 4"
+    },
+    {
+        "question": "Câu 80: Ngoài việc tự xây dựng đội ngũ an toàn thông tin, doanh nghiệp có thể lựa chọn giải pháp nào khác để đảm bảo an toàn thông tin trong quá trình chuyển đổi số?",
+        "options": [
+            " Sử dụng dịch vụ tư vấn và vận hành an ninh thông tin của các công ty chuyên nghiệp.",
+            " Bỏ qua vấn đề an toàn thông tin",
+            " Chỉ sử dụng phần mềm miễn phí",
+            " Không kết nối Internet"
+        ],
+        "correct_answer": " Sử dụng dịch vụ tư vấn và vận hành an ninh thông tin của các công ty chuyên nghiệp."
+    },
+    {
+        "question": "Câu 81: Lý do nào khiến việc sử dụng Wifi công cộng để đăng nhập vào tài khoản cá nhân là không an toàn?",
+        "options": [
+            " Vì Wifi công cộng thường có tốc độ chậm",
+            " Vì Wifi công cộng thường không ổn định",
+            " Vì thông tin cá nhân dễ bị hacker khai thác khi sử dụng Wifi công cộng",
+            " Vì Wifi công cộng thường bị giới hạn thời gian sử dụng"
+        ],
+        "correct_answer": " Vì thông tin cá nhân dễ bị hacker khai thác khi sử dụng Wifi công cộng"
+    },
+    {
+        "question": "Câu 82: Ransomware là gì?",
+        "options": [
+            " Loại mã độc mã hóa dữ liệu của nạn nhân, yêu cầu trả tiền chuộc để giải mã",
+            " Loại mã độc ăn cắp thông tin tài khoản ngân hàng",
+            " Loại mã độc theo dõi hoạt động người dùng",
+            " Loại mã độc hiển thị quảng cáo không mong muốn"
+        ],
+        "correct_answer": " Loại mã độc mã hóa dữ liệu của nạn nhân, yêu cầu trả tiền chuộc để giải mã"
+    },
+    {
+        "question": "Câu 83: Luật An ninh mạng có hiệu lực thi hành từ ngày nào?",
+        "options": [
+            " 01/01/2019.",
+            " 01/07/2019",
+            " 01/01/2020",
+            " 01/07/2020"
+        ],
+        "correct_answer": " 01/01/2019."
+    },
+    {
+        "question": "Câu 84: Mức bảo vệ nào của FIPS 140-2 là yếu nhất?",
+        "options": [
+            " Mức 1",
+            " Mức 2",
+            " Mức 3",
+            " Mức 4"
+        ],
+        "correct_answer": " Mức 1"
+    },
+    {
+        "question": "Câu 85: Theo báo cáo của Virus Total và Google, mã độc tống tiền tại Việt Nam trong 7 tháng đầu năm 2021 đã tăng bao nhiêu phần trăm so với cùng thời điểm năm 2020?",
+        "options": [
+            " Gần 100%",
+            " Gần 200%.",
+            " Gần 300%",
+            " Gần 400%"
+        ],
+        "correct_answer": " Gần 200%."
+    }
+]

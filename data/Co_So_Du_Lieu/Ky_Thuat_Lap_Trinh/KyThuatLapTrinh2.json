@@ -1,0 +1,702 @@
+[
+    {
+        "question": "Câu 1: Câu lệnh nào sau đây đúng để định nghĩa một hàm trong C?",
+        "options": [
+            " int function(int a, int b) { return a + b; }",
+            " int function(int a, int b) { return (a + b); }",
+            " int function(int a, int b) return (a + b);",
+            " function int(int a, int b) { return a + b; }"
+        ],
+        "correct_answer": " int function(int a, int b) { return (a + b); }"
+    },
+    {
+        "question": "Câu 2: Trong ví dụ sau, giá trị nào sẽ được in ra màn hình?",
+        "options": [
+            " 5",
+            " 7",
+            " 12",
+            " 8"
+        ],
+        "correct_answer": " 7"
+    },
+    {
+        "question": "Câu 3: Để in giá trị của các phần tử trong mảng int a[5];, ta dùng:",
+        "options": [
+            " printf",
+            " scanf",
+            " gets",
+            " puts"
+        ],
+        "correct_answer": " printf"
+    },
+    {
+        "question": "Câu 4: Để khởi tạo tất cả các phần tử của mảng int a[5]; bằng 0, ta viết:",
+        "options": [
+            " int a[5] = {0}; (A)",
+            " int a[5] = {};  (B)",
+            " int a[5] = {0, 0, 0, 0, 0}; (C)",
+            " Cả A và B đúng"
+        ],
+        "correct_answer": " int a[5] = {};  (B)"
+    },
+    {
+        "question": "Câu 5: Mảng hai chiều là gì?",
+        "options": [
+            " Một mảng của các biến",
+            " Một mảng của các mảng một chiều",
+            " Một mảng của các hàm",
+            " Một biến chứa nhiều giá trị"
+        ],
+        "correct_answer": " Một mảng của các mảng một chiều"
+    },
+    {
+        "question": "Câu 6: Để lấy giá trị phần tử ở hàng 3, cột 2 của mảng a, ta viết:",
+        "options": [
+            " a[2][1];",
+            " a[3][2];",
+            " a[2][2];",
+            " a[3][1];"
+        ],
+        "correct_answer": " a[2][1];"
+    },
+    {
+        "question": "Câu 7: Chuỗi ký tự trong C là gì?",
+        "options": [
+            " Một dãy các số nguyên",
+            " Một dãy các ký tự đặt trong cặp dấu nháy đơn",
+            " Một dãy các ký tự đặt trong cặp dấu nháy kép",
+            " Một mảng các số nguyên"
+        ],
+        "correct_answer": " Một dãy các ký tự đặt trong cặp dấu nháy kép"
+    },
+    {
+        "question": "Câu 8: Công dụng của hàm strcpy là gì?",
+        "options": [
+            " Tính độ dài chuỗi",
+            " So sánh hai chuỗi",
+            " Sao chép nội dung chuỗi",
+            " Nối hai chuỗi"
+        ],
+        "correct_answer": " Sao chép nội dung chuỗi"
+    },
+    {
+        "question": "Câu 9: Câu lệnh nào dưới đây khai báo một cấu trúc trong C?",
+        "options": [
+            " struct dataType { member1; member2; };",
+            " struct structureName { dataType member1; dataType member2; };",
+            " struct { dataType member1; dataType member2; } structureName;",
+            " structureName { dataType member1; dataType member2; };"
+        ],
+        "correct_answer": " struct structureName { dataType member1; dataType member2; };"
+    },
+    {
+        "question": "Câu 10: Cách khai báo biến kiểu struct khi sử dụng từ khóa typedef nào dưới đây là đúng?",
+        "options": [
+            " distances d1; (A)",
+            " struct distances d1; (B)",
+            " distances d1, d2; (C)",
+            " Cả A và C đều đúng"
+        ],
+        "correct_answer": " Cả A và C đều đúng"
+    },
+    {
+        "question": "Câu 11: Trong cú pháp định nghĩa hàm, type là gì?",
+        "options": [
+            " Tên hàm",
+            " Tham số của hàm",
+            " Kiểu dữ liệu được trả về của hàm",
+            " Thân hàm"
+        ],
+        "correct_answer": " Kiểu dữ liệu được trả về của hàm"
+    },
+    {
+        "question": "Câu 12: Hàm nào sau đây không có tham số đầu vào?",
+        "options": [
+            " int getValue() { return 10; }",
+            " int getValue(int x) { return x; }",
+            " void printValue(int x) { printf(\"%d\", x); }",
+            " int sum(int a, int b) { return a + b; }"
+        ],
+        "correct_answer": " int getValue() { return 10; }"
+    },
+    {
+        "question": "Câu 13: Để nhập giá trị cho mảng int a[5]; từ bàn phím, ta dùng:",
+        "options": [
+            " printf",
+            " scanf",
+            " gets",
+            " puts"
+        ],
+        "correct_answer": " scanf"
+    },
+    {
+        "question": "Câu 14: Với mảng int a[] = {1, 2, 3, 4, 5};, số lượng phần tử của mảng là:",
+        "options": [
+            " 3",
+            " 4",
+            " 5",
+            " 6"
+        ],
+        "correct_answer": " 5"
+    },
+    {
+        "question": "Câu 15: Cú pháp khai báo mảng hai chiều đúng là:",
+        "options": [
+            " <Kiểu cơ sở> <Tên biến mảng> [<Kích thước 1>][<Kích thước 2>]",
+            " <Kiểu cơ sở> <Tên biến mảng> <[<Kích thước 1>][<Kích thước 2>]>",
+            " <Kiểu cơ sở> <Tên biến mảng> (<Kích thước 1>)(<Kích thước 2>)",
+            " <Kiểu cơ sở> <Tên biến mảng> {[<Kích thước 1>][<Kích thước 2>]}"
+        ],
+        "correct_answer": " <Kiểu cơ sở> <Tên biến mảng> [<Kích thước 1>][<Kích thước 2>]"
+    },
+    {
+        "question": "Câu 16: Để thay đổi giá trị phần tử ở hàng 2, cột 3 của mảng a thành 10, ta viết:",
+        "options": [
+            " a[2][3] = 10;",
+            " a[1][2] = 10;",
+            " a[1][3] = 10;",
+            " a[2][2] = 10;"
+        ],
+        "correct_answer": " a[1][2] = 10;"
+    },
+    {
+        "question": "Câu 17: Chuỗi rỗng trong C được ký hiệu là gì?",
+        "options": [
+            " \" \"",
+            " '\\0'",
+            " \"\"",
+            " \"NULL\""
+        ],
+        "correct_answer": " \"\""
+    },
+    {
+        "question": "Câu 18: Hàm strcat dùng để làm gì?",
+        "options": [
+            " Tính độ dài chuỗi",
+            " Sao chép nội dung chuỗi",
+            " Nối chuỗi",
+            " So sánh hai chuỗi"
+        ],
+        "correct_answer": " Nối chuỗi"
+    },
+    {
+        "question": "Câu 19: Cấu trúc nào dưới đây không hợp lệ?",
+        "options": [
+            " struct SinhVien { int maSV; char name[50]; int tuoi; };",
+            " struct { int feet; float inch; } distances;",
+            " typedef struct { int x; int y; } diem;",
+            " typedef struct SinhVien { int maSV; char name[50]; int tuoi; } sv;"
+        ],
+        "correct_answer": " struct { int feet; float inch; } distances;"
+    },
+    {
+        "question": "Câu 20: Để truy cập thành viên của một struct thông qua con trỏ, cú pháp nào dưới đây đúng?",
+        "options": [
+            " sv->maSV",
+            " *sv.maSV",
+            " sv[maSV]",
+            " &sv->maSV"
+        ],
+        "correct_answer": " sv->maSV"
+    },
+    {
+        "question": "Câu 21: Đâu là cú pháp khai báo hàm đúng trong C?",
+        "options": [
+            " int sum(float, int);",
+            " int sum(int a, int b);",
+            " sum(int a, int b);",
+            " int sum(a, b);"
+        ],
+        "correct_answer": " int sum(int a, int b);"
+    },
+    {
+        "question": "Câu 22: Trong hàm int func(int a, int b = 5), giá trị mặc định của b là gì?",
+        "options": [
+            " 0",
+            " Giá trị được truyền vào hàm khi gọi hàm",
+            " 5",
+            " Giá trị của a"
+        ],
+        "correct_answer": " 5"
+    },
+    {
+        "question": "Câu 23: Câu nào sau đây là đúng khi khai báo một mảng một chiều trong C?",
+        "options": [
+            " int a[];",
+            " int a[5];",
+            " int a[5.5];",
+            " int a['5'];"
+        ],
+        "correct_answer": " int a[5];"
+    },
+    {
+        "question": "Câu 24: Phát biểu nào sau đây là đúng khi khai báo int a[5]; và không khởi tạo giá trị?",
+        "options": [
+            " Tất cả các phần tử đều có giá trị 0",
+            " Giá trị của các phần tử không xác định",
+            " Tất cả các phần tử đều có giá trị 1",
+            " Tất cả các phần tử đều có giá trị -1"
+        ],
+        "correct_answer": " Giá trị của các phần tử không xác định"
+    },
+    {
+        "question": "Câu 25: Để khai báo một mảng hai chiều a có 2 hàng và 3 cột, ta viết:",
+        "options": [
+            " int a[3][2];",
+            " int a[2][3];",
+            " int a[3][3];",
+            " int a[2][2];"
+        ],
+        "correct_answer": " int a[2][3];"
+    },
+    {
+        "question": "Câu 26: Hàm nào dưới đây dùng để nhập mảng 2 chiều?",
+        "options": [
+            " void Nhap_Matran(int a[][100], int m, int n)",
+            " void In_Matran(int a[][100], int m, int m)",
+            " void Timkiem(int a[][100], int m, int n, int v)",
+            " void Tinh_Tong(int a[][100], int m, int n)"
+        ],
+        "correct_answer": " void Nhap_Matran(int a[][100], int m, int n)"
+    },
+    {
+        "question": "Câu 27: Ký tự kết thúc chuỗi trong C là gì?",
+        "options": [
+            " '\\t'",
+            " '\\n'",
+            " '\\0'",
+            " ' '"
+        ],
+        "correct_answer": " '\\0'"
+    },
+    {
+        "question": "Câu 28: Hàm strcmp dùng để làm gì?",
+        "options": [
+            " Tính độ dài chuỗi",
+            " Sao chép nội dung chuỗi",
+            " Nối chuỗi",
+            " So sánh hai chuỗi"
+        ],
+        "correct_answer": " So sánh hai chuỗi"
+    },
+    {
+        "question": "Câu 29: Câu lệnh nào dưới đây khai báo một biến kiểu struct?",
+        "options": [
+            " struct SinhVien sv1;",
+            " SinhVien sv1;",
+            " struct SinhVien { int maSV; char name[50]; int tuoi; }; sv1;",
+            " struct SinhVien sv1 = {123, \"Nguyen Van A\", 20};"
+        ],
+        "correct_answer": " struct SinhVien sv1;"
+    },
+    {
+        "question": "Câu 30: Câu lệnh nào khai báo một mảng cấu trúc trong C?",
+        "options": [
+            " struct SinhVien sv[100]; (A)",
+            " SinhVien sv[100]; (B)",
+            " typedef struct { int x; int y; } diem[100]; (C)",
+            " Cả A và B đều đúng"
+        ],
+        "correct_answer": " Cả A và B đều đúng"
+    },
+    {
+        "question": "Câu 31: Trong định nghĩa hàm void func(int a, int b), void có nghĩa là gì?",
+        "options": [
+            " Hàm không có tham số",
+            " Hàm không trả về giá trị",
+            " Hàm có hai tham số",
+            " Hàm trả về giá trị int"
+        ],
+        "correct_answer": " Hàm không trả về giá trị"
+    },
+    {
+        "question": "Câu 32: Đoạn mã nào sau đây là một lời gọi hàm hợp lệ cho hàm int subtract(int a, int b)?",
+        "options": [
+            " subtract(10, 5);",
+            " int result = subtract(int 10, int 5);",
+            " subtract(a: 10, b: 5);",
+            " int result = subtract(a = 10, b = 5);"
+        ],
+        "correct_answer": " subtract(10, 5);"
+    },
+    {
+        "question": "Câu 33: Kích thước của mảng phải được xác định:",
+        "options": [
+            " Trong khi chạy chương trình",
+            " Khi khai báo mảng",
+            " Không cần xác định",
+            " Sau khi khai báo mảng"
+        ],
+        "correct_answer": " Khi khai báo mảng"
+    },
+    {
+        "question": "Câu 34: Phát biểu nào sau đây là sai khi gán giá trị cho các phần tử trong mảng int a[5]?",
+        "options": [
+            " a[0] = 1;",
+            " a[4] = 2;",
+            " a[5] = 3;",
+            " a[1] = 4;"
+        ],
+        "correct_answer": " a[5] = 3;"
+    },
+    {
+        "question": "Câu 35: Cách khởi tạo mảng hai chiều đúng là:",
+        "options": [
+            " int a[2][3] = {1, 2, 3, 4, 5, 6};",
+            " int a[2][3] = {{1, 2, 3}, {4, 5, 6}};",
+            " int a[2][3] = {(1, 2, 3), (4, 5, 6)};",
+            " int a[2][3] = {[1, 2, 3], [4, 5, 6]};"
+        ],
+        "correct_answer": " int a[2][3] = {{1, 2, 3}, {4, 5, 6}};"
+    },
+    {
+        "question": "Câu 36: Hàm nào dưới đây dùng để in mảng 2 chiều?",
+        "options": [
+            " void Nhap_Matran(int a[][100], int m, int m)",
+            " void In_Matran(int a[][100], int m, int n)",
+            " void Timkiem(int a[][100], int m, int n, int v)",
+            " void Tinh_Tong(int a[][100], int m, int n)"
+        ],
+        "correct_answer": " void In_Matran(int a[][100], int m, int n)"
+    },
+    {
+        "question": "Câu 37: Độ dài tối đa của chuỗi char s[10]; là bao nhiêu?",
+        "options": [
+            " 10",
+            " 9",
+            " 11",
+            " 8"
+        ],
+        "correct_answer": " 9"
+    },
+    {
+        "question": "Câu 38: Để chuyển đổi các chữ in thường trong chuỗi thành chữ in hoa, ta dùng hàm nào?",
+        "options": [
+            " strlwr",
+            " strupr",
+            " strcpy",
+            " strcat"
+        ],
+        "correct_answer": " strupr"
+    },
+    {
+        "question": "Câu 39: Cách nào dưới đây truy cập vào thành viên của một biến struct?",
+        "options": [
+            " sv.maSV",
+            " sv->maSV",
+            " sv[maSV]",
+            " sv(maSV)"
+        ],
+        "correct_answer": " sv.maSV"
+    },
+    {
+        "question": "Câu 40: Để khai báo một biến kiểu struct SinhVien có các thành viên maSV, name và tuoi, câu lệnh nào dưới đây là đúng?",
+        "options": [
+            " struct SinhVien sv = {123, \"Nguyen Van A\", 20}; (A)",
+            " SinhVien sv = {123, \"Nguyen Van A\", 20}; (B)",
+            " struct SinhVien sv; (C)",
+            " Cả A và B đều đúng"
+        ],
+        "correct_answer": " Cả A và B đều đúng"
+    },
+    {
+        "question": "Câu 41: Phát biểu nào đúng về phạm vi hoạt động của biến?",
+        "options": [
+            " Biến cục bộ có thể sử dụng ở mọi nơi trong chương trình",
+            " Biến toàn cục chỉ có thể sử dụng trong một hàm",
+            " Biến cục bộ chỉ có thể sử dụng trong hàm mà nó được khai báo",
+            " Biến toàn cục không thể sử dụng trong hàm chính"
+        ],
+        "correct_answer": " Biến cục bộ chỉ có thể sử dụng trong hàm mà nó được khai báo"
+    },
+    {
+        "question": "Câu 42: Giá trị nào được trả về khi gọi hàm divide(20, 4) nếu hàm được định nghĩa như sau?",
+        "options": [
+            " 2",
+            " 5",
+            " 10",
+            " 4"
+        ],
+        "correct_answer": " 5"
+    },
+    {
+        "question": "Câu 43: Chỉ số của mảng trong C bắt đầu từ:",
+        "options": [
+            " 1",
+            " 0",
+            " -1",
+            " 2"
+        ],
+        "correct_answer": " 0"
+    },
+    {
+        "question": "Câu 44: Để tính tổng các phần tử của mảng int a[5] = {1, 2, 3, 4, 5};, ta viết:",
+        "options": [
+            " sum = a[0] + a[1] + a[2] + a[3] + a[4];",
+            " sum = a[1] + a[2] + a[3] + a[4] + a[5];",
+            " sum = a[0] + a[1] + a[2] + a[3];",
+            " sum = a[1] + a[2] + a[3] + a[4];"
+        ],
+        "correct_answer": " sum = a[0] + a[1] + a[2] + a[3] + a[4];"
+    },
+    {
+        "question": "Câu 45: Trong khai báo int a[][3], số hàng của mảng a là:",
+        "options": [
+            " Không xác định",
+            " 3",
+            " 1",
+            " 2"
+        ],
+        "correct_answer": " Không xác định"
+    },
+    {
+        "question": "Câu 46: Để truy cập phần tử đầu tiên của mảng hai chiều a, ta viết:",
+        "options": [
+            " a[1][0];",
+            " a[0][1];",
+            " a[0][0];",
+            " a[1][1];"
+        ],
+        "correct_answer": " a[0][0];"
+    },
+    {
+        "question": "Câu 47: Cú pháp khai báo một chuỗi ký tự trong C là gì?",
+        "options": [
+            " char s[] = \"Hello\";",
+            " string s = \"Hello\";",
+            " char s = \"Hello\";",
+            " str s = \"Hello\";"
+        ],
+        "correct_answer": " char s[] = \"Hello\";"
+    },
+    {
+        "question": "Câu 48: Hàm stricmp dùng để làm gì?",
+        "options": [
+            " Tính độ dài chuỗi",
+            " Sao chép nội dung chuỗi",
+            " Nối chuỗi",
+            " So sánh hai chuỗi không phân biệt chữ hoa chữ thường"
+        ],
+        "correct_answer": " So sánh hai chuỗi không phân biệt chữ hoa chữ thường"
+    },
+    {
+        "question": "Câu 49: Câu lệnh nào dưới đây sử dụng từ khóa typedef để định nghĩa một kiểu struct?",
+        "options": [
+            " typedef struct { int feet; float inch; } distances;",
+            " struct typedef { int feet; float inch; } distances;",
+            " struct distances { int feet; float inch; } typedef;",
+            " typedef struct distances { int feet; float inch; };"
+        ],
+        "correct_answer": " typedef struct { int feet; float inch; } distances;"
+    },
+    {
+        "question": "Câu 50: Để sao chép nội dung của một struct này sang một struct khác cùng kiểu, cú pháp nào dưới đây đúng?",
+        "options": [
+            " sv1 = sv2;",
+            " sv1 == sv2;",
+            " sv1.copy(sv2);",
+            " copy(sv1, sv2);"
+        ],
+        "correct_answer": " sv1 = sv2;"
+    },
+    {
+        "question": "Câu 51: Khi nào một biến cục bộ trong hàm có thể được sử dụng trong hàm khác?",
+        "options": [
+            " Khi biến cục bộ được khai báo toàn cục",
+            " Khi biến cục bộ được truyền dưới dạng tham số",
+            " Khi biến cục bộ được truyền dưới dạng tham chiếu",
+            " Khi biến cục bộ được khai báo với từ khóa extern"
+        ],
+        "correct_answer": " Khi biến cục bộ được truyền dưới dạng tham chiếu"
+    },
+    {
+        "question": "Câu 52: Đoạn mã nào sau đây sẽ không biên dịch được?",
+        "options": [
+            " int add(int a, int b) { return a + b; }",
+            " void printValue(int a) { printf(\"%d\", a); }",
+            " int add(int a, int b) return a + b;",
+            " float multiply(float x, float y) { return x * y; }"
+        ],
+        "correct_answer": " int add(int a, int b) return a + b;"
+    },
+    {
+        "question": "Câu 53: Phát biểu nào sau đây là sai khi khởi tạo mảng một chiều?",
+        "options": [
+            " int a[3] = {1, 2, 3};",
+            " int a[3] = {1, 2};",
+            " int a[3] = {};",
+            " int a[] = {1, 2, 3};"
+        ],
+        "correct_answer": " int a[3] = {};"
+    },
+    {
+        "question": "Câu 54: Cú pháp nào dưới đây để khai báo một mảng một chiều có 10 phần tử kiểu int?",
+        "options": [
+            " int a[];",
+            " int a[10];",
+            " int a[10.5];",
+            " int a[0:10];"
+        ],
+        "correct_answer": " int a[10];"
+    },
+    {
+        "question": "Câu 55: Để in chuỗi ký tự trong C, ta dùng định dạng nào trong hàm printf?",
+        "options": [
+            " %d",
+            " %c",
+            " %f",
+            " %s"
+        ],
+        "correct_answer": " %s"
+    },
+    {
+        "question": "Câu 56: Trong hàm void update(int& x), kí tự & có nghĩa là gì?",
+        "options": [
+            " Tham số mặc định",
+            " Tham số tham chiếu",
+            " Tham số cục bộ",
+            " Tham số toàn cục"
+        ],
+        "correct_answer": " Tham số tham chiếu"
+    },
+    {
+        "question": "Câu 57: Hàm nào sau đây có thể được gọi mà không cần truyền bất kỳ tham số nào?",
+        "options": [
+            " void printHello() { printf(\"Hello\"); }",
+            " int sum(int a, int b) { return a + b; }",
+            " float divide(int a, int b = 2) { return (float)a / b; }",
+            " void display(int a = 5) { printf(\"%d\", a); }"
+        ],
+        "correct_answer": " void printHello() { printf(\"Hello\"); }"
+    },
+    {
+        "question": "Câu 58: Trong khai báo int a[5] = {1, 2};, giá trị của a[4] là gì?",
+        "options": [
+            " 1",
+            " 2",
+            " 0",
+            " Không xác định"
+        ],
+        "correct_answer": " 0"
+    },
+    {
+        "question": "Câu 59: Để khai báo mảng ta dùng cú pháp sau:",
+        "options": [
+            " < kiểu phần tử> < tên biến mảng > [< kích thước>];",
+            " < tên biến mảng> [< kích thước>];",
+            " < kiểu phần tử> < tên biến mảng > ;",
+            " < kiểu phần tử> of < tên biến mảng > [< kích thước>];"
+        ],
+        "correct_answer": " < kiểu phần tử> < tên biến mảng > [< kích thước>];"
+    },
+    {
+        "question": "Câu 60: Hàm nào được sử dụng để nhập chuỗi ký tự từ bàn phím để khi in chuỗi ra màn hình in được cả dấu cách?",
+        "options": [
+            " scanf",
+            " gets",
+            " printf",
+            " puts"
+        ],
+        "correct_answer": " gets"
+    },
+    {
+        "question": "Câu 61: Khi gọi hàm void test(int x, int y = 5) với test(3), giá trị của y là gì?",
+        "options": [
+            " 0",
+            " 3",
+            " 5",
+            " 10"
+        ],
+        "correct_answer": " 5"
+    },
+    {
+        "question": "Câu 62: Cú pháp đúng để tham chiếu đến phần tử thứ 3 của mảng a là gì?",
+        "options": [
+            " a[2]",
+            " a[3]",
+            " a(2)",
+            " a(3)"
+        ],
+        "correct_answer": " a[2]"
+    },
+    {
+        "question": "Câu 63: Khi thêm một phần tử vào mảng int a[5]; tại vị trí bất kỳ, ta cần:",
+        "options": [
+            " Dịch các phần tử bên phải sang trái",
+            " Dịch các phần tử từ vị trí cần thêm sang phải một ô nhớ",
+            " Gán giá trị trực tiếp vào vị trí đó",
+            " Cả A và B đúng"
+        ],
+        "correct_answer": " Dịch các phần tử từ vị trí cần thêm sang phải một ô nhớ"
+    },
+    {
+        "question": "Câu 64: Hàm nào được sử dụng để in chuỗi ký tự ra màn hình?",
+        "options": [
+            " scanf",
+            " gets",
+            " print",
+            " puts"
+        ],
+        "correct_answer": " puts"
+    },
+    {
+        "question": "Câu 65: Bộ nhớ sử dụng của mảng int a[10]; là bao nhiêu nếu mỗi phần tử kiểu int chiếm 4 bytes?",
+        "options": [
+            " 10 bytes",
+            " 20 bytes",
+            " 40 bytes",
+            " 80 bytes"
+        ],
+        "correct_answer": " 40 bytes"
+    },
+    {
+        "question": "Câu 66: Khi xóa một phần tử trong mảng int a[5]; tại vị trí bất kỳ, ta cần:",
+        "options": [
+            " Dịch các phần tử bên phải vị trí muốn xóa sang trái một ô nhớ",
+            " Dịch các phần tử bên trái sang phải",
+            " Gán giá trị 0 vào vị trí đó",
+            " Không cần làm gì"
+        ],
+        "correct_answer": " Dịch các phần tử bên phải vị trí muốn xóa sang trái một ô nhớ"
+    },
+    {
+        "question": "Câu 67: Thư viện nào chứa các hàm thao tác trên chuỗi ký tự trong C?",
+        "options": [
+            " stdio.h",
+            " string.h",
+            " ctype.h",
+            " math.h"
+        ],
+        "correct_answer": " string.h"
+    },
+    {
+        "question": "Câu 68: Phát biểu nào sau đây đúng khi khai báo mảng int a[3] = {1, 2, 3};?",
+        "options": [
+            " Mảng a có 4 phần tử",
+            " Mảng a có 2 phần tử",
+            " Mảng a có 3 phần tử",
+            " Mảng a có 1 phần tử"
+        ],
+        "correct_answer": " Mảng a có 3 phần tử"
+    },
+    {
+        "question": "Câu 69: Để kiểm tra xem một phần tử có nằm trong mảng int a[5]; không, ta dùng:",
+        "options": [
+            " Tìm kiếm nhị phân",
+            " Tìm kiếm tuyến tính",
+            " Sắp xếp chọn",
+            " Sắp xếp chèn"
+        ],
+        "correct_answer": " Tìm kiếm tuyến tính"
+    },
+    {
+        "question": "Câu 70: Hàm nào được dùng để tính độ dài của chuỗi ký tự?",
+        "options": [
+            " strlen",
+            " strcpy",
+            " strcat",
+            " strcmp"
+        ],
+        "correct_answer": " strlen"
+    }
+]

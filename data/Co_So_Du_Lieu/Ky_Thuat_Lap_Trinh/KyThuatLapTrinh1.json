@@ -1,0 +1,802 @@
+[
+    {
+        "question": "Câu 1: Giải thuật là gì?",
+        "options": [
+            " Là tập hợp các bước thực hiện để giải quyết một vấn đề cụ thể",
+            " Là một tập hợp hữu hạn các bước làm được sắp xếp theo một trật tự xác định và có thể thực hiện đượcbằng máy tính để giải quyết một lớp các bài toán",
+            " Là một ngôn ngữ lập trình cụ thể",
+            " Tất cả các câu trên đều không đúng"
+        ],
+        "correct_answer": " Là một tập hợp hữu hạn các bước làm được sắp xếp theo một trật tự xác định và có thể thực hiện đượcbằng máy tính để giải quyết một lớp các bài toán"
+    },
+    {
+        "question": "Câu 2: Câu lệnh printf() trong C dùng để:",
+        "options": [
+            " Nhập dữ liệu từ người dùng",
+            " In dữ liệu ra màn hình",
+            " Khai báo biến",
+            " Tất cả các câu trên đều sai"
+        ],
+        "correct_answer": " In dữ liệu ra màn hình"
+    },
+    {
+        "question": "Câu 3: Biểu thức điều kiện trong ngôn ngữ lập trình C có cú pháp nào sau đây?",
+        "options": [
+            " condition ? result1 : result2",
+            " condition : result1 ? result2",
+            " result1 ? condition : result2",
+            " result2 : condition ? result1"
+        ],
+        "correct_answer": " condition ? result1 : result2"
+    },
+    {
+        "question": "Câu 4: Câu lệnh nào dưới đây sử dụng để nhập một số nguyên từ bàn phím trong C?",
+        "options": [
+            " printf(\"%d\", &a);",
+            " scanf(\"%d\", &a);",
+            " scanf(\"%f\", &a);",
+            " print(\"%d\", &a);"
+        ],
+        "correct_answer": " scanf(\"%d\", &a);"
+    },
+    {
+        "question": "Câu 5: Câu lệnh if trong C dùng để làm gì?",
+        "options": [
+            " Kiểm tra điều kiện và thực hiện câu lệnh nếu điều kiện đúng",
+            " Thực hiện vòng lặp",
+            " Định nghĩa hàm",
+            " Khai báo biến"
+        ],
+        "correct_answer": " Kiểm tra điều kiện và thực hiện câu lệnh nếu điều kiện đúng"
+    },
+    {
+        "question": "Câu 6: Vòng lặp for nào dưới đây là đúng trong ngôn ngữ lập trình C?",
+        "options": [
+            " for (i = 0; i < 10; i++)",
+            " for (i = 0; i < 10; i--;)",
+            " for (int i = 0; i < 10; i++)",
+            " for (int i = 0; i < 10; --i)"
+        ],
+        "correct_answer": " for (int i = 0; i < 10; i++)"
+    },
+    {
+        "question": "Câu 7: Chương trình máy tính là gì?",
+        "options": [
+            " Một tập hợp các chỉ dẫn được viết bằng ngôn ngữ lập trình để máy tính thực hiện",
+            " Tập hợp hữu hạn các chỉ thị máy được bố trí, sắp xếp theo một trật tự xác định, nhằm giải quyết yêu cầu của bài toán đặt ra",
+            " Một tập hợp các tệp tin được sử dụng để chạy máy tính",
+            " Tất cả các câu trên đều sai"
+        ],
+        "correct_answer": " Tập hợp hữu hạn các chỉ thị máy được bố trí, sắp xếp theo một trật tự xác định, nhằm giải quyết yêu cầu của bài toán đặt ra"
+    },
+    {
+        "question": "Câu 8: Câu lệnh scanf() trong C dùng để:",
+        "options": [
+            " Nhập dữ liệu từ người dùng",
+            " In dữ liệu ra màn hình",
+            " Khai báo biến",
+            " Tất cả các câu trên đều sai"
+        ],
+        "correct_answer": " Nhập dữ liệu từ người dùng"
+    },
+    {
+        "question": "Câu 9: Phép toán lấy phần dư trong C được ký hiệu là gì?",
+        "options": [
+            " /",
+            " %",
+            " \\",
+            " //"
+        ],
+        "correct_answer": " %"
+    },
+    {
+        "question": "Câu 10: Trong thư viện nào chứa hàm scanf và printf?",
+        "options": [
+            " stdio.h",
+            " conio.h",
+            " string.h",
+            " math.h"
+        ],
+        "correct_answer": " stdio.h"
+    },
+    {
+        "question": "Câu 11: Câu lệnh else được sử dụng khi nào?",
+        "options": [
+            " Khi điều kiện if đúng",
+            " Khi điều kiện if sai",
+            " Khi cần kết thúc chương trình",
+            " Khi cần khai báo biến"
+        ],
+        "correct_answer": " Khi điều kiện if sai"
+    },
+    {
+        "question": "Câu 12: Đoạn mã sau sẽ in ra kết quả là gì? for (int i = 0; i < 5; i++) { printf(\"%d \", i); }",
+        "options": [
+            " 0 1 2 3",
+            " 0 1 2 3 4",
+            " 1 2 3 4",
+            " 0 1 2 3 4 5"
+        ],
+        "correct_answer": " 0 1 2 3 4"
+    },
+    {
+        "question": "Câu 13: Ngôn ngữ lập trình là gì?",
+        "options": [
+            " Một tập hợp các chỉ dẫn để máy tính thực hiện",
+            " Một ngôn ngữ được sử dụng để viết chương trình máy tính",
+            " Một tập hợp các giải thuật được viết bằng một ngôn ngữ cụ thể",
+            " Tất cả các câu trên đều đúng"
+        ],
+        "correct_answer": " Một ngôn ngữ được sử dụng để viết chương trình máy tính"
+    },
+    {
+        "question": "Câu 14: Từ khoá là những từ được sử dụng để:",
+        "options": [
+            " Khai báo các kiểu dữ liệu (A)",
+            " Viết các toán tử và câu lệnh (B)",
+            " Đặt tên cho hằng, biến, mảng, hàm (C)",
+            " Cả A và B đều đúng"
+        ],
+        "correct_answer": " Cả A và B đều đúng"
+    },
+    {
+        "question": "Câu 15: Trong biểu thức \"a = b = c = d = 6;\", giá trị cuối cùng của a là bao nhiêu?",
+        "options": [
+            " 0",
+            " 6",
+            " Giá trị không xác định",
+            " Lỗi cú pháp"
+        ],
+        "correct_answer": " 6"
+    },
+    {
+        "question": "Câu 16: Để in ra một số thực với 2 chữ số thập phân, câu lệnh nào đúng?",
+        "options": [
+            " printf(\"%d\", a);",
+            " printf(\"%f\", a);",
+            " printf(\"%.2f\", a);",
+            " printf(\"%.2d\", a);"
+        ],
+        "correct_answer": " printf(\"%.2f\", a);"
+    },
+    {
+        "question": "Câu 17: Cú pháp đúng của câu lệnh if trong C là gì?",
+        "options": [
+            " if condition { statements }",
+            " if (condition) { statements }",
+            " if (condition) statements;",
+            " if condition statements;"
+        ],
+        "correct_answer": " if (condition) { statements }"
+    },
+    {
+        "question": "Câu 18: Điều kiện nào sau đây sẽ khiến vòng lặp for trở thành vòng lặp vô hạn?",
+        "options": [
+            " for (int i = 0; i < 10; i++)",
+            " for (int i = 0; i != 10; i++)",
+            " for (int i = 0; ; i++)",
+            " for (; i < 10; i++)"
+        ],
+        "correct_answer": " for (int i = 0; ; i++)"
+    },
+    {
+        "question": "Câu 19: Các bước xây dựng chương trình bao gồm:",
+        "options": [
+            " Viết chương trình, biên dịch, thực thi",
+            " Xác định yêu cầu bài toán, lựa chọn phương pháp giải, xây dựng thuật toán, cài đặt chương trình, thử nghiệm",
+            " Viết chương trình, chạy thử, sửa lỗi",
+            " Phân tích vấn đề, viết code, chạy thử, sửa lỗi"
+        ],
+        "correct_answer": " Xác định yêu cầu bài toán, lựa chọn phương pháp giải, xây dựng thuật toán, cài đặt chương trình, thử nghiệm"
+    },
+    {
+        "question": "Câu 20: Không được dùng các từ khoá để đặt tên cho các:",
+        "options": [
+            " Hằng",
+            " Biến",
+            " Hàm",
+            " Tất cả đều đúng"
+        ],
+        "correct_answer": " Tất cả đều đúng"
+    },
+    {
+        "question": "Câu 21: Kết quả của phép toán 11 % 3 là gì?",
+        "options": [
+            " 2",
+            " 3",
+            " 1",
+            " 0"
+        ],
+        "correct_answer": " 2"
+    },
+    {
+        "question": "Câu 22: Để in ra ký tự %, cần sử dụng mã định dạng nào?",
+        "options": [
+            " %c",
+            " %%c",
+            " %",
+            " %%"
+        ],
+        "correct_answer": " %%"
+    },
+    {
+        "question": "Câu 23: Cú pháp đúng của câu lệnh if...else trong C là gì?",
+        "options": [
+            " if (condition) statements else statements;",
+            " if (condition) { statements } else { statements }",
+            " if (condition) { statements else { statements }",
+            " if (condition) { statements; else { statements; }"
+        ],
+        "correct_answer": " if (condition) { statements } else { statements }"
+    },
+    {
+        "question": "Câu 24: Vòng lặp for có thể lồng nhau không?",
+        "options": [
+            " Có",
+            " Không",
+            " Chỉ trong một số trường hợp",
+            " Tùy thuộc vào ngôn ngữ lập trình"
+        ],
+        "correct_answer": " Có"
+    },
+    {
+        "question": "Câu 25: Biểu diễn thuật toán bằng ngôn ngữ tự nhiên có ưu điểm là:",
+        "options": [
+            " Dễ hiểu và không cần phải học thêm",
+            " Mô tả được các bước thực hiện một cách tự nhiên",
+            " Không cần phải viết code",
+            " Tất cả các câu trên đều đúng"
+        ],
+        "correct_answer": " Mô tả được các bước thực hiện một cách tự nhiên"
+    },
+    {
+        "question": "Câu 26: Từ khoá phải được viết:",
+        "options": [
+            " Bằng chữ hoa",
+            " Bằng chữ thường",
+            " Không có quy định",
+            " Bằng chữ số"
+        ],
+        "correct_answer": " Bằng chữ thường"
+    },
+    {
+        "question": "Câu 27: Phép toán phủ định (NOT) trong C được ký hiệu là gì?",
+        "options": [
+            " &&",
+            " ||",
+            " !",
+            " ~"
+        ],
+        "correct_answer": " !"
+    },
+    {
+        "question": "Câu 28: Kết quả của đoạn mã printf(\"So ban vua nhap la: %d\", 5); là gì?",
+        "options": [
+            " So ban vua nhap la: %d",
+            " So ban vua nhap la: 5;",
+            " So ban vua nhap la: 5",
+            " So ban vua nhap la: \"5\""
+        ],
+        "correct_answer": " So ban vua nhap la: 5"
+    },
+    {
+        "question": "Câu 29: Điều kiện trong câu lệnh if là loại nào?",
+        "options": [
+            " Chuỗi ký tự",
+            " Biểu thức logic",
+            " Số nguyên",
+            " Số thực"
+        ],
+        "correct_answer": " Biểu thức logic"
+    },
+    {
+        "question": "Câu 30: Đoạn mã sau sẽ in ra gì? for (int i = 1; i <= 3; i++) { for (int j = 1; j <= 2; j++) { printf(\"%d \", i * j); } }",
+        "options": [
+            " 1 2 3 4 5 6",
+            " 1 2 2 4 5 6",
+            " 1 2 2 4 6",
+            " 1 2 2 4 3 6"
+        ],
+        "correct_answer": " 1 2 2 4 3 6"
+    },
+    {
+        "question": "Câu 31: Sử dụng lưu đồ - sơ đồ khối để biểu diễn thuật toán có ưu điểm là:",
+        "options": [
+            " Dễ hình dung và diễn đạt các bước thực hiện",
+            " Không cần phải viết code",
+            " Không cần phải học thêm",
+            " Tất cả các câu trên đều đúng"
+        ],
+        "correct_answer": " Dễ hình dung và diễn đạt các bước thực hiện"
+    },
+    {
+        "question": "Câu 32: Tên là một khái niệm rất quan trọng, nó dùng để xác định các:",
+        "options": [
+            " Đại lượng khác nhau trong chương trình",
+            " Từ khoá",
+            " Ký tự",
+            " Toán tử"
+        ],
+        "correct_answer": " Đại lượng khác nhau trong chương trình"
+    },
+    {
+        "question": "Câu 33: Đối với biểu thức \"a < b && c > d\", ký hiệu && là gì?",
+        "options": [
+            " Phép toán logic AND",
+            " Phép toán logic OR",
+            " Phép toán phủ định",
+            " Phép toán so sánh"
+        ],
+        "correct_answer": " Phép toán logic AND"
+    },
+    {
+        "question": "Câu 34: Ký tự điều khiển nào dùng để nhảy xuống dòng kế tiếp?",
+        "options": [
+            " \\t",
+            " \\n",
+            " \\a",
+            " \\"
+        ],
+        "correct_answer": " \\n"
+    },
+    {
+        "question": "Câu 35: Kết quả của biểu thức logic trong câu lệnh if là gì?",
+        "options": [
+            " true hoặc false",
+            " 0 hoặc 1",
+            " null hoặc true",
+            " 1 hoặc -1"
+        ],
+        "correct_answer": " true hoặc false"
+    },
+    {
+        "question": "Câu 36: Vòng lặp for nào sau đây sẽ chạy từ 10 đến 1?",
+        "options": [
+            " for (int i = 1; i <= 10; i++)",
+            " for (int i = 10; i > 0; i--)",
+            " for (int i = 10; i >= 0; i--)",
+            " for (int i = 10; i != 0; i--)"
+        ],
+        "correct_answer": " for (int i = 10; i > 0; i--)"
+    },
+    {
+        "question": "Câu 37: Sử dụng mã giả để biểu diễn thuật toán có ưu điểm là:",
+        "options": [
+            " Dễ hiểu và không cần phải học thêm",
+            " Không cần phải viết code",
+            " Liên kết giữa thuật toán và ngôn ngữ lập trình",
+            " Tất cả các câu trên đều đúng"
+        ],
+        "correct_answer": " Liên kết giữa thuật toán và ngôn ngữ lập trình"
+    },
+    {
+        "question": "Câu 38: Đâu là quy tắc đặt tên sai:",
+        "options": [
+            " Tên là một dãy các ký tự bao gồm chữ cái, số và gạch nối",
+            " Ký tự đầu tiên của tên phải là chữ hoặc gạch nối",
+            " Ký tự đầu tiên của tên phải là chữ số",
+            " Độ dài cực đại của tên theo mặc định là 32 ký tự"
+        ],
+        "correct_answer": " Ký tự đầu tiên của tên phải là chữ số"
+    },
+    {
+        "question": "Câu 39: Phép toán nhân trong C được ký hiệu là gì?",
+        "options": [
+            " /",
+            " %",
+            " *",
+            " +"
+        ],
+        "correct_answer": " *"
+    },
+    {
+        "question": "Câu 40: Để nhập vào một chuỗi ký tự, hàm nào được sử dụng?",
+        "options": [
+            " scanf(\"%s\", str);",
+            " printf(\"%s\", str);",
+            " gets(&str);",
+            " puts(str);"
+        ],
+        "correct_answer": " scanf(\"%s\", str);"
+    },
+    {
+        "question": "Câu 41: Điều gì xảy ra nếu điều kiện trong câu lệnh if sai?",
+        "options": [
+            " Câu lệnh if vẫn được thực hiện",
+            " Câu lệnh else (nếu có) được thực hiện",
+            " Chương trình kết thúc",
+            " Không có câu lệnh nào được thực hiện"
+        ],
+        "correct_answer": " Câu lệnh else (nếu có) được thực hiện"
+    },
+    {
+        "question": "Câu 42: Đoạn mã sau sẽ in ra gì? for (int i = 0; i < 10; i += 2) { printf(\"%d \", i); }",
+        "options": [
+            " 0 1 2 3 4 5 6 7 8 9",
+            " 1 3 5 7 9",
+            " 0 2 4 6 8 10",
+            " 0 2 4 6 8"
+        ],
+        "correct_answer": " 0 2 4 6 8"
+    },
+    {
+        "question": "Câu 43: Hệ đếm nhị phân (2) có những con số là:",
+        "options": [
+            " 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+            " 0, 1",
+            " 0, 1, 2, 3",
+            " Tất cả các câu trên đều sai"
+        ],
+        "correct_answer": " 0, 1"
+    },
+    {
+        "question": "Câu 44: Trong C, tên bằng chữ thường và chữ hoa là:",
+        "options": [
+            " Khác nhau (A)",
+            " Giống nhau (B)",
+            " Không có quy định (C)",
+            " Cả đáp án B và C đều đúng"
+        ],
+        "correct_answer": " Khác nhau (A)"
+    },
+    {
+        "question": "Câu 45: Phép toán logic OR trong C được ký hiệu là gì?",
+        "options": [
+            " &&",
+            " ||",
+            " !",
+            " ~"
+        ],
+        "correct_answer": " ||"
+    },
+    {
+        "question": "Câu 46: Ký tự điều khiển nào được sử dụng để in ra dấu \\?",
+        "options": [
+            " \"",
+            " \\t",
+            " \\n",
+            " \\"
+        ],
+        "correct_answer": " \\"
+    },
+    {
+        "question": "Câu 47: Cú pháp đúng của câu lệnh if lồng nhau là gì?",
+        "options": [
+            " if (condition1) { if (condition2) { statements } }",
+            " if (condition1) if (condition2) { statements }",
+            " if (condition1) { if (condition2) statements; }",
+            " if (condition1) if (condition2) statements;"
+        ],
+        "correct_answer": " if (condition1) { if (condition2) { statements } }"
+    },
+    {
+        "question": "Câu 48: Phát biểu nào sau đây là đúng về vòng lặp for trong C?",
+        "options": [
+            " Vòng lặp for có thể không có điều kiện kiểm tra",
+            " Vòng lặp for không thể lồng nhau",
+            " Vòng lặp for phải có đầy đủ ba phần (khởi tạo, điều kiện, tăng/giảm)",
+            " Vòng lặp for không thể chạy vô hạn"
+        ],
+        "correct_answer": " Vòng lặp for có thể không có điều kiện kiểm tra"
+    },
+    {
+        "question": "Câu 49: Hệ đếm thập phân (10) có những con số là:",
+        "options": [
+            " 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+            " 0, 1",
+            " 0, 1, 2, 3",
+            " Tất cả các câu trên đều sai"
+        ],
+        "correct_answer": " 0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+        "question": "Câu 50: Trong C, ta thường dùng chữ hoa để đặt tên cho các:",
+        "options": [
+            " Hằng",
+            " Biến",
+            " Mảng",
+            " Hàm"
+        ],
+        "correct_answer": " Hằng"
+    },
+    {
+        "question": "Câu 51: Phép toán tăng trong C được ký hiệu là gì?",
+        "options": [
+            " –",
+            " ++",
+            " -=",
+            " +="
+        ],
+        "correct_answer": " ++"
+    },
+    {
+        "question": "Câu 52: Hàm printf được dùng để làm gì?",
+        "options": [
+            " Để nhập dữ liệu từ bàn phím",
+            " Để tính toán giá trị",
+            " Để in dữ liệu ra màn hình",
+            " Để lưu trữ dữ liệu"
+        ],
+        "correct_answer": " Để in dữ liệu ra màn hình"
+    },
+    {
+        "question": "Câu 53: Câu lệnh else if được sử dụng để làm gì?",
+        "options": [
+            " Kết thúc chuỗi câu lệnh if",
+            " Kiểm tra một điều kiện khác nếu điều kiện if ban đầu sai",
+            " Thực hiện vòng lặp",
+            " Khai báo biến"
+        ],
+        "correct_answer": " Kiểm tra một điều kiện khác nếu điều kiện if ban đầu sai"
+    },
+    {
+        "question": "Câu 54: Đoạn mã sau sẽ in ra gì? for (int i = 0, j = 10; i < j; i++, j--) { printf(\"%d %d \", i, j); }",
+        "options": [
+            " 0 10 1 9 2 8 3 7",
+            " 0 10 1 9 2 8 3",
+            " 0 10 1 9 2 8 3 7",
+            " 0 10 1 9 2 8 3 7 4 6"
+        ],
+        "correct_answer": " 0 10 1 9 2 8 3 7 4 6"
+    },
+    {
+        "question": "Câu 55: Cấu trúc cơ bản của một chương trình C bao gồm:",
+        "options": [
+            " Khai báo biến, lệnh nhập/xuất, vòng lặp",
+            " Câu lệnh tiền xử lý, các hàm,  các biến, câu lệnh và biểu thức",
+            " Khai báo hàm, khai báo biến, lệnh thực thi",
+            " Tất cả các câu trên đều đúng"
+        ],
+        "correct_answer": " Câu lệnh tiền xử lý, các hàm,  các biến, câu lệnh và biểu thức"
+    },
+    {
+        "question": "Câu 56: Đâu không phải là tập ký tự dùng trong ngôn ngữ C:",
+        "options": [
+            " 26 chữ cái hoa",
+            " 26 chữ cái thường",
+            " 10 chữ số",
+            " Ký tự dấu  (Delta)"
+        ],
+        "correct_answer": " Ký tự dấu  (Delta)"
+    },
+    {
+        "question": "Câu 57: Phép toán lấy địa chỉ của một biến trong C được ký hiệu là gì?",
+        "options": [
+            " *",
+            " &",
+            " %",
+            " #"
+        ],
+        "correct_answer": " &"
+    },
+    {
+        "question": "Câu 58: Đoạn mã printf(\"%c\", 'A'); sẽ in ra gì?",
+        "options": [
+            " %c",
+            " 65",
+            " A",
+            " 'A'"
+        ],
+        "correct_answer": " A"
+    },
+    {
+        "question": "Câu 59: Cú pháp đúng của câu lệnh if...else if trong C là gì?",
+        "options": [
+            " if (condition1) { statements } else if (condition2) { statements }",
+            " if (condition1) { statements } else if (condition2) { statements } else { statements }",
+            " if (condition1) { statements else if (condition2) { statements }",
+            " if (condition1) { statements; else if (condition2) { statements }"
+        ],
+        "correct_answer": " if (condition1) { statements } else if (condition2) { statements } else { statements }"
+    },
+    {
+        "question": "Câu 60: Đoạn mã sau có lỗi gì không? for (int i = 0; i < 5; i++) { printf(\"%d \", i); } printf(\"%d\", i);",
+        "options": [
+            " Không có lỗi, chương trình chạy bình thường",
+            " Lỗi, biến i không tồn tại ngoài vòng lặp",
+            " Lỗi, thiếu dấu chấm phẩy",
+            " Không có lỗi, nhưng không in ra gì"
+        ],
+        "correct_answer": " Lỗi, biến i không tồn tại ngoài vòng lặp"
+    },
+    {
+        "question": "Câu 61: Đoạn mã scanf(\"%f\", &a); dùng để nhập loại dữ liệu nào?",
+        "options": [
+            " Số nguyên",
+            " Số thực",
+            " Ký tự",
+            " Chuỗi"
+        ],
+        "correct_answer": " Số thực"
+    },
+    {
+        "question": "Câu 62: Biểu thức nào dưới đây là đúng cho câu lệnh if?",
+        "options": [
+            " if (a > b) { printf(\"a lớn hơn b\"); }",
+            " if a > b { printf(\"a lớn hơn b\"); }",
+            " if (a > b) printf(\"a lớn hơn b\");",
+            " if a > b printf(\"a lớn hơn b\");"
+        ],
+        "correct_answer": " if (a > b) { printf(\"a lớn hơn b\"); }"
+    },
+    {
+        "question": "Câu 63: Đoạn mã sau sẽ in ra kết quả là gì? int sum = 0; for (int i = 1; i <= 5; i++) { sum += i; } printf(\"%d\", sum);",
+        "options": [
+            " 15",
+            " 10",
+            " 5",
+            " 20"
+        ],
+        "correct_answer": " 15"
+    },
+    {
+        "question": "Câu 64: Ký tự điều khiển nào để Canh cột tab ngang",
+        "options": [
+            " \\t",
+            " \\n",
+            " \\r",
+            " \\a"
+        ],
+        "correct_answer": " \\t"
+    },
+    {
+        "question": "Câu 65: Biểu thức nào dưới đây là đúng cho câu lệnh if...else?",
+        "options": [
+            " if (a > b) printf(\"a lớn hơn b\"); else printf(\"a nhỏ hơn hoặc bằng b\");",
+            " if (a > b) { printf(\"a lớn hơn b\"); } else { printf(\"a nhỏ hơn hoặc bằng b\"); }",
+            " if (a > b) printf(\"a lớn hơn b\") else printf(\"a nhỏ hơn hoặc bằng b\");",
+            " if (a > b) { printf(\"a lớn hơn b\") } else { printf(\"a nhỏ hơn hoặc bằng b\") }"
+        ],
+        "correct_answer": " if (a > b) { printf(\"a lớn hơn b\"); } else { printf(\"a nhỏ hơn hoặc bằng b\"); }"
+    },
+    {
+        "question": "Câu 66: Vòng lặp for nào sau đây sẽ in ra các số chẵn từ 2 đến 10?",
+        "options": [
+            " for (int i = 1; i < 10; i++) { if (i % 2 == 0) printf(\"%d \", i); }",
+            " for (int i = 2; i <= 10; i += 2) printf(\"%d \", i);",
+            " for (int i = 2; i < 10; i += 2) printf(\"%d \", i);",
+            " for (int i = 0; i <= 10; i += 2) printf(\"%d \", i);"
+        ],
+        "correct_answer": " for (int i = 2; i <= 10; i += 2) printf(\"%d \", i);"
+    },
+    {
+        "question": "Câu 67: Để in ra số nguyên không dấu, mã định dạng nào được sử dụng?",
+        "options": [
+            " %d",
+            " %f",
+            " %u",
+            " %c"
+        ],
+        "correct_answer": " %u"
+    },
+    {
+        "question": "Câu 68: Câu lệnh if có thể lồng nhau đến mức độ nào?",
+        "options": [
+            " Không giới hạn",
+            " 2 mức",
+            " 3 mức",
+            " 4 mức"
+        ],
+        "correct_answer": " Không giới hạn"
+    },
+    {
+        "question": "Câu 69: Đoạn mã sau sẽ in ra kết quả là gì? for (int i = 0; i < 5; i++) { if (i == 3) continue; printf(\"%d \", i); }",
+        "options": [
+            " 0 1 2 3 4",
+            " 0 1 3 4",
+            " 0 1 2 4",
+            " 0 1 2 3"
+        ],
+        "correct_answer": " 0 1 2 4"
+    },
+    {
+        "question": "Câu 70: Ký tự điều khiển nào được sử dụng để phát ra tiếng kêu bip?",
+        "options": [
+            " \\t",
+            " \\n",
+            " \\",
+            " \\a"
+        ],
+        "correct_answer": " \\a"
+    },
+    {
+        "question": "Câu 71: Điều kiện nào dưới đây luôn là true?",
+        "options": [
+            " if (1)",
+            " if (0)",
+            " if (-1)",
+            " if (NULL)"
+        ],
+        "correct_answer": " if (1)"
+    },
+    {
+        "question": "Câu 72: Điều gì xảy ra nếu điều kiện trong câu lệnh for luôn đúng?",
+        "options": [
+            " Vòng lặp thực hiện một lần rồi dừng",
+            " Vòng lặp thực hiện vô hạn",
+            " Vòng lặp không bao giờ thực hiện",
+            " Vòng lặp thực hiện hai lần rồi dừng"
+        ],
+        "correct_answer": " Vòng lặp thực hiện vô hạn"
+    },
+    {
+        "question": "Câu 73: Hàm printf có thể xuất ra những loại dữ liệu nào?",
+        "options": [
+            " Số nguyên",
+            " Số thực",
+            " Chuỗi",
+            " Tất cả các loại trên"
+        ],
+        "correct_answer": " Tất cả các loại trên"
+    },
+    {
+        "question": "Câu 74: Câu lệnh nào dưới đây là đúng?",
+        "options": [
+            " if (a == b) { statements } else if (a > b) { statements } else { statements }",
+            " if (a == b) { statements else { statements } else if (a > b) { statements }",
+            " if (a == b) { statements else if (a > b) { statements } else { statements }",
+            " if (a == b) { statements } else if (a > b) { statements else { statements }"
+        ],
+        "correct_answer": " if (a == b) { statements } else if (a > b) { statements } else { statements }"
+    },
+    {
+        "question": "Câu 75: Trong câu lệnh for (int i = 0; i < 10; i++), biến i có phạm vi gì?",
+        "options": [
+            " Toàn cục",
+            " Cục bộ trong vòng lặp",
+            " Cục bộ trong hàm",
+            " Không xác định"
+        ],
+        "correct_answer": " Cục bộ trong vòng lặp"
+    },
+    {
+        "question": "Câu 76: Câu nào sau đây đúng về cấu trúc lặp while?",
+        "options": [
+            " while chỉ có thể sử dụng với một lệnh đơn",
+            " while có thể sử dụng với một lệnh hoặc một khối lệnh",
+            " while chỉ sử dụng được với các biểu thức số học",
+            " while không thể sử dụng với lệnh goto"
+        ],
+        "correct_answer": " while có thể sử dụng với một lệnh hoặc một khối lệnh"
+    },
+    {
+        "question": "Câu 77: Khi nào máy sẽ ra khỏi chu trình while?",
+        "options": [
+            " Khi biểu thức điều kiện là một số âm",
+            " Khi biểu thức điều kiện bằng 0",
+            " Khi biểu thức điều kiện là một số dương",
+            " Khi biểu thức điều kiện là một số lẻ"
+        ],
+        "correct_answer": " Khi biểu thức điều kiện bằng 0"
+    },
+    {
+        "question": "Câu 78: Câu nào sau đây đúng về toán tử while?",
+        "options": [
+            " while không thể chứa các biểu thức phức tạp",
+            " while không thể lồng nhau",
+            " while có thể chứa một dãy biểu thức phân cách nhau bởi dấu phảy",
+            " while không thể sử dụng với lệnh return"
+        ],
+        "correct_answer": " while có thể chứa một dãy biểu thức phân cách nhau bởi dấu phảy"
+    },
+    {
+        "question": "Câu 79: Lệnh break trong vòng lặp while có tác dụng gì?",
+        "options": [
+            " Dừng vòng lặp hiện tại và tiếp tục vòng lặp bên ngoài",
+            " Dừng vòng lặp hiện tại và thoát khỏi chương trình",
+            " Dừng vòng lặp hiện tại và nhảy đến vị trí được chỉ định",
+            " Dừng vòng lặp hiện tại và thoát khỏi vòng lặp bên trong nhất chứa nó"
+        ],
+        "correct_answer": " Dừng vòng lặp hiện tại và thoát khỏi vòng lặp bên trong nhất chứa nó"
+    },
+    {
+        "question": "Câu 80: Câu nào sau đây đúng về lệnh continue trong while?",
+        "options": [
+            " Lệnh continue dừng vòng lặp và thoát khỏi chương trình",
+            " Lệnh continue bỏ qua phần còn lại của vòng lặp hiện tại và bắt đầu vòng mới",
+            " Lệnh continue chuyển điều khiển đến vị trí được chỉ định",
+            " Lệnh continue không thể sử dụng trong vòng lặp while"
+        ],
+        "correct_answer": " Lệnh continue bỏ qua phần còn lại của vòng lặp hiện tại và bắt đầu vòng mới"
+    }
+]
