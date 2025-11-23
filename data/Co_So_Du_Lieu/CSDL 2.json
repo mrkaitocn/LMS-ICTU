@@ -1,0 +1,619 @@
+[
+    {
+        "question": "Câu 1: Hệ quản trị cơ sở dữ liệu là gì ?",
+        "options": [
+            " là phần mềm cho phép định nghĩa các cấu trúc để lưu trữ dữ liệu và các thao tác trên dữ liệu sao cho đảm bảo sự an toàn và bí mật của dữ liệu",
+            " là phần mềm cho phép định nghĩa các cấu trúc để lưu trữ dữ liệu và bí mật của dữ liệu",
+            " là phần mềm cho phép định nghĩa các cấu trúc để lưu trữ dữ liệu và các thao tác trên dữ liệu",
+            " là phần mềm để lưu trữ dữ liệu và các thao tác trên dữ liệu sao cho đảm bảo sự an toàn và bí mật của dữ liệu"
+        ],
+        "correct_answer": " là phần mềm cho phép định nghĩa các cấu trúc để lưu trữ dữ liệu và các thao tác trên dữ liệu sao cho đảm bảo sự an toàn và bí mật của dữ liệu"
+    },
+    {
+        "question": "Câu 2: Cho biết cú pháp của lệnh tạo bảng nào sau đây là đúng.",
+        "options": [
+            " CREATE TABLE  <Tên_CSDL>(< Tên_cột_1> <Kiểu_dữ_liệu> [ràng_buộc_cột],< Tên_cột _2> <Kiểu_dữ_liệu> [ràng_buộc_cột], ………,< Tên_cột _n> <Kiểu_dữ_liệu> [ràng_buộc_cột][ < Ràng_buộc_bảng  >] )",
+            " CREATE TABLE  <Tên_bảng>(< Tên_cột_1> <Kiểu_dữ_liệu> [độ rộng],< Tên_cột _2> <Kiểu_dữ_liệu> [độ rộng], ………,< Tên_cột _n> <Kiểu_dữ_liệu> [độ rộng]",
+            " CREATE TABLE  <Tên_bảng>(< Tên_cột_1> <Kiểu_dữ_liệu> [ràng_buộc_cột],< Tên_cột _2> <Kiểu_dữ_liệu> [ràng_buộc_cột], ………,< Tên_cột _n> <Kiểu_dữ_liệu> [ràng_buộc_cột][ < Ràng_buộc_bảng  >] )",
+            " CREATE TABLE  <Tên_bảng>(< Tên_cột_1> <Kiểu_dữ_liệu> [ràng_buộc_bảng],< Tên_cột _2> <Kiểu_dữ_liệu> [ràng_buộc_bảng], ………,< Tên_cột _n> <Kiểu_dữ_liệu> [ràng_buộc_bảng][ < Ràng_buộc_cột >] )"
+        ],
+        "correct_answer": " CREATE TABLE  <Tên_bảng>(< Tên_cột_1> <Kiểu_dữ_liệu> [ràng_buộc_cột],< Tên_cột _2> <Kiểu_dữ_liệu> [ràng_buộc_cột], ………,< Tên_cột _n> <Kiểu_dữ_liệu> [ràng_buộc_cột][ < Ràng_buộc_bảng  >] )"
+    },
+    {
+        "question": "Câu 3: Ngôn ngữ thao tác dữ liệu gồm các câu lệnh sau:",
+        "options": [
+            " SELECT, INSERT, UPDATE, DROP",
+            " SELECT, INSERT, UPDATE, DELETE",
+            " SELECT, INSERT, ALTER, DELETE",
+            " SELECT, INSERT, ALTER, DROP"
+        ],
+        "correct_answer": " SELECT, INSERT, UPDATE, DELETE"
+    },
+    {
+        "question": "Câu 4: Truy vấn lồng được sử dụng để:",
+        "options": [
+            " biểu diễn cho những truy vấn trong đó điều kiện truy vấn dữ liệu cần phải sử dụng đến kết quả của một truy vấn khác",
+            " biểu diễn cho những truy vấn",
+            " lồng vào bên trong một câu lệnh khác",
+            " truy vấn dữ liệu khi cần sử dụng đến kết quả của một truy vấn khác"
+        ],
+        "correct_answer": " biểu diễn cho những truy vấn trong đó điều kiện truy vấn dữ liệu cần phải sử dụng đến kết quả của một truy vấn khác"
+    },
+    {
+        "question": "Câu 5: SQL Server là :",
+        "options": [
+            " hỗ trợ tính năng cho phép nhiều người dùng truy nhập dữ liệu",
+            " có thể lưu một lượng lớn dữ liệu",
+            " một hệ CSDL có khả năng mở rộng",
+            " thực hiện các chức năng cấu hình"
+        ],
+        "correct_answer": " một hệ CSDL có khả năng mở rộng"
+    },
+    {
+        "question": "Câu 6: Ràng buộc cột là:",
+        "options": [
+            " chọn một kiểu dữ liệu sao cho phù hợp nhất với dữ liệu người dùng sẽ nhập vào.",
+            " do người dùng tự đặt",
+            " phải khai báo qua ràng buộc bảng Constraint",
+            " các ràng buộc về khóa, ràng buộc mặc định, hoặc các quy định về khuôn dạng dữ liệu"
+        ],
+        "correct_answer": " các ràng buộc về khóa, ràng buộc mặc định, hoặc các quy định về khuôn dạng dữ liệu"
+    },
+    {
+        "question": "Câu 7: Trong SQL, ngôn ngữ thao tác dữ liệu  bao gồm các chức năng:",
+        "options": [
+            " Tạo, sửa và xóa cấu trúc  và đảm bảo bảo mật và quyền truy nhập",
+            " Tạo, sửa và xóa cấu trúc quan hệ",
+            " Bảo mật và quyền truy nhập",
+            " Truy vấn thông tin, thêm, sửa, xoá dữ liệu"
+        ],
+        "correct_answer": " Truy vấn thông tin, thêm, sửa, xoá dữ liệu"
+    },
+    {
+        "question": "Câu 8: Câu truy vấn con được sử dụng để làm gì?",
+        "options": [
+            " Để thực hiện các phép toán trên tập dữ liệu",
+            " Để biểu diễn các điều kiện dựa trên kết quả của một truy vấn khác",
+            " Để thay thế các câu lệnh DELETE",
+            " Để cập nhật cấu trúc bảng"
+        ],
+        "correct_answer": " Để thực hiện các phép toán trên tập dữ liệu"
+    },
+    {
+        "question": "Câu 9: Ngôn ngữ định nghĩa dữ liệu được viết tắt là:",
+        "options": [
+            " DML",
+            " DDL",
+            " DQL",
+            " DCL"
+        ],
+        "correct_answer": " DDL"
+    },
+    {
+        "question": "Câu 10: Ràng buộc khoá chính là:",
+        "options": [
+            " chọn một kiểu dữ liệu sao cho phù hợp nhất với dữ liệu người dùng sẽ nhập vào.",
+            " nếu khoá chính có từ 2 trường trở lên bắt buộc phải khai báo qua ràng buộc bảng Constraint",
+            " phải khai báo qua ràng buộc bảng Constraint",
+            " một số các ràng buộc về khóa, ràng buộc mặc định, hoặc các quy định về khuôn dạng dữ liệu"
+        ],
+        "correct_answer": " nếu khoá chính có từ 2 trường trở lên bắt buộc phải khai báo qua ràng buộc bảng Constraint"
+    },
+    {
+        "question": "Câu 11: Trong câu lệnh truy vấn xuất hiện mệnh đề ORDER BY khi và chỉ khi:",
+        "options": [
+            " Cần sắp xếp theo một trật tự trong một cơ sở dữ liệu",
+            " Cần sắp xếp bảng kết quả của câu truy vấn theo một trật tự nào đó",
+            " Cần phân hạch dữ liệu thành các nhóm dữ liệu",
+            " Cần phân hoạch dữ liệu theo một trật tự nào đó"
+        ],
+        "correct_answer": " Cần sắp xếp bảng kết quả của câu truy vấn theo một trật tự nào đó"
+    },
+    {
+        "question": "Câu 12: Trong một câu truy vấn con, toán tử BETWEEN không thể được sử dụng trực tiếp. Tuy nhiên, điều này có thể được thực hiện như thế nào?",
+        "options": [
+            " Sử dụng toán tử BETWEEN trong truy vấn cha",
+            " Kết hợp BETWEEN với GROUP BY",
+            " Sử dụng BETWEEN bên trong truy vấn con",
+            " Sử dụng toán tử IN thay cho BETWEEN"
+        ],
+        "correct_answer": " Sử dụng toán tử BETWEEN trong truy vấn cha"
+    },
+    {
+        "question": "Câu 13: Ngôn ngữ định nghĩa dữ liệu được dùng để:",
+        "options": [
+            " định nghĩa cấu trúc của các đối tượng CSDL",
+            " thay đổi cấu trúc của các đối tượng CSDL",
+            " xóa cấu trúc của các đối tượng CSDL",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 14: Cú pháp của ràng buộc khoá chính là:",
+        "options": [
+            " Constraint <Tên ràng buộc bảng> Foreign key (Tên trường làm khóa chính) References <Tên bảng liên kết>(Tên trường)B.Constraint <Tên ràng buộc cột> Primary key (DS khóa chính)",
+            " Constraint <Tên ràng buộc bảng> Primary key (DS trường làm khóa chính)",
+            " Constraint <Tên ràng buộc cột> Foreign key (Tên trường làm khóa chính) References <Tên bảng liên kết>(Tên trường)"
+        ],
+        "correct_answer": " Constraint <Tên ràng buộc bảng> Primary key (DS trường làm khóa chính)"
+    },
+    {
+        "question": "Câu 15: Mệnh đề dùng để liệt kê các bảng dữ liệu có liên quan đến câu truy vấn dữ liệu là:",
+        "options": [
+            " SELECT",
+            " FROM",
+            " WHERE",
+            " GROUP BY"
+        ],
+        "correct_answer": " FROM"
+    },
+    {
+        "question": "Câu 16: Tại sao các truy vấn con phải được bao trong dấu ngoặc đơn ()?",
+        "options": [
+            " Để tách biệt chúng khỏi truy vấn chính và tránh nhầm lẫn cú pháp",
+            " Để tăng hiệu suất của câu lệnh",
+            " Để truy vấn con được thực thi cuối cùng",
+            " Để hạn chế việc sử dụng nhiều câu lệnh SQL khác nhau"
+        ],
+        "correct_answer": " Để tách biệt chúng khỏi truy vấn chính và tránh nhầm lẫn cú pháp"
+    },
+    {
+        "question": "Câu 17: Ngôn ngữ định nghĩa dữ liệu được dùng để:",
+        "options": [
+            " định nghĩa cấu trúc của các đối tượng CSDL",
+            " thay đổi cấu trúc của các đối tượng CSDL",
+            " xóa cấu trúc của các đối tượng CSDL",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 18: Cú pháp của ràng buộc khoá ngoài là:",
+        "options": [
+            " Constraint <Tên ràng buộc bảng> Foreign key (Tên trường làm khóa ngoài) References <Tên bảng liên kết>",
+            " Constraint <Tên ràng buộc cột> Primary key (DS khóa ngoài)",
+            " Constraint <Tên ràng buộc bảng> Primary key (DS trường làm khóa chính)",
+            " Constraint <Tên ràng buộc bảng> Foreign key (Tên trường làm khóa ngoài) References <Tên bảng liên kết>(Tên trường liên kết)"
+        ],
+        "correct_answer": " Constraint <Tên ràng buộc bảng> Foreign key (Tên trường làm khóa ngoài) References <Tên bảng liên kết>(Tên trường liên kết)"
+    },
+    {
+        "question": "Câu 19: Từ khoá DISTINCT trong câu lệnh truy vấn dùng để:",
+        "options": [
+            " Loại bỏ các quan hệ trùng lặp",
+            " Loại bỏ các thuộc tính trùng lặp",
+            " Loại bỏ các bản ghi trùng lặp",
+            " Loại bỏ các giá trị trùng lặp"
+        ],
+        "correct_answer": " Loại bỏ các bản ghi trùng lặp"
+    },
+    {
+        "question": "Câu 20: Toán tử nào được sử dụng để kiểm tra giá trị nằm trong danh sách trả về từ câu truy vấn con?",
+        "options": [
+            " LIKE",
+            " IN",
+            " BETWEEN",
+            " EXISTS"
+        ],
+        "correct_answer": " IN"
+    },
+    {
+        "question": "Câu 21: SQL là viết tắt của các từ khoá nào sau đây?",
+        "options": [
+            " System Quote Language",
+            " Structured Query Language",
+            " Structured Quote Language",
+            " Structured Query Lookup"
+        ],
+        "correct_answer": " Structured Query Language"
+    },
+    {
+        "question": "Câu 22: Lệnh sửa đổi cấu trúc bảng dữ liệu gồm:",
+        "options": [
+            " Thêm cột mới",
+            " Thêm ràng buộc bảng, Xoá ràng buộc bảng",
+            " Xoá bảng, xoá cột",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 23: Trong câu truy vấn, khi so sánh gần đúng (áp dụng với kiểu xâu ký tự) ta phải dùng toán tử :",
+        "options": [
+            " BETWEEN....AND",
+            " IN hoặc NOT IN",
+            " LIKE hoặc NOT LIKE",
+            " = (dấu bằng)"
+        ],
+        "correct_answer": " LIKE hoặc NOT LIKE"
+    },
+    {
+        "question": "Câu 24: Điều nào đúng với câu truy vấn con?",
+        "options": [
+            " Phải có mệnh đề ORDER BY",
+            " Phải được bao trong dấu ngoặc đơn ()",
+            " Phải được thực hiện sau câu lệnh chính",
+            " Không được sử dụng trong lệnh DELETE"
+        ],
+        "correct_answer": " Phải được bao trong dấu ngoặc đơn ()"
+    },
+    {
+        "question": "Câu 25: Lệnh USE dùng để làm gì?",
+        "options": [
+            " định danh đối tượng",
+            " định nghĩa đối tượng con trỏ, khai báo biến, cấu trúc rẽ nhánh, vòng lặp, bẫy lỗi",
+            " thay đổi ngữ cảnh CSDL để chỉ định CSDL hiện hành mà các câu lệnh tiếp theo sẽ có tác dụng trên đó",
+            " định nghĩa bảng, chèn, xóa, thay đổi và truy cập dữ liệu trong bảng"
+        ],
+        "correct_answer": " thay đổi ngữ cảnh CSDL để chỉ định CSDL hiện hành mà các câu lệnh tiếp theo sẽ có tác dụng trên đó"
+    },
+    {
+        "question": "Câu 26: Cho biết cú pháp của lệnh thêm cột mới.",
+        "options": [
+            " ALTER TABLE <table_name>ADD <table_contraint>",
+            " ALTER TABLE <table_name>ADD <column_name> <data_type>  [column_contraint], [… n]",
+            " ALTER TABLE <table_name>DROP <column_name>[,…n]D.ALTER TABLE <table_name>DROP  CONSTRAINT<Contraint_name>[…,n]"
+        ],
+        "correct_answer": " ALTER TABLE <table_name>ADD <column_name> <data_type>  [column_contraint], [… n]"
+    },
+    {
+        "question": "Câu 27: Mệnh đề HAVING là mệnh đề gì ?",
+        "options": [
+            " điều kiện hoạt động giống mệnh đề WHERE",
+            " điều kiện,  lọc dữ liệu theo từng hàng trong bảng",
+            " điều kiện nhóm, lọc dữ liệu theo từng bản ghi",
+            " điều kiện nhóm, lọc dữ liệu theo từng nhóm"
+        ],
+        "correct_answer": " điều kiện nhóm, lọc dữ liệu theo từng nhóm"
+    },
+    {
+        "question": "Câu 28: Câu truy vấn con không thể chứa mệnh đề nào sau đây?",
+        "options": [
+            " ORDER BY   #",
+            " GROUP BY",
+            " WHERE",
+            " HAVING"
+        ],
+        "correct_answer": null
+    },
+    {
+        "question": "Câu 29: T-SQL có các loại hàm nào sau đây?",
+        "options": [
+            " Các hàm tập hợp, hàm ký tự, hàm ngày tháng",
+            " Hàm toán học, hàm chuyển đổi kiểu dữ liệu",
+            " Các hàm hệ thống, hàm xếp hạng",
+            " Tất cả các phương án trên"
+        ],
+        "correct_answer": " Tất cả các phương án trên"
+    },
+    {
+        "question": "Câu 30: Cho biết cú pháp của lệnh thêm ràng buộc bảng.",
+        "options": [
+            " ALTER TABLE <table_name>ADD <table_contraint>",
+            " ALTER TABLE <table_name>ADD <column_name> <data_type>  [column_contraint], [… n]",
+            " ALTER TABLE <table_name>DROP <column_name>[,…n]",
+            " ALTER TABLE <table_name>DROP  CONSTRAINT<Contraint_name>[…,n]"
+        ],
+        "correct_answer": " ALTER TABLE <table_name>ADD <table_contraint>"
+    },
+    {
+        "question": "Câu 31: Tên các cột cần hiển thị trong kết quả của truy vấn cần phải đặt trong mệnh đề:",
+        "options": [
+            " SELECT",
+            " FROM",
+            " ORDER  BY",
+            " GROUP BY"
+        ],
+        "correct_answer": " SELECT"
+    },
+    {
+        "question": "Câu 32: Toán tử nào được sử dụng để so sánh nhiều giá trị trả về từ câu truy vấn con?",
+        "options": [
+            " =",
+            " LIKE",
+            " IN",
+            " BETWEEN"
+        ],
+        "correct_answer": " IN"
+    },
+    {
+        "question": "Câu 33: Hàm dùng để tính giá trị trung bình là :",
+        "options": [
+            " AVG(tên cột)",
+            " SUM(tên cột)",
+            " COUNT (*)",
+            " COUNT(tên cột)"
+        ],
+        "correct_answer": " AVG(tên cột)"
+    },
+    {
+        "question": "Câu 34: Cho biết cú pháp của lệnh xoá cột.",
+        "options": [
+            " ALTER TABLE <table_name>ADD <table_contraint>",
+            " ALTER TABLE <table_name>ADD <column_name> <data_type>  [column_contraint], [… n]",
+            " ALTER TABLE <table_name>DROP <column_name>[,…n]",
+            " ALTER TABLE <table_name>DROP  CONSTRAINT<Contraint_name>[…,n]"
+        ],
+        "correct_answer": " ALTER TABLE <table_name>DROP <column_name>[,…n]"
+    },
+    {
+        "question": "Câu 35: Trong câu lệnh truy vấn có mệnh đề HAVING luôn đi cùng và đứng sau mệnh đề:",
+        "options": [
+            " ORDER BY",
+            " WHERE",
+            " GROUP BY",
+            " SELECT"
+        ],
+        "correct_answer": " GROUP BY"
+    },
+    {
+        "question": "Câu 36: Câu lệnh truy vấn con có thể sử dụng trong các câu lệnh nào sau đây?",
+        "options": [
+            " SELECT, INSERT, UPDATE, DELETE",
+            " SELECT, CREATE, DROP",
+            " INSERT, DELETE, ALTER",
+            " SELECT, GRANT, REVOKE"
+        ],
+        "correct_answer": " SELECT, INSERT, UPDATE, DELETE"
+    },
+    {
+        "question": "Câu 37: Hàm COUNT(*) được dùng để :",
+        "options": [
+            " Đếm tổng số các giá trị khác rỗng",
+            " Đếm tổng số các bản ghi",
+            " Đếm tổng số các thuộc tính",
+            " Đếm tổng số các quan hệ"
+        ],
+        "correct_answer": " Đếm tổng số các bản ghi"
+    },
+    {
+        "question": "Câu 38: Cho biết cú pháp của lệnh xoá bảng.",
+        "options": [
+            " ALTER TABLE <table_name>ADD <table_contraint>B.DROP  Table  tablename",
+            " ALTER TABLE <table_name>DROP <column_name>[,…n]",
+            " ALTER TABLE <table_name>DROP  CONSTRAINT<Contraint_name>[…,n]"
+        ],
+        "correct_answer": " ALTER TABLE <table_name>ADD <table_contraint>B.DROP  Table  tablename"
+    },
+    {
+        "question": "Câu 39: Mệnh để dùng để sắp xếp bảng kết quả của câu truy vấn là gì ?",
+        "options": [
+            " ORDER BY",
+            " WHERE",
+            " GROUP BY",
+            " SELECT"
+        ],
+        "correct_answer": " ORDER BY"
+    },
+    {
+        "question": "Câu 40: Câu truy vấn con thường được đặt trong các mệnh đề nào của câu truy vấn chính?",
+        "options": [
+            " WHERE, HAVING, FROM",
+            " SELECT, INSERT, UPDATE",
+            " ORDER BY, GROUP BY",
+            " LIKE, IN, BETWEEN"
+        ],
+        "correct_answer": " WHERE, HAVING, FROM"
+    },
+    {
+        "question": "Câu 41: Hàm SUM() được dùng để:",
+        "options": [
+            " trả về tổng số của tất cả các giá trị  của trường dữ liệu trong biểu thức",
+            " đếm các giá trị khác NULL trong biểu thức",
+            " tính tổng tất cả các mẫu tin mà không quan tâm đến bất kỳ trường dữ liệu nào",
+            " trả về giá trị trung bình của tất cả các giá trị của trường dữ liệu được chỉ ra trong biểu thức"
+        ],
+        "correct_answer": " trả về tổng số của tất cả các giá trị  của trường dữ liệu trong biểu thức"
+    },
+    {
+        "question": "Câu 42: Để tạo một bảng mới trong cơ sở dữ liệu, lệnh nào sau đây là chính xác?",
+        "options": [
+            " CREATE DATABASE <Tên_bảng>",
+            " CREATE TABLE <Tên_bảng>",
+            " ADD TABLE <Tên_bảng>",
+            " NEW TABLE <Tên_bảng>"
+        ],
+        "correct_answer": " CREATE TABLE <Tên_bảng>"
+    },
+    {
+        "question": "Câu 43: Trong mệnh đề SELECT của lệnh truy vấn, Dấu * thay cho việc :",
+        "options": [
+            " liệt kê tất cả các bảng dữ liệu xuất hiện trong mệnh đề FROM",
+            " liệt kê tất cả các dữ liệu ở một bảng dữ liệu bất kỳ xuất hiện trong mệnh đề FROM",
+            " liệt kê tất cả các thuộc tính ở duy nhất một bảng dữ liệu xuất hiện trong mệnh đề FROM",
+            " liệt kê tất cả các thuộc tính ở các bảng dữ liệu xuất hiện trong mệnh đề FROM"
+        ],
+        "correct_answer": " liệt kê tất cả các thuộc tính ở các bảng dữ liệu xuất hiện trong mệnh đề FROM"
+    },
+    {
+        "question": "Câu 44: Hàm MAX() được dùng để:",
+        "options": [
+            " trả về tổng số của tất cả các giá trị  của trường dữ liệu trong biểu thức.",
+            " đếm các giá trị khác NULL trong biểu thức",
+            " trả về giá trị lớn nhất trong biểu thức",
+            " trả về giá trị nhỏ nhất trong biểu thức"
+        ],
+        "correct_answer": " trả về giá trị lớn nhất trong biểu thức"
+    },
+    {
+        "question": "Câu 45: Trong lệnh tạo bảng, nếu muốn đảm bảo rằng cột \"TenH\" không được để trống, ta sử dụng ràng buộc nào?",
+        "options": [
+            " NULL",
+            " UNIQUE",
+            " NOT NULL",
+            " PRIMARY KEY"
+        ],
+        "correct_answer": " NOT NULL"
+    },
+    {
+        "question": "Câu 46: Quy tắc khi truy vấn vào thuộc tính của một bảng dữ liệu là :",
+        "options": [
+            " [Tên bảng].[Tên thuộc tính]",
+            " [Tên thuộc tính].[ Tên bảng]",
+            " [Tên bảng]*[Tên thuộc tính]",
+            " [Tên thuộc tính]*[ Tên bảng]"
+        ],
+        "correct_answer": " [Tên bảng].[Tên thuộc tính]"
+    },
+    {
+        "question": "Câu 47: Chọn một khẳng định nào sau đây là đúng nhất.",
+        "options": [
+            " CREATE TABLE  tạo cấu trúc các kiểu dữ liệu",
+            " CREATE TABLE  tạo cấu trúc cơ sở dữ liệu",
+            " CREATE TABLE  tạo cấu trúc bảng dữ liệu",
+            " CREATE TABLE  tạo cấu trúc các ràng buộc dữ liệu"
+        ],
+        "correct_answer": " CREATE TABLE  tạo cấu trúc bảng dữ liệu"
+    },
+    {
+        "question": "Câu 48: Trong lệnh tạo bảng, trường nào sau đây có thể được sử dụng để tạo khóa chính?",
+        "options": [
+            " FOREIGN KEY",
+            " UNIQUE",
+            " PRIMARY KEY",
+            " NOT NULL"
+        ],
+        "correct_answer": " PRIMARY KEY"
+    },
+    {
+        "question": "Câu 49: Trong SQL, ngôn ngữ định nghĩa dữ liệu bao gồm các chức năng:",
+        "options": [
+            " Tạo, sửa và xóa cấu trúc cơ sở dữ liệu",
+            " Bảo mật và quyền truy nhập",
+            " Tạo, sửa và xóa cấu trúc quan hệ. Thêm cột, sửa cột và xoá cột",
+            " Tạo, sửa và xóa các bộ quan hệ. Bảo mật và quyền truy nhập"
+        ],
+        "correct_answer": " Tạo, sửa và xóa cấu trúc cơ sở dữ liệu"
+    },
+    {
+        "question": "Câu 50: Câu lệnh nào sẽ trả về tất cả thông tin từ bảng “Hang”?",
+        "options": [
+            " SELECT ALL FROM Hang;",
+            " SELECT * FROM Hang;",
+            " SHOW TABLE Hang;",
+            " GET * FROM Hang;"
+        ],
+        "correct_answer": " SELECT * FROM Hang;"
+    },
+    {
+        "question": "Câu 51: Hàm MIN() được dùng để:",
+        "options": [
+            " trả về tổng số của tất cả các giá trị  của trường dữ liệu trong biểu thức.",
+            " trả về các giá trị khác NULL trong biểu thức",
+            " trả về giá trị lớn nhất trong biểu thức",
+            " trả về giá trị nhỏ nhất trong biểu thức"
+        ],
+        "correct_answer": " trả về giá trị nhỏ nhất trong biểu thức"
+    },
+    {
+        "question": "Câu 52: Để tạo một bảng có tên là “SanPham” với cột “MaSP” là khóa chính, bạn sẽ sử dụng lệnh nào?",
+        "options": [
+            " CREATE TABLE SanPham (MaSP Char(5) PRIMARY KEY);",
+            " CREATE TABLE SanPham (MaSP Char(5));",
+            " CREATE TABLE SanPham (MaSP PRIMARY KEY Char(5));",
+            " CREATE SanPham (MaSP Char(5) PRIMARY KEY)"
+        ],
+        "correct_answer": " CREATE TABLE SanPham (MaSP Char(5) PRIMARY KEY);"
+    },
+    {
+        "question": "Câu 53: Đâu là cú pháp của câu lệnh USE ?",
+        "options": [
+            " USE <table_name>",
+            " USE <Tuple_name>",
+            " USE <create_name>",
+            " USE <database_name>"
+        ],
+        "correct_answer": " USE <database_name>"
+    },
+    {
+        "question": "Câu 54: Trong cú pháp tạo bảng, không được phép thiếu thành phần nào?",
+        "options": [
+            " Tên bảng",
+            " Tên cột",
+            " Kiểu dữ liệu",
+            " Tất cả các phần đều cần thiết"
+        ],
+        "correct_answer": " Tất cả các phần đều cần thiết"
+    },
+    {
+        "question": "Câu 55: Đâu là cú pháp của hàm tính tổng?",
+        "options": [
+            " SUM (biểu thức)",
+            " COUNT (biểu thức)",
+            " AVG (biểu thức)",
+            " MAX (biểu thức)"
+        ],
+        "correct_answer": " SUM (biểu thức)"
+    },
+    {
+        "question": "Câu 56: Câu lệnh nào sẽ xóa một cột có tên “SoLượng” khỏi bảng “Hang”?",
+        "options": [
+            " ALTER TABLE Hang DROP SoLuong;",
+            " DELETE COLUMN SoLuong FROM Hang;",
+            " DROP COLUMN SoLuong FROM Hang;",
+            " REMOVE SoLuong FROM Hang;"
+        ],
+        "correct_answer": " ALTER TABLE Hang DROP SoLuong;"
+    },
+    {
+        "question": "Câu 57: Đâu là cú pháp của hàm tính giá trị trung bình ?",
+        "options": [
+            " SUM (biểu thức)",
+            " COUNT (biểu thức)",
+            " AVG (biểu thức)",
+            " MAX (biểu thức)"
+        ],
+        "correct_answer": " AVG (biểu thức)"
+    },
+    {
+        "question": "Câu 58: Muốn thêm một cột \"MoTa\" vào bảng \"Hang\", câu lệnh SQL nào sẽ thực hiện điều đó?",
+        "options": [
+            " ALTER TABLE Hang ADD MoTa VarChar(255);",
+            " ALTER Hang ADD MoTa VarChar(255);",
+            " ADD COLUMN MoTa TO Hang;",
+            " INSERT INTO Hang (MoTa) VALUES (VarChar(255));"
+        ],
+        "correct_answer": " ALTER TABLE Hang ADD MoTa VarChar(255);"
+    },
+    {
+        "question": "Câu 59: 19 Đâu là cú pháp của hàm đếm ?",
+        "options": [
+            " SUM (biểu thức)",
+            " COUNT (biểu thức)",
+            " AVG (biểu thức)",
+            " MAX (biểu thức)"
+        ],
+        "correct_answer": " COUNT (biểu thức)"
+    },
+    {
+        "question": "Câu 60: Đâu là cú pháp của hàm trả về giá trị lớn nhất ?",
+        "options": [
+            " SUM (biểu thức)",
+            " COUNT (biểu thức)",
+            " AVG (biểu thức)",
+            " MAX (biểu thức)"
+        ],
+        "correct_answer": " MAX (biểu thức)"
+    },
+    {
+        "question": "Câu 61: Đâu là cú pháp của hàm trả về giá trị nhỏ nhất ?",
+        "options": [
+            " SUM (biểu thức)",
+            " MIN (biểu thức)",
+            " AVG (biểu thức)",
+            " MAX (biểu thức)"
+        ],
+        "correct_answer": " MIN (biểu thức)"
+    },
+    {
+        "question": "Câu 62: Đâu là câu lệnh tạo cơ sở dữ liệu QLBanHang ?",
+        "options": [
+            " Create Table QLyBanHang",
+            " Create Name QLyBanHang",
+            " Select Database QLyBanHang",
+            " Create Database QlyBanHang"
+        ],
+        "correct_answer": " Create Database QlyBanHang"
+    }
+]
